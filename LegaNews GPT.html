@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
-<title>MusicPulse — Brasil & Mundo</title>
+<title>LegaNews — Brasil & Mundo</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <style>
@@ -19,6 +19,22 @@ header {
   padding:20px;
   background:#111;
   border-bottom:1px solid #2a2a2a;
+}
+.card-wrapper {
+  position:relative;
+  max-width:780px;
+  width:100%;
+  margin-top:40px;
+}
+.card-logo {
+  position:absolute;
+  top:0;
+  left:50%;
+  transform:translate(-50%,-50%);
+  width:170px;
+  height:auto;
+  z-index:2;
+  filter:drop-shadow(0 4px 10px rgba(0,0,0,.5));
 }
 .live {
   color:#ff3b3b;
@@ -110,12 +126,14 @@ a:hover { text-decoration:underline; }
 <body>
 
 <header>
-  <h1>🎵 MusicPulse</h1>
   <div class="live">🔴 AO VIVO — Brasil em destaque • Mundo essencial</div>
 </header>
 
 <main>
-  <div id="card">Carregando notícias…</div>
+  <div class="card-wrapper">
+    <img src="logo-leganews.png" alt="LegaNews" class="card-logo">
+    <div id="card">Carregando notícias…</div>
+  </div>
   <div class="controls">
     <button id="nextBtn">▶ Próxima notícia</button>
   </div>
