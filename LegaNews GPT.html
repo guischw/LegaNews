@@ -6,140 +6,430 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <style>
+* { box-sizing:border-box; }
+html, body { height:100%; }
 body {
-  background:#0f0f0f;
+  background:#070707;
   color:#fff;
   font-family:Arial,sans-serif;
   margin:0;
   display:flex;
   flex-direction:column;
-  min-height:100vh;
+  overflow:hidden;
 }
-header {
-  padding:20px;
+
+/* ================= BARRA DE AJUSTES (fora do palco) ================= */
+#toolbar {
+  flex:0 0 auto;
+  display:flex;
+  flex-wrap:wrap;
+  align-items:center;
+  gap:8px;
+  padding:8px 12px;
+  background:#141414;
+  border-bottom:1px solid #262626;
+  font-size:13px;
+  color:#bbb;
+}
+#toolbar label { display:flex; align-items:center; gap:6px; }
+#toolbar select, #toolbar input {
+  background:#1f1f1f; color:#fff; border:1px solid #333; border-radius:6px;
+  padding:5px 8px; font-size:13px;
+}
+#toolbar input[type=number] { width:78px; }
+#toolbar .tb-btn {
+  background:#1f1f1f; border:1px solid #333; color:#ddd; padding:6px 10px;
+  border-radius:6px; font-size:12px; font-weight:bold; cursor:pointer;
+}
+#toolbar .tb-btn:hover { border-color:#ff3b3b; color:#fff; }
+#toolbar .tb-sep { flex:1; }
+#toolbar .tb-dim { color:#777; font-size:12px; }
+body.clean #toolbar { display:none; }
+
+/* ================= ÁREA + PALCO ================= */
+#area {
+  flex:1;
+  position:relative;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  min-height:0;
+  overflow:hidden;
+  background:
+    repeating-conic-gradient(#0c0c0c 0% 25%, #090909 0% 50%) 0 0 / 24px 24px;
+}
+#stage {
+  position:relative;
+  background:#0f0f0f;
+  display:flex;
+  flex-direction:column;
+  overflow:hidden;
+  container-type:size;
+  container-name:stage;
+  box-shadow:0 0 0 1px #2a2a2a, 0 10px 40px rgba(0,0,0,.6);
+}
+body.clean #stage { box-shadow:none; }
+
+/* alças de redimensionamento */
+.rz { position:absolute; z-index:20; }
+.rz-e { top:0; right:-6px; width:12px; height:100%; cursor:ew-resize; }
+.rz-w { top:0; left:-6px; width:12px; height:100%; cursor:ew-resize; }
+.rz-s { left:0; bottom:-6px; height:12px; width:100%; cursor:ns-resize; }
+.rz-n { left:0; top:-6px; height:12px; width:100%; cursor:ns-resize; }
+.rz-se { right:-8px; bottom:-8px; width:18px; height:18px; cursor:nwse-resize; }
+.rz-sw { left:-8px; bottom:-8px; width:18px; height:18px; cursor:nesw-resize; }
+.rz-ne { right:-8px; top:-8px; width:18px; height:18px; cursor:nesw-resize; }
+.rz-nw { left:-8px; top:-8px; width:18px; height:18px; cursor:nwse-resize; }
+.rz-se::after {
+  content:""; position:absolute; right:7px; bottom:7px; width:10px; height:10px;
+  border-right:2px solid #ff3b3b; border-bottom:2px solid #ff3b3b; opacity:.8;
+}
+body.clean .rz { display:none; }
+#sizeTip {
+  position:absolute; z-index:30; left:50%; top:50%; transform:translate(-50%,-50%);
+  background:rgba(0,0,0,.8); border:1px solid #ff3b3b; color:#fff; font-weight:bold;
+  padding:6px 12px; border-radius:6px; font-size:14px; pointer-events:none; display:none;
+}
+
+/* ================= CONTEÚDO (escala com o palco: unidades cqmin/cqw) ================= */
+#stage header {
+  padding:2.2cqmin 3cqmin;
   background:#111;
   border-bottom:1px solid #2a2a2a;
+  flex:0 0 auto;
+}
+.live {
+  color:#ff3b3b;
+  font-weight:bold;
+  font-size:max(11px, 2.6cqmin);
+}
+#stage main {
+  flex:1;
+  min-height:0;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  padding:3cqmin;
+  gap:2.4cqmin;
 }
 .card-wrapper {
   position:relative;
-  max-width:780px;
-  width:100%;
-  margin-top:40px;
+  width:min(100%, 150cqh);
+  margin-top:7cqmin;
 }
 .card-logo {
   position:absolute;
   top:0;
   left:50%;
   transform:translate(-50%,-50%);
-  width:170px;
+  width:max(80px, 22cqmin);
   height:auto;
   z-index:2;
   filter:drop-shadow(0 4px 10px rgba(0,0,0,.5));
 }
-.live {
-  color:#ff3b3b;
-  font-weight:bold;
-  margin-top:5px;
-}
-main {
-  flex:1;
-  display:flex;
-  flex-direction:column;
-  align-items:center;
-  justify-content:center;
-  padding:20px;
-  gap:14px;
-}
 .card {
   position:relative;
-  max-width:780px;
   width:100%;
   display:flex;
-  gap:16px;
+  gap:2.4cqmin;
   border:1px solid #2a2a2a;
-  border-radius:8px;
-  padding:18px;
+  border-radius:1.2cqmin;
+  padding:2.8cqmin;
+  padding-top:5cqmin;
   background:#1c1c1c;
 }
 .card img {
-  width:220px;
-  height:160px;
+  width:38%;
+  aspect-ratio:11 / 8;
+  height:auto;
   object-fit:cover;
   object-position:center top;
-  border-radius:6px;
+  border-radius:1cqmin;
   background:#000;
   flex-shrink:0;
 }
 .badge {
   position:absolute;
-  top:10px;
-  left:10px;
-  padding:4px 10px;
-  font-size:11px;
+  top:1.4cqmin;
+  left:1.4cqmin;
+  padding:.6cqmin 1.6cqmin;
+  font-size:max(9px, 1.7cqmin);
   font-weight:bold;
-  border-radius:12px;
+  border-radius:2cqmin;
   text-transform:uppercase;
 }
 .badge.br { background:#1db954; color:#000; }
 .badge.int { background:#3b82f6; color:#fff; }
-
+.content { min-width:0; }
 .content h2 {
-  margin:0 0 10px 0;
-  font-size:20px;
-  line-height:1.3;
+  margin:0 0 1.4cqmin 0;
+  font-size:max(14px, 3.6cqmin);
+  line-height:1.25;
 }
 .content p {
-  margin:0 0 10px 0;
+  margin:0 0 1.4cqmin 0;
   color:#e0e0e0;
-  font-size:14px;
+  font-size:max(12px, 2.5cqmin);
   line-height:1.4;
 }
-.meta {
-  font-size:12px;
-  color:#b0b0b0;
+.meta { font-size:max(10px, 1.9cqmin); color:#b0b0b0; }
+.loading { font-size:max(13px, 2.8cqmin); color:#aaa; text-align:center; padding:4cqmin; }
+
+/* palco em pé (9:16, 3:4, 4:5…): imagem em cima, texto embaixo */
+@container stage (aspect-ratio < 1) {
+  .card-wrapper { width:100%; }
+  .card { flex-direction:column; }
+  .card img { width:100%; aspect-ratio:16 / 10; }
+  .content h2 { font-size:max(14px, 5cqw); }
+  .content p { font-size:max(12px, 3.6cqw); }
 }
-.controls {
-  display:flex;
-}
-button {
+
+.controls { display:flex; }
+button.next {
   background:#ff3b3b;
   border:none;
   color:#fff;
-  padding:10px 18px;
-  font-size:14px;
+  padding:1.4cqmin 2.6cqmin;
+  font-size:max(12px, 2.2cqmin);
   font-weight:bold;
-  border-radius:6px;
+  border-radius:.9cqmin;
   cursor:pointer;
 }
-button:hover { background:#ff5555; }
+button.next:hover { background:#ff5555; }
+body.clean .controls { display:none; }
 
 a { color:#fff; text-decoration:none; }
 a:hover { text-decoration:underline; }
-
-@media (max-width:600px) {
-  .card { flex-direction:column; }
-  .card img { width:100%; height:220px; }
-}
 </style>
 </head>
 
 <body>
 
-<header>
-  <div class="live">🔴 AO VIVO — Brasil em destaque • Mundo essencial</div>
-</header>
+<!-- Ajustes do palco: proporção + tamanho. Nada disso aparece na captura em modo limpo (tecla H). -->
+<div id="toolbar">
+  <label>Proporção
+    <select id="aspectSel">
+      <option value="free">Livre</option>
+      <option value="16:9">16:9 — widescreen (TV, YouTube)</option>
+      <option value="4:3">4:3 — clássico</option>
+      <option value="21:9">21:9 — ultrawide</option>
+      <option value="16:10">16:10 — monitor</option>
+      <option value="3:2">3:2</option>
+      <option value="1:1">1:1 — quadrado (feed)</option>
+      <option value="4:5">4:5 — retrato (feed Instagram)</option>
+      <option value="3:4">3:4 — retrato</option>
+      <option value="9:16">9:16 — vertical (Stories, Reels, TikTok)</option>
+    </select>
+  </label>
+  <label>Tamanho
+    <select id="sizeSel">
+      <option value="">— preset —</option>
+      <option value="1920x1080">1920 × 1080 (Full HD)</option>
+      <option value="1280x720">1280 × 720 (HD)</option>
+      <option value="1024x768">1024 × 768 (4:3)</option>
+      <option value="1080x1080">1080 × 1080 (quadrado)</option>
+      <option value="1080x1350">1080 × 1350 (4:5)</option>
+      <option value="1080x1920">1080 × 1920 (vertical)</option>
+    </select>
+  </label>
+  <label>L <input type="number" id="wIn" min="200" step="10"></label>
+  <label>A <input type="number" id="hIn" min="150" step="10"></label>
+  <button class="tb-btn" id="fitBtn" title="Maior tamanho que cabe na janela, mantendo a proporção">⤢ Ajustar à janela</button>
+  <button class="tb-btn" id="fsBtn" title="Tela cheia só com o palco">⛶ Tela cheia</button>
+  <button class="tb-btn" id="cleanBtn" title="Esconde a barra, as alças e o botão (tecla H alterna)">👁 Modo limpo (H)</button>
+  <span class="tb-sep"></span>
+  <span class="tb-dim" id="dimInfo"></span>
+</div>
 
-<main>
-  <div class="card-wrapper">
-    <img src="logo-leganews.png" alt="LegaNews" class="card-logo">
-    <div id="card">Carregando notícias…</div>
+<div id="area">
+  <div id="stage">
+    <header>
+      <div class="live">🔴 AO VIVO — Brasil em destaque • Mundo essencial</div>
+    </header>
+    <main>
+      <div class="card-wrapper">
+        <img src="logo-leganews.png" alt="LegaNews" class="card-logo">
+        <div id="card"><div class="loading">Carregando notícias…</div></div>
+      </div>
+      <div class="controls">
+        <button class="next" id="nextBtn">▶ Próxima notícia</button>
+      </div>
+    </main>
+    <div class="rz rz-n" data-dir="n"></div>
+    <div class="rz rz-s" data-dir="s"></div>
+    <div class="rz rz-e" data-dir="e"></div>
+    <div class="rz rz-w" data-dir="w"></div>
+    <div class="rz rz-ne" data-dir="ne"></div>
+    <div class="rz rz-nw" data-dir="nw"></div>
+    <div class="rz rz-se" data-dir="se"></div>
+    <div class="rz rz-sw" data-dir="sw"></div>
+    <div id="sizeTip"></div>
   </div>
-  <div class="controls">
-    <button id="nextBtn">▶ Próxima notícia</button>
-  </div>
-</main>
+</div>
 
 <script>
+/* ================= PALCO REDIMENSIONÁVEL =================
+   O palco é centralizado na área livre da janela. Arrastar qualquer borda/canto
+   muda o tamanho (espelhado em volta do centro); com proporção travada o outro
+   lado acompanha. Tamanho e proporção ficam no localStorage. O conteúdo escala
+   junto (unidades de container cqmin/cqw), então o mesmo layout serve de 9:16 a 21:9. */
+const LS = "leganews.stage";
+const stage = document.getElementById("stage");
+const area = document.getElementById("area");
+const aspectSel = document.getElementById("aspectSel");
+const sizeSel = document.getElementById("sizeSel");
+const wIn = document.getElementById("wIn");
+const hIn = document.getElementById("hIn");
+const dimInfo = document.getElementById("dimInfo");
+const sizeTip = document.getElementById("sizeTip");
+const MIN_W = 200, MIN_H = 150;
+
+let st = { aspect:"16:9", w:0, h:0 };
+try { Object.assign(st, JSON.parse(localStorage.getItem(LS) || "{}")); } catch {}
+
+function ratio() {
+  if (st.aspect === "free") return null;
+  const [a, b] = st.aspect.split(":").map(Number);
+  return (a > 0 && b > 0) ? a / b : null;
+}
+function avail() {
+  const r = area.getBoundingClientRect();
+  const pad = document.body.classList.contains("clean") || document.fullscreenElement ? 0 : 24;
+  return { w: Math.max(MIN_W, r.width - pad * 2), h: Math.max(MIN_H, r.height - pad * 2) };
+}
+// Encaixa (w,h) na área, respeitando proporção e mínimos.
+function clampSize(w, h, prefer) {
+  const a = avail(), r = ratio();
+  w = Math.max(MIN_W, w); h = Math.max(MIN_H, h);
+  if (r) {
+    if (prefer === "h") w = h * r; else h = w / r;
+    if (w > a.w) { w = a.w; h = w / r; }
+    if (h > a.h) { h = a.h; w = h * r; }
+  } else {
+    w = Math.min(w, a.w); h = Math.min(h, a.h);
+  }
+  return { w: Math.round(w), h: Math.round(h) };
+}
+function fitMax() {
+  const a = avail(), r = ratio();
+  if (!r) return { w: Math.round(a.w), h: Math.round(a.h) };
+  let w = a.w, h = w / r;
+  if (h > a.h) { h = a.h; w = h * r; }
+  return { w: Math.round(w), h: Math.round(h) };
+}
+function apply(save = true) {
+  stage.style.width = st.w + "px";
+  stage.style.height = st.h + "px";
+  wIn.value = st.w; hIn.value = st.h;
+  aspectSel.value = st.aspect;
+  dimInfo.textContent = st.w + " × " + st.h + " px";
+  if (save) { try { localStorage.setItem(LS, JSON.stringify(st)); } catch {} }
+}
+function setSize(w, h, prefer) {
+  const s = clampSize(w, h, prefer);
+  st.w = s.w; st.h = s.h; apply();
+}
+
+// estado inicial
+(function init() {
+  if (![...aspectSel.options].some(o => o.value === st.aspect)) st.aspect = "16:9";
+  if (st.w && st.h) setSize(st.w, st.h); else { const f = fitMax(); st.w = f.w; st.h = f.h; apply(); }
+})();
+
+aspectSel.onchange = () => {
+  st.aspect = aspectSel.value;
+  sizeSel.value = "";
+  // mantém a área visual parecida: parte da largura atual e encaixa
+  const r = ratio();
+  if (r) {
+    const area0 = st.w * st.h;
+    const w = Math.sqrt(area0 * r);
+    setSize(w, w / r);
+  } else apply();
+};
+sizeSel.onchange = () => {
+  if (!sizeSel.value) return;
+  const [w, h] = sizeSel.value.split("x").map(Number);
+  // o preset define a proporção; se não couber, reduz mantendo-a
+  const g = (x, y) => y ? g(y, x % y) : x, d = g(w, h);
+  const asp = (w / d) + ":" + (h / d);
+  st.aspect = [...aspectSel.options].some(o => o.value === asp) ? asp : "free";
+  if (st.aspect === "free") {
+    // sem preset equivalente: trava a razão exata assim mesmo
+    const opt = document.createElement("option"); opt.value = asp; opt.textContent = asp;
+    aspectSel.appendChild(opt); st.aspect = asp;
+  }
+  setSize(w, h);
+};
+wIn.onchange = () => setSize(+wIn.value || st.w, ratio() ? 0 : st.h, "w");
+hIn.onchange = () => setSize(ratio() ? 0 : st.w, +hIn.value || st.h, "h");
+document.getElementById("fitBtn").onclick = () => { const f = fitMax(); st.w = f.w; st.h = f.h; apply(); };
+
+// Arrastar as alças. Como o palco é centralizado, cada px de arraste vale 2px de tamanho.
+let drag = null;
+stage.querySelectorAll(".rz").forEach(el => {
+  el.addEventListener("pointerdown", e => {
+    e.preventDefault();
+    el.setPointerCapture(e.pointerId);
+    drag = { dir: el.dataset.dir, x: e.clientX, y: e.clientY, w: st.w, h: st.h };
+    sizeTip.style.display = "block";
+    sizeTip.textContent = st.w + " × " + st.h;
+  });
+  el.addEventListener("pointermove", e => {
+    if (!drag) return;
+    const dx = (e.clientX - drag.x) * 2, dy = (e.clientY - drag.y) * 2;
+    let w = drag.w, h = drag.h;
+    if (drag.dir.includes("e")) w += dx;
+    if (drag.dir.includes("w")) w -= dx;
+    if (drag.dir.includes("s")) h += dy;
+    if (drag.dir.includes("n")) h -= dy;
+    // com proporção travada, manda o eixo que mais mexeu
+    let prefer = "w";
+    if (drag.dir === "n" || drag.dir === "s") prefer = "h";
+    else if (drag.dir.length === 2 && ratio() && Math.abs(dy) * ratio() > Math.abs(dx)) prefer = "h";
+    const s = clampSize(w, h, prefer);
+    st.w = s.w; st.h = s.h; apply(false);
+    sizeSel.value = "";
+    sizeTip.textContent = st.w + " × " + st.h;
+  });
+  const end = () => { if (!drag) return; drag = null; sizeTip.style.display = "none"; apply(); };
+  el.addEventListener("pointerup", end);
+  el.addEventListener("pointercancel", end);
+});
+
+// Janela encolheu: o palco não pode vazar.
+let rzT = null;
+window.addEventListener("resize", () => {
+  clearTimeout(rzT);
+  rzT = setTimeout(() => {
+    if (document.fullscreenElement) { const f = fitMax(); st.w = f.w; st.h = f.h; apply(false); return; }
+    const s = clampSize(st.w, st.h); st.w = s.w; st.h = s.h; apply(false);
+  }, 60);
+});
+
+// Modo limpo (esconde barra, alças e botão) — útil para capturar no OBS.
+function toggleClean() {
+  document.body.classList.toggle("clean");
+  setTimeout(() => window.dispatchEvent(new Event("resize")), 0);
+}
+document.getElementById("cleanBtn").onclick = toggleClean;
+document.addEventListener("keydown", e => {
+  if (e.target && /INPUT|SELECT|TEXTAREA/.test(e.target.tagName)) return;
+  if (e.key === "h" || e.key === "H") toggleClean();
+});
+// Tela cheia só da área (palco encaixado; ao sair volta ao tamanho salvo).
+let preFs = null;
+document.getElementById("fsBtn").onclick = () => {
+  if (document.fullscreenElement) { document.exitFullscreen(); return; }
+  preFs = { w: st.w, h: st.h };
+  area.requestFullscreen && area.requestFullscreen();
+};
+document.addEventListener("fullscreenchange", () => {
+  if (document.fullscreenElement) { const f = fitMax(); st.w = f.w; st.h = f.h; apply(false); }
+  else if (preFs) { setSize(preFs.w, preFs.h); preFs = null; }
+});
+
 /* ================= FONTES ================= */
 const fontesBR = [
   { url:"https://api.rss2json.com/v1/api.json?rss_url=https://portalpopline.com.br/feed/", tipo:"br" },
@@ -192,6 +482,9 @@ function resumir(t) {
   let r = f.slice(0,3).join(" ");
   if (r.length > 240) r = r.slice(0,240)+"…";
   return r;
+}
+function urlSegura(u) {
+  return /^https?:\/\//i.test(String(u || "")) ? u : "";
 }
 
 /* ================= IMAGENS ================= */
@@ -257,6 +550,7 @@ async function carregarNoticias() {
   iniciarTimer();
 }
 
+// Card montado por DOM (texto do feed entra por textContent — nunca como HTML).
 async function mostrarNoticia() {
   if (!noticias.length) return;
 
@@ -265,21 +559,27 @@ async function mostrarNoticia() {
   const resumoPT = resumir(await traduzir(limparTexto(n.description)));
   const img = await escolherImagem(n);
 
-  const badge = n._tipo==="br"
-    ? `<div class="badge br">Fonte: 🇧🇷 Brasil</div>`
-    : `<div class="badge int">Fonte: 🌍 Internacional</div>`;
-
-  container.innerHTML = `
-    <div class="card">
-      ${badge}
-      <img src="${img}" onerror="this.src='${imagemEditorial}'">
-      <div class="content">
-        <h2><a href="${n.link}" target="_blank">${tituloPT}</a></h2>
-        <p>${resumoPT}</p>
-        <div class="meta">${new Date(n.pubDate).toLocaleString("pt-BR")}</div>
-      </div>
-    </div>
-  `;
+  const card = document.createElement("div"); card.className = "card";
+  const badge = document.createElement("div");
+  badge.className = "badge " + (n._tipo === "br" ? "br" : "int");
+  badge.textContent = n._tipo === "br" ? "Fonte: 🇧🇷 Brasil" : "Fonte: 🌍 Internacional";
+  const im = document.createElement("img");
+  im.src = urlSegura(img) || imagemEditorial;
+  im.alt = "";
+  im.onerror = () => { im.onerror = null; im.src = imagemEditorial; };
+  const content = document.createElement("div"); content.className = "content";
+  const h2 = document.createElement("h2");
+  const link = urlSegura(n.link);
+  if (link) {
+    const a = document.createElement("a"); a.href = link; a.target = "_blank"; a.rel = "noopener";
+    a.textContent = tituloPT; h2.appendChild(a);
+  } else h2.textContent = tituloPT;
+  const p = document.createElement("p"); p.textContent = resumoPT;
+  const meta = document.createElement("div"); meta.className = "meta";
+  meta.textContent = new Date(n.pubDate).toLocaleString("pt-BR");
+  content.append(h2, p, meta);
+  card.append(badge, im, content);
+  container.replaceChildren(card);
 
   indice = (indice + 1) % noticias.length;
 }
