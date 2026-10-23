@@ -1,0 +1,11 @@
+{
+  "name": "leganews",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "noticias": "node scripts/gerar-noticias.mjs"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

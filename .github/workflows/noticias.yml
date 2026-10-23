@@ -1,0 +1,51 @@
+# Lê os feeds RSS e publica noticias.json na branch "noticias" (um único commit,
+# sobrescrito a cada execução, para não encher o histórico do master).
+# A página lê de: https://raw.githubusercontent.com/guischw/LegaNews/noticias/noticias.json
+name: Atualizar notícias
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - "scripts/**"
+      - "package.json"
+      - "package-lock.json"
+      - ".github/workflows/noticias.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: noticias
+  cancel-in-progress: false
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - run: node scripts/gerar-noticias.mjs saida/noticias.json
+
+      - name: Publicar na branch noticias
+        working-directory: saida
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git init -q -b noticias
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add noticias.json
+          git commit -q -m "Notícias de $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push -q --force "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" noticias
