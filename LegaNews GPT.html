@@ -285,6 +285,10 @@ const hIn = document.getElementById("hIn");
 const dimInfo = document.getElementById("dimInfo");
 const sizeTip = document.getElementById("sizeTip");
 const MIN_W = 200, MIN_H = 150;
+// ?obs no link (fonte de navegador do OBS): modo limpo e palco ocupando a fonte inteira.
+// O tamanho vem da própria fonte do OBS; nada é salvo no localStorage.
+const OBS = new URLSearchParams(location.search).has("obs");
+if (OBS) document.body.classList.add("clean");
 
 let st = { aspect:"16:9", w:0, h:0 };
 try { Object.assign(st, JSON.parse(localStorage.getItem(LS) || "{}")); } catch {}
@@ -334,6 +338,7 @@ function setSize(w, h, prefer) {
 
 // estado inicial
 (function init() {
+  if (OBS) { st.aspect = "free"; const f = fitMax(); st.w = f.w; st.h = f.h; apply(false); return; }
   if (![...aspectSel.options].some(o => o.value === st.aspect)) st.aspect = "16:9";
   if (st.w && st.h) setSize(st.w, st.h); else { const f = fitMax(); st.w = f.w; st.h = f.h; apply(); }
 })();
@@ -404,13 +409,14 @@ let rzT = null;
 window.addEventListener("resize", () => {
   clearTimeout(rzT);
   rzT = setTimeout(() => {
-    if (document.fullscreenElement) { const f = fitMax(); st.w = f.w; st.h = f.h; apply(false); return; }
+    if (document.fullscreenElement || OBS) { const f = fitMax(); st.w = f.w; st.h = f.h; apply(false); return; }
     const s = clampSize(st.w, st.h); st.w = s.w; st.h = s.h; apply(false);
   }, 60);
 });
 
 // Modo limpo (esconde barra, alças e botão) — útil para capturar no OBS.
 function toggleClean() {
+  if (OBS) return;
   document.body.classList.toggle("clean");
   setTimeout(() => window.dispatchEvent(new Event("resize")), 0);
 }
