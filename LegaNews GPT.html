@@ -92,10 +92,15 @@ body.clean .rz { display:none; }
 }
 
 /* ================= CONTEÚDO (escala com o palco: unidades cqmin/cqw) ================= */
+/* cabeçalho, card e botão formam um bloco só, centralizado, com a mesma largura —
+   assim não sobra faixa vazia entre o "AO VIVO" e a notícia */
+#stage { --largura:min(100%, 210cqh); }
 #stage header {
-  padding:2.2cqmin 3cqmin;
+  width:var(--largura);
+  padding:1.6cqmin 2.4cqmin;
   background:#111;
-  border-bottom:1px solid #2a2a2a;
+  border:1px solid #2a2a2a;
+  border-radius:1.2cqmin;
   flex:0 0 auto;
 }
 .live {
@@ -115,8 +120,8 @@ body.clean .rz { display:none; }
 }
 .card-wrapper {
   position:relative;
-  width:min(100%, 150cqh);
-  margin-top:7cqmin;
+  width:var(--largura);
+  margin-top:3cqmin; /* metade do logo, que fica sobre a borda do card */
 }
 .card-logo {
   position:absolute;
@@ -178,7 +183,7 @@ body.clean .rz { display:none; }
 
 /* palco em pé (9:16, 3:4, 4:5…): imagem em cima, texto embaixo */
 @container stage (aspect-ratio < 1) {
-  .card-wrapper { width:100%; }
+  #stage { --largura:100%; }
   .card { flex-direction:column; }
   .card img { width:100%; aspect-ratio:16 / 10; }
   .content h2 { font-size:max(14px, 5cqw); }
@@ -245,10 +250,10 @@ a:hover { text-decoration:underline; }
 
 <div id="area">
   <div id="stage">
-    <header>
-      <div class="live">🔴 AO VIVO — Brasil em destaque • Mundo essencial</div>
-    </header>
     <main>
+      <header>
+        <div class="live">🔴 AO VIVO — Brasil em destaque • Mundo essencial</div>
+      </header>
       <div class="card-wrapper">
         <img src="logo-leganews.png" alt="LegaNews" class="card-logo">
         <div id="card"><div class="loading">Carregando notícias…</div></div>
