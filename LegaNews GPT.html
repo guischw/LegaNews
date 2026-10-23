@@ -190,7 +190,7 @@ body.clean .rz { display:none; }
   .content p { font-size:max(12px, 3.6cqw); }
 }
 
-.controls { display:flex; }
+.controls { display:flex; gap:1.2cqmin; }
 button.next {
   background:#ff3b3b;
   border:none;
@@ -259,7 +259,8 @@ a:hover { text-decoration:underline; }
         <div id="card"><div class="loading">Carregando notícias…</div></div>
       </div>
       <div class="controls">
-        <button class="next" id="nextBtn">▶ Próxima notícia</button>
+        <button class="next" id="prevBtn" title="Notícia anterior (seta ←)">◀ Notícia anterior</button>
+        <button class="next" id="nextBtn" title="Próxima notícia (seta →)">▶ Próxima notícia</button>
       </div>
     </main>
     <div class="rz rz-n" data-dir="n"></div>
@@ -460,6 +461,7 @@ let timer = null;
 
 const container = document.getElementById("card");
 const nextBtn = document.getElementById("nextBtn");
+const prevBtn = document.getElementById("prevBtn");
 const feedInfo = document.getElementById("feedInfo");
 
 /* ================= TEXTO ================= */
@@ -574,13 +576,19 @@ async function carregarNoticias() {
 }
 
 // Card montado por DOM (texto do feed entra por textContent — nunca como HTML).
+// "indice" aponta sempre para a PRÓXIMA notícia; a que está na tela é indice - 1.
+let exibicao = 0;
 async function mostrarNoticia() {
   if (!noticias.length) return;
 
   const n = noticias[indice];
+  indice = (indice + 1) % noticias.length;
+  // Cliques rápidos: tradução/imagem chegam fora de ordem — só a última pedida é exibida.
+  const minha = ++exibicao;
   const tituloPT = await traduzir(limparTexto(n.title));
   const resumoPT = resumir(await traduzir(limparTexto(n.description)));
   const img = await escolherImagem(n);
+  if (minha !== exibicao) return;
 
   const card = document.createElement("div"); card.className = "card";
   const badge = document.createElement("div");
@@ -603,8 +611,6 @@ async function mostrarNoticia() {
   content.append(h2, p, meta);
   card.append(badge, im, content);
   container.replaceChildren(card);
-
-  indice = (indice + 1) % noticias.length;
 }
 
 function iniciarTimer() {
@@ -612,10 +618,24 @@ function iniciarTimer() {
   timer = setInterval(mostrarNoticia, 60000);
 }
 
-nextBtn.onclick = () => {
+function proxima() {
   mostrarNoticia();
   iniciarTimer();
-};
+}
+function anterior() {
+  if (!noticias.length) return;
+  // volta duas posições: uma para a que está na tela, outra para a anterior a ela
+  indice = (indice - 2 + noticias.length * 2) % noticias.length;
+  mostrarNoticia();
+  iniciarTimer();
+}
+nextBtn.onclick = proxima;
+prevBtn.onclick = anterior;
+document.addEventListener("keydown", e => {
+  if (e.target && /INPUT|SELECT|TEXTAREA/.test(e.target.tagName)) return;
+  if (e.key === "ArrowRight") proxima();
+  if (e.key === "ArrowLeft") anterior();
+});
 
 carregarNoticias();
 setInterval(carregarNoticias, 600000);
