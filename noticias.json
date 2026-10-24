@@ -1,0 +1,763 @@
+{
+ "geradoEm": "2026-10-24T19:11:27.928Z",
+ "fontes": [
+  {
+   "url": "https://portalpopline.com.br/feed/",
+   "tipo": "br",
+   "ok": true,
+   "itens": 10
+  },
+  {
+   "url": "https://rollingstone.uol.com.br/feed/",
+   "tipo": "br",
+   "ok": true,
+   "itens": 10
+  },
+  {
+   "url": "https://www.vagalume.com.br/news/index.xml",
+   "tipo": "br",
+   "ok": true,
+   "itens": 25
+  },
+  {
+   "url": "https://pitchfork.com/rss/news/",
+   "tipo": "int",
+   "ok": true,
+   "itens": 25
+  },
+  {
+   "url": "https://www.rollingstone.com/music/music-news/feed/",
+   "tipo": "int",
+   "ok": true,
+   "itens": 10
+  },
+  {
+   "url": "https://www.nme.com/news/music/feed",
+   "tipo": "int",
+   "ok": true,
+   "itens": 10
+  }
+ ],
+ "itens": [
+  {
+   "title": "A metamorfose do POP e sua pluralidade, por Rodrigo Teaser",
+   "description": "(Foto: Divulgação)\n\"Michael Jackson criou, talvez sem saber, o que seria a cartilha do POP. Não importa qual artista desse universo contemporâneo se analise hoje: alguma coisa em sua carreira será uma releitura ou uma revisão de algo feito por ele\", escreve Rodrigo Teaser, cover oficial do artista.",
+   "link": "https://portalpopline.com.br/metamorfose-pop-pluralidade-por-rodrigo-teaser/",
+   "pubDate": "2026-10-24T15:00:00.000Z",
+   "thumbnail": "https://uploads.portalpopline.com.br/2026/10/rodrigo-teaser-coluna-pop.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Fãs do BTS darão brindes no MorumBIS para quem votar no 2º turno",
+   "description": "(Foto: X @BTS_ARMY)\nFãs do BTS, o Army Help The Planet, anunciaram uma ação de incentivo ao voto para o 2º turno das eleições, distribuindo brindes em show do grupo em São Paulo.",
+   "link": "https://portalpopline.com.br/fas-bts-brindes-morumbis-comprovante-votacao-2-turno-corpo-da-materia/",
+   "pubDate": "2026-10-23T20:24:20.000Z",
+   "thumbnail": "https://uploads.portalpopline.com.br/2026/10/bts-bogota.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Adéla, JADE, Tate McRae, Sandy e Wanessa estão entre as performances imperdíveis da semana",
+   "description": "(Fotos: Divulgação / Instagram @jadethirwall @wanessa @tatemcrae)\nA semana foi agitada no mundo pop, com estreias de A2O Lite e Adéla na TV, resgate de hit de JADE e duetos de Chappell Roan com Christina Aguilera, Sandy com Luedji Luna, e Wanessa Camargo com Péricles. Veja os vídeos!",
+   "link": "https://portalpopline.com.br/adela-jade-tate-mcrae-sandy-wanessa-performances-imperdiveis-semana/",
+   "pubDate": "2026-10-23T20:10:27.000Z",
+   "thumbnail": "https://uploads.portalpopline.com.br/2026/10/chappell-roan-christina-aguilera.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Alok cobra TSE sobre transporte de indígenas nas Eleições após ser impedido de custear viagens",
+   "description": "Crédito: Divulgação\nO DJ Alok fez um apelo às autoridades eleitorais sobre as dificuldades de transporte enfrentadas por comunidades indígenas para votar. Ele tentou custear o deslocamento, mas foi impedido pela legislação.",
+   "link": "https://portalpopline.com.br/alok-cobra-tse-transporte-indigenas-eleicoes/",
+   "pubDate": "2026-10-23T19:38:45.000Z",
+   "thumbnail": "https://portalpopline.com.br/wp-content/uploads/2026/04/alok-dois-shows-rock-in-rio-2026-line-up-completo-new-dance-order.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "“Ninguém Quer” volta com duas músicas inéditas da Miley Cyrus na trilha sonora",
+   "description": "(Fotos: X @miley / Divulgação)\nJá conhece \"Cold Blooded\" e \"You (Demo)\"? São as músicas inéditas da Miley Cyrus que entraram na trilha sonora da 3ª temporada da série \"Ninguém Quer\". Confira!",
+   "link": "https://portalpopline.com.br/ninguem-quer-duas-musicas-ineditas-miley-cyrus-trilha-sonora/",
+   "pubDate": "2026-10-23T19:11:07.000Z",
+   "thumbnail": "https://uploads.portalpopline.com.br/2026/10/ninguem-quer.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Lucas Silveira, da Fresno, questiona proposta de Flávio Bolsonaro: “Por que quer tirar algo que facilita o trabalho da polícia?”",
+   "description": "Crédito: Instagram\nLucas Silveira (Fresno), questionou seguidores sobre a proposta de Flávio Bolsonaro para o rastreamento de munições, gerando grande repercussão nas redes sociais.",
+   "link": "https://portalpopline.com.br/lucas-silveira-fresno-questiona-flavio-bolsonaro-municoes/",
+   "pubDate": "2026-10-23T18:39:53.000Z",
+   "thumbnail": "https://uploads.portalpopline.com.br/2026/10/lucas-silveira.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Karol Conká vai ter bloco de Carnaval em São Paulo",
+   "description": "(Foto: Gabriel Renné)\nBloco Conká marcará os 25 anos de carreira de Karol Conká. Rapper comandará seu próprio trio-elétrico no Carnaval de São Paulo.",
+   "link": "https://portalpopline.com.br/karol-conka-vai-ter-bloco-de-carnaval-em-sao-paulo/",
+   "pubDate": "2026-10-23T17:34:31.000Z",
+   "thumbnail": "https://portalpopline.com.br/wp-content/uploads/2026/07/karol-conka-capa.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Duquesa rebate críticas por não votar no 1º turno: “Fiquei com vergonha”",
+   "description": "(Foto: Daniel Pinheiro/BrazilNews)\n\"Fiquei impedida de votar. Até o segundo turno, vou sim falar sobre Lula, incentivar voto para o PT e compartilhar informações relevantes\", desabafa Duquesa.",
+   "link": "https://portalpopline.com.br/duquesa-criticas-nao-votar-1o-turno-fiquei-com-vergonha/",
+   "pubDate": "2026-10-23T16:48:08.000Z",
+   "thumbnail": "https://portalpopline.com.br/wp-content/uploads/2025/12/duquesa-nao-fara-tantos-shows-2026-saude-mental-fisica.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Paula Toller defende pautas de Lula e apoia críticas ao filme “Dark Horse”",
+   "description": "Crédito: Instagram\nPaula Toller, vocalista do Kid Abelha, usou o Instagram para manifestar apoio a pautas políticas e culturais antes do segundo turno das eleições. Ela também repercutiu uma controvérsia sobre o financiamento do filme \"Dark Horse\".",
+   "link": "https://portalpopline.com.br/paula-toller-defende-pautas-lula-critica-dark-horse/",
+   "pubDate": "2026-10-23T16:32:11.000Z",
+   "thumbnail": "https://uploads.portalpopline.com.br/2026/10/paula-toller.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Marcelo Falcão divide opiniões sobre eleição: “Canto pra todos e não pra um lado”",
+   "description": "(Foto: X @lulaoficial / Divulgação / X @flaviobolsonaro)\nMarcelo Falcão rebate críticas por estar \"em cima do muro\" nas eleição para presidência: \"Vocês têm político de estimação, que é o sistema\".",
+   "link": "https://portalpopline.com.br/marcelo-falcao-divide-opinioes-eleicao-canto-pra-todos/",
+   "pubDate": "2026-10-23T16:27:36.000Z",
+   "thumbnail": "https://portalpopline.com.br/wp-content/uploads/2026/08/marcelo-falcao-o-legado-1-1.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "‘A Margem do Rio’ confronta a hipocrisia religiosa com sexo e misticismo",
+   "description": "Vencedor de 5 prêmios no Festival do Rio, incluindo Melhor Longa de Ficção, filme de Matheus Farias e Enock Carvalho foi exibido na 50ª Mostra de Cinema de São Paulo\nO post ‘A Margem do Rio’ confronta a hipocrisia religiosa com sexo e misticismo apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/cinema/a-margem-do-rio-critica/",
+   "pubDate": "2026-10-24T16:36:31.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2026/10/A-Margem-do-Rio-confronta-a-hipocrisia-religiosa-com-sexo-e-misticismo-406x228.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Stevie Wonder vai à Justiça por despejo de mulher que vive há 40 anos em sua propriedade",
+   "description": "Cantor alega que Carmen Efferson, apontada como sua ex-noiva, se recusou a permitir uma inspeção no imóvel em Los Angeles\nO post Stevie Wonder vai à Justiça por despejo de mulher que vive há 40 anos em sua propriedade apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/musica/stevie-wonder-vai-a-justica-por-despejo-de-mulher-que-vive-ha-40-anos-em-sua-propriedade/",
+   "pubDate": "2026-10-24T15:23:56.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2026/10/Stevie-Wonder-vai-a-Justica-por-despejo-de-mulher-que-vive-ha-40-anos-em-sua-propriedade-Michael-KovacGetty-Images-for-AFI-2272013526-406x228.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "‘Os Últimos 5 Anos’ entra nas últimas semanas de temporada em São Paulo",
+   "description": "A montagem com Beto Sargentelli e Eline Porto segue em cartaz somente até 1º de novembro, no Teatro Nair Bello\nO post ‘Os Últimos 5 Anos’ entra nas últimas semanas de temporada em São Paulo apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/entretenimento/os-ultimos-5-anos-entra-nas-ultimas-semanas-de-temporada-em-sao-paulo/",
+   "pubDate": "2026-10-24T15:15:11.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2026/10/Os-Ultimos-5-Anos-entra-nas-ultimas-semanas-de-temporada-em-Sao-Paulo-406x228.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "‘Embarcação Perdue’ estreia no Teatro Glaucio Gil com temporada até o fim de novembro",
+   "description": "Com trajetória no audiovisual, Lucas Pimenta estreia como autor e diretor de teatro em montagem sobre perdas e reencontros\nO post ‘Embarcação Perdue’ estreia no Teatro Glaucio Gil com temporada até o fim de novembro apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/entretenimento/embarcacao-perdue-estreia-no-teatro-glaucio-gil-com-temporada-ate-o-fim-de-novembro/",
+   "pubDate": "2026-10-24T15:09:08.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2026/10/Embarcacao-Perdue-estreia-no-Teatro-Glaucio-Gil-com-temporada-ate-o-fim-de-novembro-406x228.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Marina Ruy Barbosa será criadora de conteúdo adulto em série do Prime Video",
+   "description": "Obsessão será suspense sobre os bastidores da indústria de conteúdo adulto; elenco conta ainda com Any Gabrielly e Marco Pigossi\nO post Marina Ruy Barbosa será criadora de conteúdo adulto em série do Prime Video apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/tv/marina-ruy-barbosa-sera-criadora-de-conteudo-adulto-em-serie-do-prime-video/",
+   "pubDate": "2026-10-24T13:55:55.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2026/10/Marina-Ruy-Barbosa-sera-criadora-de-conteudo-adulto-em-serie-do-Prime-Video-406x228.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Que horas estreia o 4º episódio da 2ª temporada de ‘Marshals’, spin-off de ‘Yellowstone’?",
+   "description": "Novo ano de Marshals: Uma História de Yellowstone ganha novos episódios semanalmente\nO post Que horas estreia o 4º episódio da 2ª temporada de ‘Marshals’, spin-off de ‘Yellowstone’? apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/entretenimento/que-horas-estreia-o-4o-episodio-da-2a-temporada-de-marshals-spin-off-de-yellowstone/",
+   "pubDate": "2026-10-24T08:00:11.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2026/10/Que-horas-estreia-o-4o-episodio-da-2a-temporada-de-Marshals-spin-off-de-Yellowstone_-406x228.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Quando estreia o 7º episódio da segunda temporada de ‘Outlander: Blood of My Blood’?",
+   "description": "O novo ano do spin-off de Outlander chega repleto de ação e mostra a força do amor dos dois casais protagonistas\nO post Quando estreia o 7º episódio da segunda temporada de ‘Outlander: Blood of My Blood’? apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/entretenimento/quando-estreia-o-7o-episodio-da-segunda-temporada-de-outlander-blood-of-my-blood/",
+   "pubDate": "2026-10-24T07:00:45.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2026/10/Quando-estreia-o-7o-episodio-da-segunda-temporada-de-Outlander_-Blood-of-My-Blood_-Reproducao-406x228.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Os 16 melhores filmes de todos os tempos, segundo Tom Hardy",
+   "description": "Apesar de elogiar diversos títulos que formam seu repertório, o ator ressaltou que o primeiro lugar é incontestável\nO post Os 16 melhores filmes de todos os tempos, segundo Tom Hardy apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/lista-rs/os-16-melhores-filmes-de-todos-os-tempos-segundo-tom-hardy/",
+   "pubDate": "2026-10-23T22:44:00.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/tom_hardy_foto_jason_merritt__term__getty_images.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "‘Let It Be’, clássico dos Beatles, ultrapassa 1 bilhão de reproduções no Spotify",
+   "description": "A icônica música é a terceira do Fab Four a atingir a marcar\nO post ‘Let It Be’, clássico dos Beatles, ultrapassa 1 bilhão de reproduções no Spotify apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/musica/let-it-be-classico-dos-beatles-ultrapassa-1-bilhao-de-reproducoes-no-spotify/",
+   "pubDate": "2026-10-23T22:04:32.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2025/08/the-beatles-bruce-mcbroom-apple-corps-ltd.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "‘A Margem do Rio’ é um filme sobre contra-atacar: ‘Estamos cansados de só resistir’",
+   "description": "Na programação da 50ª Mostra Internacional de Cinema de São Paulo, longa de estreia de Matheus Farias e Enock Carvalho aborda a instrumentalização da fé contra pessoas LGBTQIAPN+\nO post ‘A Margem do Rio’ é um filme sobre contra-atacar: ‘Estamos cansados de só resistir’ apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/cinema/a-margem-do-rio-e-um-filme-sobre-contra-atacar-estamos-cansados-de-so-resistir/",
+   "pubDate": "2026-10-23T21:22:38.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2026/10/A-Margem-do-Rio-e-um-filme-sobre-contra-atacar-Estamos-cansados-de-so-resistir-DivulgacaoVitrine-Filmes-406x228.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Ana Castela ostenta com seu novo iPhone duo, avaliado em R$ 25 mil: \"Imagina o trabalho pra pagar\"",
+   "description": "Cantora sertaneja foi às redes sociais mostrar o seu novo telefone para os seguidores e brincou sobre o valor alto do aparelho",
+   "link": "https://www.vagalume.com.br/news/2026/10/24/ana-castela-ostenta-com-seu-novo-iphone-duo-avaliado-em-rs-25-mil-imagina-o-trabalho-pra-pagar.html",
+   "pubDate": "2026-10-24T17:27:49.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57752-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Alok se oferece para pagar transporte de indígenas às urnas e cobra o TSE no 2º turno",
+   "description": "Impedido pela legislação eleitoral de bancar o deslocamento, o DJ pediu que o TSE, prefeituras e a Justiça Eleitoral garantam o voto indígena neste domingo (25)",
+   "link": "https://www.vagalume.com.br/news/2026/10/23/alok-se-oferece-para-pagar-transporte-de-indigenas-as-urnas-e-cobra-o-tse-no-2-turno.html",
+   "pubDate": "2026-10-24T01:22:40.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57751-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Pitbull admite ter tido uma ereção em performance com Jennifer Lopez no AMA 2011",
+   "description": "Rapper disse que foi surpreendido por J. Lo na apresentação que dá o que falar até hoje",
+   "link": "https://www.vagalume.com.br/news/2026/10/23/pitbull-admite-ter-tido-uma-erecao-em-performance-com-jennifer-lopez-no-ama-2011.html",
+   "pubDate": "2026-10-23T21:56:54.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57750-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Madonna declara apoio a Lula na reta final das eleições e cita \"Aquarela do Brasil\"",
+   "description": "Nos stories do Instagram, a rainha do pop compartilhou uma arte do fotógrafo Rafael Pavarotti com versos de Gal Costa e uma lista de motivos para votar no petista no domingo (25).",
+   "link": "https://www.vagalume.com.br/news/2026/10/23/madonna-declara-apoio-a-lula-na-reta-final-das-eleicoes-e-cita-aquarela-do-brasil.html",
+   "pubDate": "2026-10-23T17:11:17.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57749-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Hilary Duff volta ao Natal 24 anos depois com o EP \"Holiday Things\". Ouça com as letras!",
+   "description": "Primeiro projeto natalino da cantora em 24 anos reúne três inéditas, uma releitura de \"Last Christmas\" e um clássico da estação.",
+   "link": "https://www.vagalume.com.br/news/2026/10/23/hilary-duff-volta-ao-natal-24-anos-depois-com-o-ep-holiday-things-ouca-com-as-letras.html",
+   "pubDate": "2026-10-23T16:44:28.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57748-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "ATEEZ lança o single \"Drip\". Veja o clipe com letra e tradução!",
+   "description": "Pré-lançamento do mini-álbum \"Golden Hour: Part.6\", previsto para 13 de novembro, \"Drip\" chega com coreografia afiada e a carga intensa que virou marca registrada do octeto.",
+   "link": "https://www.vagalume.com.br/news/2026/10/23/ateez-lanca-o-single-drip-veja-o-clipe-com-letra-e-traducao.html",
+   "pubDate": "2026-10-23T14:57:42.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57747-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Dove Cameron lança o single \"do the math\". Confira com a letra e a tradução!",
+   "description": "A faixa chega nesta sexta-feira (23) como o segundo single de \"Final Girl\", disco que a cantora lança em 6 de novembro. Ouça com a letra abaixo.",
+   "link": "https://www.vagalume.com.br/news/2026/10/23/dove-cameron-lanca-o-single-do-the-math-confira-com-a-letra-e-a-traducao.html",
+   "pubDate": "2026-10-23T14:38:53.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57746-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "My Chemical Romance relança \"The Black Parade\" em edição de 20 anos com 6 faixas inéditas",
+   "description": "Reedição traz o álbum de 2006 remasterizado e seis bônus, incluindo gravações ao vivo de Hoboken nunca lançadas e a inédita \"Someone Out There Loves You\"",
+   "link": "https://www.vagalume.com.br/news/2026/10/23/my-chemical-romance-relanca-the-black-parade-em-edicao-de-20-anos-com-6-faixas-ineditas.html",
+   "pubDate": "2026-10-23T13:39:47.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57745-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Confira as letras e traduções do novo EP de Lisa, \"Press Play\"",
+   "description": "A cantora do BLACKPINK lança seu primeiro EP solo, com seis faixas que passeiam entre o inglês e o tailandês; ouça e acompanhe as letras e traduções de todas as músicas no Vagalume.",
+   "link": "https://www.vagalume.com.br/news/2026/10/23/confira-as-letras-e-traducoes-do-novo-ep-de-lisa-press-play.html",
+   "pubDate": "2026-10-23T13:23:04.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57744-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "John Legend se reinventa em \"Muse\", álbum produzido por Pharrell Williams. Confira com as letras!",
+   "description": "Lançado nesta sexta (23) pela Republic Records, o disco é a primeira parceria completa entre os dois em 20 anos e mistura soul, gospel, doo-wop e Afrobeat num R&B cinematográfico.",
+   "link": "https://www.vagalume.com.br/news/2026/10/23/john-legend-se-reinventa-em-muse-album-produzido-por-pharrell-williams-confira-com-as-letras.html",
+   "pubDate": "2026-10-23T13:22:34.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57743-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "John Mayer encerra hiato de cinco anos com o single \"Tom and Jerry\". Ouça!",
+   "description": "O guitarrista volta com uma faixa que reúne Pino Palladino, Aaron Sterling e Larry Goldings, e ainda estreia seu novo selo, a Sob Rock Records.",
+   "link": "https://www.vagalume.com.br/news/2026/10/23/john-mayer-encerra-hiato-de-cinco-anos-com-o-single-tom-and-jerry-ouca.html",
+   "pubDate": "2026-10-23T13:18:53.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57742-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "LISA lança \"Tarantino\", novo single de \"Press Play\". Veja o clipe com letra e tradução!",
+   "description": "Segundo single do EP \"Press Play\" chega pelas gravadoras Lloud e RCA com uma estética inspirada no cinema de Quentin Tarantino.",
+   "link": "https://www.vagalume.com.br/news/2026/10/23/lisa-lanca-tarantino-novo-single-de-press-play-veja-o-clipe-com-letra-e-traducao.html",
+   "pubDate": "2026-10-23T12:42:02.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57741-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Fã com câncer pede que Miley Cyrus raspe seu cabelo antes de show",
+   "description": "Cash Jacobs fez o pedido para a cantora antes das sessões de quimioterapia. Após o vídeo viralizar, a equipe de Miley levou a fã a Los Angeles e realizou o momento.",
+   "link": "https://www.vagalume.com.br/news/2026/10/22/fa-com-cancer-pede-que-miley-cyrus-raspe-seu-cabelo-antes-de-show.html",
+   "pubDate": "2026-10-23T00:59:02.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57740-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Jimin interrompe show do BTS na Argentina e pede que fãs parem de se empurrar por segurança",
+   "description": "Na estreia do grupo em La Plata, o cantor parou a apresentação ao ver os fãs se espremerem contra as grades durante o pogo; RM reforçou o apelo e o público recuou, sem registro de incidentes.",
+   "link": "https://www.vagalume.com.br/news/2026/10/22/jimin-interrompe-show-do-bts-na-argentina-e-pede-que-fas-parem-de-se-empurrar-por-seguranca.html",
+   "pubDate": "2026-10-23T00:49:01.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57739-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Hoobastank desiste da turnê brasileira de novembro e cancela os seis shows",
+   "description": "Banda norte-americana alega que a alta dos custos logísticos inviabilizou a vinda; agenda ia de Vila Velha a Nova Iguaçu, entre 1º e 8 de novembro",
+   "link": "https://www.vagalume.com.br/news/2026/10/22/hoobastank-desiste-da-turne-brasileira-de-novembro-e-cancela-os-seis-shows.html",
+   "pubDate": "2026-10-22T19:26:54.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57738-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "U2 abre terceira data no Brasil após corrida por ingressos. Veja quando a venda começa!",
+   "description": "Com as duas primeiras noites esgotadas rapidamente, a banda irlandesa marcou mais uma apresentação no MorumBIS, em São Paulo, pela turnê \"Carnaval De Luz Presents: The Greatest Show On Earth\".",
+   "link": "https://www.vagalume.com.br/news/2026/10/22/u2-abre-terceira-data-no-brasil-apos-corrida-por-ingressos-veja-quando-a-venda-comeca2.html",
+   "pubDate": "2026-10-22T17:48:27.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57737-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Chappell Roan sugeriu que Olivia Rodrigo \"começasse a namorar garotas\" após ouvir suas histórias",
+   "description": "As cantoras se uniram no remix de \"expectations\"; em entrevista à Apple Music, Olivia relembrou o conselho direto que recebeu da colega durante as gravações no estúdio.",
+   "link": "https://www.vagalume.com.br/news/2026/10/22/chappell-roan-sugeriu-que-olivia-rodrigo-comecasse-a-namorar-garotas-apos-ouvir-suas-historias.html",
+   "pubDate": "2026-10-22T13:28:21.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57736-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "O conselho de Kanye West que Kourtney Kardashian seguiu antes de casar com Travis Barker",
+   "description": "Em novo episódio de \"The Kardashians\", a mais velha do clã revelou a orientação que o rapper deu anos atrás e que ela levou a sério até conhecer o baterista do Blink-182.",
+   "link": "https://www.vagalume.com.br/news/2026/10/22/o-conselho-de-kanye-west-que-kourtney-kardashian-seguiu-antes-de-casar-com-travis-barker.html",
+   "pubDate": "2026-10-22T13:20:54.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57735-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Letícia Nicolielo, cantora e violonista da MPB, morre aos 48 anos",
+   "description": "Artista de Indaiatuba (SP) tinha cerca de 30 anos de carreira, lançou disco autoral e ficou conhecida pelo tributo a Cássia Eller; ela convivia com um câncer raro desde 2019.",
+   "link": "https://www.vagalume.com.br/news/2026/10/22/leticia-nicolielo-cantora-e-violonista-da-mpb-morre-aos-48-anos.html",
+   "pubDate": "2026-10-22T13:16:44.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57734-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "BTS no MorumBIS: confira as ruas bloqueadas e a operação logística montada para os 3 shows",
+   "description": "Apresentações nos dias 28, 30 e 31 de outubro fecham o entorno do estádio; triagem começa às 8h e só fãs com ingresso do dia e moradores cadastrados passam pelos bloqueios.",
+   "link": "https://www.vagalume.com.br/news/2026/10/22/bts-no-morumbis-confira-as-ruas-bloqueadas-e-a-operacao-logistica-montada-para-os-3-shows.html",
+   "pubDate": "2026-10-22T12:55:51.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57733-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Ney Matogrosso cancela show após cirurgia e tranquiliza fãs: 'Não é nada grave'",
+   "description": "Aos 85 anos, cantor passou por cirurgia, foi proibido de trabalhar por um mês e remarcou a apresentação em Tiradentes (MG) para fevereiro de 2027.",
+   "link": "https://www.vagalume.com.br/news/2026/10/22/ney-matogrosso-cancela-show-apos-cirurgia-e-tranquiliza-fas-nao-e-nada-grave.html",
+   "pubDate": "2026-10-22T12:54:43.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57732-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Harry Styles se irrita e discute com caçador de autógrafos nas ruas de Nova York",
+   "description": "Vídeos que circularam nesta quarta (21) mostram o cantor britânico perdendo a paciência com um homem que o seguia por Manhattan atrás de uma assinatura",
+   "link": "https://www.vagalume.com.br/news/2026/10/22/harry-styles-se-irrita-e-discute-com-cacador-de-autografos-nas-ruas-de-nova-york.html",
+   "pubDate": "2026-10-22T12:52:37.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57730-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Fiuk é processado e tem 24h para apagar vídeo que acusa produtor de roubo. Entenda!",
+   "description": "O cantor e ator, filho de Fábio Jr, virou réu em ação do produtor André Luis Martins Camargo e da Owner Entertainment, e a Justiça mandou tirar do ar um vídeo em que ele falava em roubo.",
+   "link": "https://www.vagalume.com.br/news/2026/10/21/fiuk-e-processado-e-tem-24h-para-apagar-video-que-acusa-produtor-de-roubo-entenda2.html",
+   "pubDate": "2026-10-21T18:38:05.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57729-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "\"Glee\" está de volta: Disney+ e Hulu oficializam o revival da série musical",
+   "description": "Anúncio veio das redes sociais do seriado; Ryan Murphy já terminou o roteiro e diz ter sondado cerca de dez nomes do elenco original",
+   "link": "https://www.vagalume.com.br/news/2026/10/21/glee-esta-de-volta-disney-e-hulu-oficializam-o-revival-da-serie-musical2.html",
+   "pubDate": "2026-10-21T16:56:06.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57728-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Cachê de Gusttavo Lima vira alvo de ação do MP por uso de verba da saúde em Marília",
+   "description": "Ministério Público de São Paulo quer anular R$ 2,25 milhões em contratos do cantor e da dupla Maiara e Maraisa no AgroFood Show; prefeitura e artistas defendem a legalidade",
+   "link": "https://www.vagalume.com.br/news/2026/10/21/cache-de-gusttavo-lima-vira-alvo-de-acao-do-mp-por-uso-de-verba-da-saude-em-marilia.html",
+   "pubDate": "2026-10-21T16:15:19.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57727-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Slayyyter Cancels Remaining UK and European Tour Dates",
+   "description": "Laryngitis and vocal cord tears are forcing the singer “to go on medication and full vocal rest for at least two weeks”",
+   "link": "https://pitchfork.com/story/slayyyter-cancels-remaining-uk-and-european-tour-dates/",
+   "pubDate": "2026-10-23T17:50:01.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6adb971eeb79c260502e914f/master/pass/GettyImages-2292749336.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Noel Gallagher Talks Vegans, Macca, Underwear on Chicken Shop Date",
+   "description": "“Do you know what’s not a high-flying bird? A chicken.”",
+   "link": "https://pitchfork.com/story/noel-gallagher-talks-vegans-macca-underwear-on-chicken-shop-date/",
+   "pubDate": "2026-10-23T17:35:39.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6adb8ef76ceab71c318b5572/master/pass/Screenshot%202026-10-23%20at%2012.44.20%E2%80%AFPM.png",
+   "_tipo": "int"
+  },
+  {
+   "title": "Chappell Roan Duets With Caroline Polachek, PinkPantheress, and Lola Young",
+   "description": "All on the closing night of Roan’s Los Angeles pop extravaganza, the Super Graphic Spectacular",
+   "link": "https://pitchfork.com/story/chappell-roan-duets-with-caroline-polachek-pinkpantheress-and-lola-young/",
+   "pubDate": "2026-10-23T15:07:56.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6adb77ef6ce05bb1686495fa/master/pass/chappell-roan.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Haywire Set Jam-Packed 2027 Tour",
+   "description": "The Boston hardcore outfit will play a whopping 80 shows between January and April",
+   "link": "https://pitchfork.com/story/haywire-set-jam-packed-2027-tour/",
+   "pubDate": "2026-10-23T14:44:40.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6adb5e85673fbdb2ac49248d/master/pass/Haywire.jpeg",
+   "_tipo": "int"
+  },
+  {
+   "title": "10 New Albums You Should Listen to Now: Alchemical Sisters, Fine, Shabazz Palaces, and More",
+   "description": "Stream new releases from Alchemical Sisters, Fine, Shabazz Palaces, and Josh Johnson",
+   "link": "https://pitchfork.com/story/10-new-albums-you-should-listen-to-now-alchemical-sisters-fine-shabazz-palaces/",
+   "pubDate": "2026-10-23T14:17:39.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6ad91728f6a56a2545c476c2/master/pass/@paola.s.weddings_260704_E&M_ALCSIS_full%20res-9.jpeg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Ryan Gosling’s Band Dead Man’s Bones Tease Return",
+   "description": "Gosling’s duo with Zach Shields appears to be preparing its first music in 17 years",
+   "link": "https://pitchfork.com/story/ryan-goslings-band-dead-mans-bones-tease-return/",
+   "pubDate": "2026-10-23T13:24:50.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6adb5f97238a24a9b3f33b8d/master/pass/ryan-gosling-dead-man's-bones.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Listen to Two New Kacey Musgraves Songs",
+   "description": "They appear on the forthcoming Middle of Nowhere companion album Tex Mex Tapes",
+   "link": "https://pitchfork.com/story/kacey-musgraves-reveals-middle-of-nowhere-companion-album/",
+   "pubDate": "2026-10-23T13:24:46.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6ada196698461794d4a4a0aa/master/pass/Kacey-Musgraves.jpeg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Raye Wins 2026 Mercury Prize",
+   "description": "She beat out Sir Paul McCartney, Olivia Dean, Jade, Nia Archives, and more",
+   "link": "https://pitchfork.com/story/raye-wins-2026-mercury-prize/",
+   "pubDate": "2026-10-22T23:09:47.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6ada9361a8228db999f7bfc5/master/pass/GettyImages-2301545865.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Charli XCX Will Appear in a Martin Scorsese Film",
+   "description": "She reportedly makes a cameo in What Happens At Night with Leonardo DiCaprio and Jennifer Lawrence",
+   "link": "https://pitchfork.com/story/charli-xcx-will-appear-in-a-martin-scorsese-film/",
+   "pubDate": "2026-10-22T21:47:19.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6ada83c3c44496c6b99077de/master/pass/charlimarty.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Westside Gunn Announces New Album Heelmatic",
+   "description": "Lead single “Zilla” features rapping on a camel in front of the Great Pyramid",
+   "link": "https://pitchfork.com/story/westside-gunn-announces-new-album-heelmatic/",
+   "pubDate": "2026-10-22T19:44:52.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6ada54bab0aeeb15462b5d9a/master/pass/unnamed%20(36).png",
+   "_tipo": "int"
+  },
+  {
+   "title": "The Strokes and Phoebe Bridgers to Play SNL",
+   "description": "Oh and also Gracie Abrams",
+   "link": "https://pitchfork.com/story/the-strokes-and-phoebe-bridgers-to-play-snl/",
+   "pubDate": "2026-10-22T18:57:35.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6ada4b1651345c8f17678cf6/master/pass/Julian-Casablancas-Phoebe-Bridgers.jpeg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Interpol Plot 2027 North American Tour With Deafheaven",
+   "description": "The two bands are linking up for a run through Mexico and the southern U.S.",
+   "link": "https://pitchfork.com/story/interpol-plot-2027-north-american-tour-with-deafheaven/",
+   "pubDate": "2026-10-22T17:11:15.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6ada41c051345c8f17678bc9/master/pass/Interpol%20and%20Deafheaven.png",
+   "_tipo": "int"
+  },
+  {
+   "title": "2Hollis Announces 2027 Tour",
+   "description": "The rapper-producer is trekking between North America and Europe from the winter through spring",
+   "link": "https://pitchfork.com/story/2hollis-announces-2027-tour/",
+   "pubDate": "2026-10-22T16:44:18.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6ada35886df2cbecd60d1e98/master/pass/2hollis%20by%20Noah%20Dillon%201.jpeg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Fleetwood Mac Announce Fleetwood Mac Documentary",
+   "description": "Fleetwood Mac: The Chain hits Apple TV in January",
+   "link": "https://pitchfork.com/story/fleetwood-mac-announces-fleetwood-mac-documentary/",
+   "pubDate": "2026-10-22T15:40:56.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6ada2280621a15b28c35752a/master/pass/50cd24c1-541a-48d5-9544-fffc6e82d8b9%20(1).jpeg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Queens of the Stone Age Plot 2027 U.S. Tour",
+   "description": "Josh Homme and the band also gave “Where the Goth Girls At?” its live debut on Fallon",
+   "link": "https://pitchfork.com/story/queens-of-the-stone-age-plot-2027-us-tour/",
+   "pubDate": "2026-10-22T14:34:54.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6ada1c05f00eb0165f813524/master/pass/queens-stone-age-tour.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Being Dead Sign to Polyvinyl, Plan to “Take Over the World”",
+   "description": "The Austin rock trio has also shared two new songs, one about dating a dolphin",
+   "link": "https://pitchfork.com/story/being-dead-sign-to-polyvinyl-plan-to-take-over-the-world/",
+   "pubDate": "2026-10-22T14:02:52.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6ad90a2f941d34b1f81ce028/master/pass/Being-Dead.jpeg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Daft Punk Are Now Lego",
+   "description": "And so is the Alive 2007 pyramid",
+   "link": "https://pitchfork.com/story/daft-punk-are-now-lego/",
+   "pubDate": "2026-10-22T14:01:08.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6ad920460c92ad66cf11be35/master/pass/The%20LEGO%20Group%20&%20DAFT%20PUNK_HERO%20Still%202_16x9.png",
+   "_tipo": "int"
+  },
+  {
+   "title": "Talking Heads Announce New Book",
+   "description": "With essays from Lorde, Debbie Harry, Karl Ove Knausgaard, and more",
+   "link": "https://pitchfork.com/story/talking-heads-announce-new-book/",
+   "pubDate": "2026-10-21T23:03:37.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6ad939c096279ee60f9f9429/master/pass/GettyImages-2297629067.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Watch Fontaines D.C. Perform on Jools Holland",
+   "description": "The Irish rock band broke out Dopamine Chamber songs and more for their special 45-minute set",
+   "link": "https://pitchfork.com/story/watch-fontaines-dc-perform-on-jools-holland/",
+   "pubDate": "2026-10-21T18:08:42.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6ad8fda5307e18bf9f5d181f/master/pass/Fontaines%20D.C.%20-%20credit%20BBC%20Studios%20and%20Michael%20Leckie.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Ben Folds Five Announce First Tour Since 2013",
+   "description": "The trio will be rockin’ a city near you next spring",
+   "link": "https://pitchfork.com/story/ben-folds-five-announce-first-tour-since-2013/",
+   "pubDate": "2026-10-21T17:53:46.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6ad8f897a7bc13301cd9a7d8/master/pass/GettyImages-75016503.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Yung Miami Reveals Full Tracklist for Debut Solo Album",
+   "description": "The long-awaited Watch Dis features Travis Scott, Summer Walker, Quavo, G Herbo, Lil Baby, Kodak Black, and more",
+   "link": "https://pitchfork.com/story/yung-miami-announces-debut-solo-album-watch-dis-features/",
+   "pubDate": "2026-10-21T17:45:06.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6abe8362948de2fc99b1f76c/master/pass/Yung%20Miami_Watch%20Dis_PC%20Brandon%20Almengo%20.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Chvrches Announce First Album in Six Years and 2027 Tour",
+   "description": "The trio will perform material from All The King’s Men on the road come spring",
+   "link": "https://pitchfork.com/story/chvrches-announce-first-album-in-six-years-and-2027-tour/",
+   "pubDate": "2026-10-21T16:20:36.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6ad8c2e8941d34b1f81cdd10/master/pass/Album%20and%20Tour%20Announce%20-%20PRESS%20PHOTO%20-%20photo%20cred_%20Jody%20Evans.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Snoh Aalegra Unveils New Album With Song Featuring Nile Rodgers and Raphael Saadiq",
+   "description": "Listen to “I Love You” from Legendary Love",
+   "link": "https://pitchfork.com/story/snoh-aalegra-unveils-new-album-with-song-featuring-nile-rodgers-and-raphael-saadiq/",
+   "pubDate": "2026-10-21T16:07:50.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6ad8e0c28eef7a4bdff8c67a/master/pass/SnohAalegra_MaxMontgomery.jpeg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Angine de Poitrine Set 2027 International Tour",
+   "description": "Will they land Angine de Pawtrine to open?",
+   "link": "https://pitchfork.com/story/angine-de-poitrine-set-2027-international-tour/",
+   "pubDate": "2026-10-21T15:42:52.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6ad8cc3895f3e79680dbeaef/master/pass/Angine-de-Poitrine.jpeg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Clap Your Hands Say Yeah Launch New Album Burned",
+   "description": "Alec Ounsworth and co. will also tour in 2027",
+   "link": "https://pitchfork.com/story/clap-your-hands-say-yeah-launch-new-album-burned-2027-tour/",
+   "pubDate": "2026-10-21T14:43:36.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6ad8c708941d34b1f81cdd16/master/pass/Ehmb_pRv.jpeg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Elvis Presley Rightsholders Sue Anthropic for Training on 274 Songs Without Permission",
+   "description": "\"The Elvis Plaintiffs are deeply protective of these iconic songs,\" lawyer states in $41 million lawsuit against AI company behind Claude",
+   "link": "https://www.rollingstone.com/music/music-news/elvis-presley-rightsholders-anthropic-lawsuit-infringement-1235647682/",
+   "pubDate": "2026-10-24T18:28:26.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "My Chemical Romance Face Legal Action From Dallas Cowboys Cheerleaders Over Stage Costumes",
+   "description": "Owner of the cheerleader brand files injunction to stop band from having dancers wearing Cowboys-inspired outfits during violent \"Teenagers\" sequence",
+   "link": "https://www.rollingstone.com/music/music-news/my-chemical-romance-legal-action-dallas-cowboys-cheerleaders-1235647551/",
+   "pubDate": "2026-10-24T13:47:22.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "Stevie Wonder Files Lawsuit to Evict Woman Living on His Property Rent-Free for 38 Years",
+   "description": "Carmen Efferson, reportedly singer's one-time fiancée, had been living in Wonder's Hollywood Hills home since 1988, but oral arrangement broke down over insurance inspectors",
+   "link": "https://www.rollingstone.com/music/music-news/stevie-wonder-lawsuit-evict-woman-rent-free-house-1235647480/",
+   "pubDate": "2026-10-23T21:00:27.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "Slayyyter Cancels Remaining European and U.K. Tour Dates Due to Laryngitis and Vocal Cord Tears",
+   "description": "“Because of this, I am forced to cancel the remaining U.K./EU dates to avoid permanent damage to my voice,” singer writes",
+   "link": "https://www.rollingstone.com/music/music-news/slayyyter-cancels-european-u-k-tour-laryngitis-vocal-tears-1235647296/",
+   "pubDate": "2026-10-23T18:57:47.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "Chappell Roan Concludes Benefit Shows With Surprise Duets Featuring PinkPantheress, Lola Young",
+   "description": "Roan also joined Caroline Polachek to perform “Look at Me Now,” after kicking off the two-night run with a special Christina Aguilera-assisted duet",
+   "link": "https://www.rollingstone.com/music/music-news/chappell-roan-performance-pinkpantheress-lola-young-1235647178/",
+   "pubDate": "2026-10-23T17:35:44.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "Billy Idol and Rock Hall Bring Music Education to California School",
+   "description": "Save the Music initiative will provide grants to 25 schools’ music programs over the next three years",
+   "link": "https://www.rollingstone.com/music/music-news/billy-idol-rock-hall-save-the-music-california-school-1235647191/",
+   "pubDate": "2026-10-23T17:14:57.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "‘The Notebook’ Musical Will Premiere on the West End in 2027",
+   "description": "The Judi Dench Theatre, previously named the Shaftesbury Theatre, will be home to the production",
+   "link": "https://www.rollingstone.com/music/music-news/the-notebook-musical-london-west-end-premiere-1235647109/",
+   "pubDate": "2026-10-23T16:17:26.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "Ryan Gosling’s Band Dead Man’s Bones Returning With New Music After 17 Years",
+   "description": "Actor and bandmate Zach Shields released self-titled LP in 2009, toured briefly, then disappeared … until next week",
+   "link": "https://www.rollingstone.com/music/music-news/ryan-gosling-band-dead-mans-bones-comeback-new-music-1235647054/",
+   "pubDate": "2026-10-23T13:45:10.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "John Mayer Recruits Dream Team of Musicians for New Song ‘Tom and Jerry’",
+   "description": "“I get to work with a group of incredibly talented and deeply dedicated artists who will stop at nothing until the sound comes into focus and becomes a picture,” the singer-songwriter said",
+   "link": "https://www.rollingstone.com/music/music-news/john-mayer-tom-and-jerry-new-single-1235645973/",
+   "pubDate": "2026-10-23T12:30:46.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "Charli XCX to Cameo in Martin Scorsese’s New Horror Film With Leonardo DiCaprio, Jennifer Lawrence",
+   "description": "The artist will feature in the gothic film based on Peter Cameron's novel, What Happens at Night",
+   "link": "https://www.rollingstone.com/music/music-news/charli-xcx-martin-scorsese-horror-film-1235646987/",
+   "pubDate": "2026-10-22T23:58:03.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "Sam Fender says he’s “not happy” with prices for 2027 stadium tour and they’re “getting changed”",
+   "description": "He also criticised split standing sections at big shows: \"It’s bollocks and it won’t be happening on this tour\"\nThe post Sam Fender says he’s “not happy” with prices for 2027 stadium tour and they’re “getting changed” appeared first on NME.",
+   "link": "https://www.nme.com/news/music/sam-fender-not-happy-with-prices-for-2027-stadium-tour-getting-changed-3974129?utm_source=rss&utm_medium=rss&utm_campaign=sam-fender-not-happy-with-prices-for-2027-stadium-tour-getting-changed",
+   "pubDate": "2026-10-24T11:16:40.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2026/01/NMEAR_NME-READING-2023-SAM-FENDER-LIVE-ANDY-FORD-10@2000x1270.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Macklemore calls for “free Palestine” and condemns ICE at first show since Ed Sheeran saga",
+   "description": "\"It is not political [...] The message will always be love\"\nThe post Macklemore calls for “free Palestine” and condemns ICE at first show since Ed Sheeran saga appeared first on NME.",
+   "link": "https://www.nme.com/news/music/macklemore-calls-for-free-palestine-condemns-ice-first-show-since-ed-sheeran-saga-3974113?utm_source=rss&utm_medium=rss&utm_campaign=macklemore-calls-for-free-palestine-condemns-ice-first-show-since-ed-sheeran-saga",
+   "pubDate": "2026-10-24T10:03:29.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2023/11/2023-Macklemore.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Slayyyter cancels UK and European tour dates due to illness",
+   "description": "\"I have laryngitis and vocal cord tears and have been ordered to go on medication and full vocal rest,\" she wrote, while her support act has been left stranded abroad\nThe post Slayyyter cancels UK and European tour dates due to illness appeared first on NME.",
+   "link": "https://www.nme.com/news/music/slayyyter-cancels-uk-and-european-tour-dates-due-to-illness-3974102?utm_source=rss&utm_medium=rss&utm_campaign=slayyyter-cancels-uk-and-european-tour-dates-due-to-illness",
+   "pubDate": "2026-10-24T08:59:54.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2026/09/NMEAR_NME-READING-2026-SLAYYYTER-LIVE-14-CREDIT-ANDY-FORD@2000x1270.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Watch Noel Gallagher talk Oasis reunion and “compromise” of working with Liam on ‘Chicken Shop Date’",
+   "description": "\"You've just got to hope that you can do whatever it is you're trying to do as well as you once did it,\" said Gallagher, who also discussed being a \"low-key\" rock star, his friendship with Paul McCartney, and more\nThe post Watch Noel Gallagher talk Oasis reunion and “compromise” of working with Liam on ‘Chicken Shop Date’ appeared first on NME.",
+   "link": "https://www.nme.com/news/music/watch-noel-gallagher-talk-oasis-reunion-on-chicken-shop-date-3974092?utm_source=rss&utm_medium=rss&utm_campaign=watch-noel-gallagher-talk-oasis-reunion-on-chicken-shop-date",
+   "pubDate": "2026-10-24T08:11:32.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2026/09/noel_gallagher_big_brother.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Queens Of The Stone Age announce 2027 ‘Perfecth’ US tour with Pixies",
+   "description": "The 16-date run will support the band's upcoming ninth album ‘Perfecth’, with further shows set to be announced\nThe post Queens Of The Stone Age announce 2027 ‘Perfecth’ US tour with Pixies appeared first on NME.",
+   "link": "https://www.nme.com/news/music/queens-of-the-stone-age-announce-2027-perfecth-us-tour-with-pixies-3974084?utm_source=rss&utm_medium=rss&utm_campaign=queens-of-the-stone-age-announce-2027-perfecth-us-tour-with-pixies",
+   "pubDate": "2026-10-23T16:38:11.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2026/10/josh_homme_qotsa.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "U2’s Bono hits out at Elon Musk’s DOGE cuts as “unconscionable”, says Republican Party has been “hijacked”",
+   "description": "The singer questioned how people of faith could support international aid cuts that researchers warn could cost millions of lives\nThe post U2’s Bono hits out at Elon Musk’s DOGE cuts as “unconscionable”, says Republican Party has been “hijacked” appeared first on NME.",
+   "link": "https://www.nme.com/news/music/u2-bono-elon-musk-doge-cuts-unconscionable-republican-party-hijacked-3974078?utm_source=rss&utm_medium=rss&utm_campaign=u2-bono-elon-musk-doge-cuts-unconscionable-republican-party-hijacked",
+   "pubDate": "2026-10-23T15:29:23.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2026/10/u2@2000x1270.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Jade talks “brave and bold” new music, Reading & Leeds headline dreams and if we’ll see her at Glasto next year",
+   "description": "Get ready for another \"pop punch to the face\" \nThe post Jade talks “brave and bold” new music, Reading & Leeds headline dreams and if we’ll see her at Glasto next year appeared first on NME.",
+   "link": "https://www.nme.com/news/music/jade-interview-mercury-prize-new-angel-dreams-new-music-reading-leeds-glastonbury-3974066?utm_source=rss&utm_medium=rss&utm_campaign=jade-interview-mercury-prize-new-angel-dreams-new-music-reading-leeds-glastonbury",
+   "pubDate": "2026-10-23T15:26:19.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2026/10/jade_mercury_1.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "The Strokes and Phoebe Bridgers among musical guests for new episodes of ‘SNL’",
+   "description": "Druski and John Mulaney will host in November, while Gracie Abrams is lined up for the Halloween show\nThe post The Strokes and Phoebe Bridgers among musical guests for new episodes of ‘SNL’ appeared first on NME.",
+   "link": "https://www.nme.com/news/music/the-strokes-phoebe-bridgers-musical-guests-snl-3974064?utm_source=rss&utm_medium=rss&utm_campaign=the-strokes-phoebe-bridgers-musical-guests-snl",
+   "pubDate": "2026-10-23T14:30:57.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2026/10/Astrida_Valigorsky_Daniele_Venturelli.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Panchiko follow up viral success with new album ‘Chimera’ and glitchy single ‘One Car Hits Another’",
+   "description": "The Nottingham veterans will release their third album next April\nThe post Panchiko follow up viral success with new album ‘Chimera’ and glitchy single ‘One Car Hits Another’ appeared first on NME.",
+   "link": "https://www.nme.com/news/music/panchiko-new-album-chimera-glitchy-single-one-car-hits-another-3974049?utm_source=rss&utm_medium=rss&utm_campaign=panchiko-new-album-chimera-glitchy-single-one-car-hits-another",
+   "pubDate": "2026-10-23T13:32:41.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2026/10/Panchiko_Lindsay_Melbourne.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Watch My Chemical Romance bring out ‘Dallas Cowboys Cheerleaders’ for ‘Teenagers’ at Hollywood Bowl",
+   "description": "The emo icons are the first band to play five consecutive nights at the venue, and the cheerleaders donned fake rifles for their performance\nThe post Watch My Chemical Romance bring out ‘Dallas Cowboys Cheerleaders’ for ‘Teenagers’ at Hollywood Bowl appeared first on NME.",
+   "link": "https://www.nme.com/news/music/watch-my-chemical-romance-bring-out-fake-dallas-cowboys-cheerleaders-hollywood-bowl-3974041?utm_source=rss&utm_medium=rss&utm_campaign=watch-my-chemical-romance-bring-out-fake-dallas-cowboys-cheerleaders-hollywood-bowl",
+   "pubDate": "2026-10-23T12:50:15.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2026/10/My-chemical-romance@2000x1270.jpg",
+   "_tipo": "int"
+  }
+ ]
+}
