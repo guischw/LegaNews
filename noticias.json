@@ -1,0 +1,763 @@
+{
+ "geradoEm": "2026-11-14T15:15:14.721Z",
+ "fontes": [
+  {
+   "url": "https://portalpopline.com.br/feed/",
+   "tipo": "br",
+   "ok": true,
+   "itens": 10
+  },
+  {
+   "url": "https://rollingstone.uol.com.br/feed/",
+   "tipo": "br",
+   "ok": true,
+   "itens": 10
+  },
+  {
+   "url": "https://www.vagalume.com.br/news/index.xml",
+   "tipo": "br",
+   "ok": true,
+   "itens": 25
+  },
+  {
+   "url": "https://pitchfork.com/rss/news/",
+   "tipo": "int",
+   "ok": true,
+   "itens": 25
+  },
+  {
+   "url": "https://www.rollingstone.com/music/music-news/feed/",
+   "tipo": "int",
+   "ok": true,
+   "itens": 10
+  },
+  {
+   "url": "https://www.nme.com/news/music/feed",
+   "tipo": "int",
+   "ok": true,
+   "itens": 10
+  }
+ ],
+ "itens": [
+  {
+   "title": "Lauana Prado vibra com Grammy Latino à distância: “Estamos em Las Vegas? Não”",
+   "description": "(Fotos: Instagram @lauanaprado)\nLauana Prado venceu o Grammy Latino de melhor álbum de música sertaneja com \"Raiz BH (Ao Vivo / Deluxe)\" e comemorou ao vivo, de roupão, no interior de São Paulo.",
+   "link": "https://portalpopline.com.br/lauana-prado-vibra-grammy-latino-a-distancia/",
+   "pubDate": "2026-11-13T20:47:24.000Z",
+   "thumbnail": "https://uploads.portalpopline.com.br/2026/11/lauana-prado-live.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Johnny Hooker comemora Grammy Latino: “Enche minha trajetória de significado”",
+   "description": "(Fotos: POPline)\n\"É uma carreira que poderia parecer improvável para muitas pessoas, mas que, com muita luta, muito suor, eu consegui\", Johnny Hooker comemora vitória no Grammy Latino em entrevista ao POPline.",
+   "link": "https://portalpopline.com.br/johnny-hooker-comemora-grammy-latino/",
+   "pubDate": "2026-11-13T20:12:50.000Z",
+   "thumbnail": "https://uploads.portalpopline.com.br/2026/11/johnny-hooker-2.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Aria Vega vence Grammy Latino 2026 de Artista Revelação e emociona em discurso",
+   "description": "Crédito: Reprodução/Latin Grammy\nA cantora colombiana Aria Vega recebeu o prêmio de Artista Revelação no Grammy Latino 2026 e dedicou a conquista à família, à equipe e a Barranquilla.",
+   "link": "https://portalpopline.com.br/aria-vega-vence-grammy-latino-2026-artista-revelacao-discurso/",
+   "pubDate": "2026-11-13T20:04:47.000Z",
+   "thumbnail": "https://uploads.portalpopline.com.br/2026/11/aria-vega.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "“Quem é o namorado atual de Avril Lavigne?”: fãs se perguntam após nascimento da filha",
+   "description": "(Foto: Instagram @avrillavigne)\nAvril Lavigne anunciou o nascimento da filha nesta sexta (13/11) e as fotos reacenderam a dúvida entre os fãs sobre quem é o pai da criança e o possível novo namorado da cantora.",
+   "link": "https://portalpopline.com.br/quem-namorado-atual-avril-lavigne-nascimento-filha/",
+   "pubDate": "2026-11-13T19:49:23.000Z",
+   "thumbnail": "https://portalpopline.com.br/uploads.portalpopline.com.br/2026/11/avril-02-1320x1760.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Anitta: “Tenho três viagens de férias marcadas e agora o que quero é fazê-las”",
+   "description": "(Foto: Instagram @anitta)\nAnitta foi cobrada pela imprensa mexicana no Grammy Latino para visitar mais o México, mas disse que não há planos por ora, já que pretende aproveitar três viagens de férias.",
+   "link": "https://portalpopline.com.br/anitta-tres-viagens-ferias/",
+   "pubDate": "2026-11-13T19:35:14.000Z",
+   "thumbnail": "https://uploads.portalpopline.com.br/2026/11/anitta-grammy.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Fox quer “The X Factor” de volta nos EUA: programa revelou Fifth Harmony",
+   "description": "(Foto: Divulgação / Fox)\nA Fox trabalha em uma nova versão de \"The X Factor\", criado por Simon Cowell, que pode incluir confinamento de participantes em uma casa, como no \"Estrelas da Casa\".",
+   "link": "https://portalpopline.com.br/fox-quer-the-x-factor-de-volta-nos-eua-programa-revelou-fifth-harmony/",
+   "pubDate": "2026-11-13T18:40:59.000Z",
+   "thumbnail": "https://uploads.portalpopline.com.br/2026/11/the-x-factor-us.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Chay Suede tinha topado nova turnê dos Rebeldes, revela Micael Borges",
+   "description": "(Fotos: Globo/ Manoella Mello / Léo Rosario)\n\nMicael Borges afirmou em live no TikTok que Chay Suede não foi o empecilho para uma turnê comemorativa dos Rebeldes, e a declaração gerou especulação entre os fãs.",
+   "link": "https://portalpopline.com.br/chay-suede-nova-turne-rebeldes-revela-micael-borges/",
+   "pubDate": "2026-11-13T17:52:50.000Z",
+   "thumbnail": "https://uploads.portalpopline.com.br/2026/11/micael-tiktok.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Mariah Carey atende fãs diariamente na porta do hotel em São Paulo",
+   "description": "(Foto: Rodrigo Sanches/Brazil News)\nMariah Carey está em São Paulo para um show de sua turnê natalina, e esbanja simpatia com fãs. Ela também cantará no Rio de Janeiro. Veja fotos!",
+   "link": "https://portalpopline.com.br/mariah-carey-atende-fas-diariamente-na-porta-do-hotel-em-sao-paulo/",
+   "pubDate": "2026-11-13T17:19:55.000Z",
+   "thumbnail": "https://portalpopline.com.br/uploads.portalpopline.com.br/2026/11/mariah-carey-sp-0-1000x667.jpeg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Camarote Salvador renova patrocínio master da Petra até 2030",
+   "description": "(Foto: Divulgação)\nO Camarote Salvador garantiu patrocínio master da cerveja Petra até 2030. A edição de 2027 do Carnaval de Salvador ocorrerá de 4 a 9 de fevereiro, no circuito Barra-Ondina.",
+   "link": "https://portalpopline.com.br/camarote-salvador-renova-patrocinio-master-petra-2030/",
+   "pubDate": "2026-11-13T17:02:13.000Z",
+   "thumbnail": "https://uploads.portalpopline.com.br/2026/11/camarote-salvador-petra.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Avril Lavigne surpreende o mundo e anuncia nascimento de filha",
+   "description": "(Fotos: Instagram @avrillavigne)\nAos 42 anos, a cantora canadense Avril Lavigne anunciou o nascimento da filha em post no Instagram nesta sexta (13/11), sem ter divulgado a gravidez.",
+   "link": "https://portalpopline.com.br/avril-lavigne-surpreende-o-mundo-e-anuncia-nascimento-filha/",
+   "pubDate": "2026-11-13T16:28:12.000Z",
+   "thumbnail": "https://uploads.portalpopline.com.br/2026/11/avril-02-scaled.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Caos aéreo nos EUA impacta artistas brasileiros que foram ao Grammy Latino",
+   "description": "Marina Sena, Zé Ibarra e os integrantes do Black Pantera enfrentam dificuldades para retornar ao Brasil após participarem da premiação em Las Vegas\nO post Caos aéreo nos EUA impacta artistas brasileiros que foram ao Grammy Latino apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/noticia/caos-aereo-nos-eua-impacta-artistas-brasileiros-que-foram-ao-grammy-latino/",
+   "pubDate": "2026-11-14T14:47:29.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2026/11/Caos-aereo-nos-EUA-impacta-artistas-brasileiros-que-foram-ao-Grammy-Latino-406x228.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "A turnê mundial das Guerreiras do K-Pop vai passar pelo Brasil?",
+   "description": "Experiência inspirada no sucesso da Netflix contará com performances ao vivo, acrobacias e apresentações dos grupos HUNTR/X e Saja Boys\nO post A turnê mundial das Guerreiras do K-Pop vai passar pelo Brasil? apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/musica/a-turne-mundial-das-guerreiras-do-k-pop-vai-passar-pelo-brasil/",
+   "pubDate": "2026-11-14T10:47:44.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2026/11/A-turne-mundial-das-Guerreiras-do-K-Pop-vai-passar-pelo-Brasil-406x228.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "‘Guerreiras do K-Pop’ anunciam turnê mundial para 2027, incluindo a América Latina",
+   "description": "Experiência inspirada no sucesso da Netflix contará com performances ao vivo, acrobacias e apresentações dos grupos HUNTR/X e Saja Boys\nO post ‘Guerreiras do K-Pop’ anunciam turnê mundial para 2027, incluindo a América Latina apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/musica/guerreiras-do-k-pop-anunciam-turne-mundial-para-2027-incluindo-a-america-latina/",
+   "pubDate": "2026-11-14T10:40:58.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2026/11/Guerreiras-do-K-Pop-anunciam-turne-mundial-para-2027-incluindo-a-America-Latina-406x228.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Travis Barker, do Blink-182, revela que parou de fumar após diagnóstico de condição pré-cancerígena",
+   "description": "Baterista contou que abandonou o cigarro e a maconha após receber um alerta médico\nO post Travis Barker, do Blink-182, revela que parou de fumar após diagnóstico de condição pré-cancerígena apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/musica/travis-barker-do-blink-182-revela-que-parou-de-fumar-apos-diagnostico-de-condicao-pre-cancerigena/",
+   "pubDate": "2026-11-14T09:59:19.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2024/09/travis-barker-foto-erika-goldringwireimage.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Paapa Essiedu, o Snape da série de ‘Harry Potter’, fala sobre Alan Rickman: ‘Sinto que ele está comigo’",
+   "description": "Ator britânico revelou ter recebido o apoio de pessoas próximas ao intérprete do professor de Poções nos filmes da franquia \nO post Paapa Essiedu, o Snape da série de ‘Harry Potter’, fala sobre Alan Rickman: ‘Sinto que ele está comigo’ apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/tv/paapa-essiedu-o-snape-da-serie-de-harry-potter-fala-sobre-alan-rickman/",
+   "pubDate": "2026-11-14T09:50:45.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2026/11/Paapa-Essiedu-o-Snape-da-serie-de-Harry-Potter-fala-sobre-Alan-Rickman-Sinto-que-ele-esta-comigo-406x228.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "‘VisionQuest’ encerra temporada com recorde de audiência para a Marvel",
+   "description": "Último episódio da produção estrelada por Paul Bettany superou os números de outras séries recentes do MCU\nO post ‘VisionQuest’ encerra temporada com recorde de audiência para a Marvel apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/tv/visionquest-encerra-temporada-com-recorde-de-audiencia-para-a-marvel/",
+   "pubDate": "2026-11-14T09:36:31.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2026/11/VisionQuest-encerra-temporada-com-recorde-de-audiencia-para-a-Marvel-406x228.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Membro da equipe de ‘Dept. Q’, série da Netflix, morre no set de filmagens",
+   "description": "Profissional sofreu ferimentos graves nos estúdios onde a segunda temporada da série policial, estrelada por Matthew Goode, acabara de ser rodada\nO post Membro da equipe de ‘Dept. Q’, série da Netflix, morre no set de filmagens apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/tv/membro-da-equipe-de-dept-q-serie-da-netflix-morre-no-set-de-filmagens/",
+   "pubDate": "2026-11-14T09:25:23.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2026/11/Membro-da-equipe-de-Dept.-Q-serie-da-Netflix-morre-no-set-de-filmagens-406x228.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "The Wildhearts anuncia apresentação única no Brasil em 2027",
+   "description": "Referência do rock alternativo britânico, banda liderada por Ginger desembarca em São Paulo em abril de 2027 para apresentação única no país\nO post The Wildhearts anuncia apresentação única no Brasil em 2027 apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/musica/the-wildhearts-anuncia-apresentacao-unica-no-brasil-em-2027/",
+   "pubDate": "2026-11-14T09:13:30.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2026/11/The-Wildhearts-anuncia-apresentacao-unica-no-Brasil-em-2027-406x228.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "‘Sob o Mesmo Sol’ é o grande vencedor do 36º Cine Ceará; confira os premiados",
+   "description": "Coprodução entre República Dominicana e Espanha conquistou quatro prêmios no festival, assim como o curta-metragem brasileiro Joqueta, de Luciana Vieira\nO post ‘Sob o Mesmo Sol’ é o grande vencedor do 36º Cine Ceará; confira os premiados apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/cinema/sob-o-mesmo-sol-e-o-grande-vencedor-do-36o-cine-ceara/",
+   "pubDate": "2026-11-14T09:01:54.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2026/11/Sob-o-Mesmo-Sol-e-o-grande-vencedor-do-36o-Cine-Ceara-confira-os-premiados-406x228.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "John Mulaney tem muitas opiniões sobre os indicados ao Hall da Fama do Rock de 2026 — e faz suas apostas para a próxima turma",
+   "description": "O comediante e fã do Hall da Fama retorna para falar sobre Oasis, Wu-Tang Clan, Phil Collins e muito mais\nO post John Mulaney tem muitas opiniões sobre os indicados ao Hall da Fama do Rock de 2026 — e faz suas apostas para a próxima turma apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/noticia/john-mulaney-tem-muitas-opinioes-sobre-os-indicados-ao-hall-da-fama-do-rock-de-2026-e-faz-suas-apostas-para-a-proxima-turma/",
+   "pubDate": "2026-11-13T22:14:24.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2026/11/John-Mulaney-Foto_-Scott-Eisen_Getty-Images-for-The-Cam-Neely-Foundation-406x228.png",
+   "_tipo": "br"
+  },
+  {
+   "title": "Em meio à paralisação de voo nos EUA, Hoobastank  canta \"The Reason\" para passageiros. Veja o vídeo!",
+   "description": "A banda cantou o seu maior sucesso no corredor de um avião e os passageiros cantaram junto, durante dia caótico para a aviação norte-americana",
+   "link": "https://www.vagalume.com.br/news/2026/11/14/em-meio-a-paralisacao-de-voo-nos-eua-hoobastank-canta-the-reason-para-passageiros-veja-o-video.html",
+   "pubDate": "2026-11-14T09:30:18.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57935-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "João Gomes foge de polêmica sobre representação do Nordeste em nova novela da Globo",
+   "description": "Voz da abertura de \"Lá na Minha Terra\" diz que não teve nada a ver com a trama e fala das diferenças entre capital e interior do Nordeste",
+   "link": "https://www.vagalume.com.br/news/2026/11/14/joao-gomes-foge-de-polemica-sobre-representacao-do-nordeste-em-nova-novela-da-globo.html",
+   "pubDate": "2026-11-14T04:50:26.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57934-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Tyga e Madelaine Petsch, de \"Riverdale\", terminam após mais de um ano",
+   "description": "Rapper e atriz de \"Riverdale\" estavam juntos desde fevereiro de 2025; em setembro, os dois ainda foram vistos num passeio de Halloween",
+   "link": "https://www.vagalume.com.br/news/2026/11/13/tyga-e-madelaine-petsch-de-riverdale-terminam-apos-mais-de-um-ano.html",
+   "pubDate": "2026-11-13T16:40:33.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57933-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Avril Lavigne vira mãe e mostra as primeiras fotos da filha recém-nascida",
+   "description": "Cantora canadense anunciou a chegada da bebê no Instagram, com fotos em preto e branco e uma referência ao visual que a marcou nos anos 2000",
+   "link": "https://www.vagalume.com.br/news/2026/11/13/avril-lavigne-vira-mae-e-mostra-as-primeiras-fotos-da-filha-recem-nascida.html",
+   "pubDate": "2026-11-13T16:23:12.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57932-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Sexta-feira 13: Confira a inspiração sombria por trás trilha sonora do filme, \"ch ch ch, ha ha ha\"",
+   "description": "Linda Cardellini, intérprete de Pamela Voorhees em \"Crystal Lake\", contou em recente entrevista de onde vem o som mais famoso da franquia de terror",
+   "link": "https://www.vagalume.com.br/news/2026/11/13/sexta-feira-13-confira-a-inspiracao-sombria-por-tras-trilha-sonora-do-filme-ch-ch-ch-ha-ha-ha.html",
+   "pubDate": "2026-11-13T15:38:20.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57931-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Kanye West é processado por trancar cantor em escola por dias para terminar ópera bíblica",
+   "description": "Músico diz que ficou sem comida suficiente e sem tempo para dormir; ele cobra direitos autorais e indenização do rapper",
+   "link": "https://www.vagalume.com.br/news/2026/11/13/kanye-west-e-processado-por-trancar-cantor-em-escola-por-dias-para-terminar-opera-biblica.html",
+   "pubDate": "2026-11-13T15:22:40.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57930-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Travis Barker revela que foi diagnosticado com “pré-câncer de esôfago” antes de parar de fumar",
+   "description": "Baterista do Blink-182 contou a Kid Cudi que condição serviu como alerta e o fez largar de vez o fumo",
+   "link": "https://www.vagalume.com.br/news/2026/11/13/travis-barker-revela-que-foi-diagnosticado-com-pre-cancer-de-esofago-antes-de-parar-de-fumar.html",
+   "pubDate": "2026-11-13T14:10:44.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57929-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Rosalía domina o Grammy Latino 2026 e Anitta quebra jejum histórico; veja os vencedores",
+   "description": "Depois de 12 indicações, a brasileira conquista seu primeiro gramofone; Milo J, Aria Vega, Emicida, Leci Brandão e Johnny Hooker com Ney Matogrosso também saíram premiados",
+   "link": "https://www.vagalume.com.br/news/2026/11/13/rosalia-domina-o-grammy-latino-2026-e-anitta-quebra-jejum-historico-veja-os-vencedores.html",
+   "pubDate": "2026-11-13T09:48:18.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57928-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Hayley Williams chama Seu Jorge ao palco em SP e vive \"sonho\" com dueto de \"Zissou\". Veja o vídeo!",
+   "description": "Brasileiro, que inspirou a faixa da cantora, também cantou sua versão de \"Life on Mars?\" e agradeceu: \"Foi uma honra\"",
+   "link": "https://www.vagalume.com.br/news/2026/11/13/hayley-williams-chama-seu-jorge-ao-palco-em-sp-e-vive-sonho-com-dueto-de-zissou-veja-o-video.html",
+   "pubDate": "2026-11-13T06:53:22.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57927-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "\"Jogos Vorazes: Amanhecer na Colheita\" tem trilha sonora lançada. Ouça com todas as letras!",
+   "description": "Disco com 29 faixas tem Noah Kahan, The Cure, Stevie Nicks, Kacey Musgraves e a volta de Jennifer Lawrence; filme estreia no dia 20",
+   "link": "https://www.vagalume.com.br/news/2026/11/13/jogos-vorazes-amanhecer-na-colheita-tem-trilha-sonora-lancada-ouca-com-todas-as-letras.html",
+   "pubDate": "2026-11-13T06:43:44.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57926-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "ATEEZ lança o EP, \"GOLDEN HOUR : Part. 6\". Escute com todas as letras!",
+   "description": "Sexto volume da série do grupo sul-coreano tem \"UP\" como faixa-título e reúne o single \"Drip\", lançado em outubro",
+   "link": "https://www.vagalume.com.br/news/2026/11/13/ateez-lanca-o-ep-golden-hour-part-6-escute-com-todas-as-letras.html",
+   "pubDate": "2026-11-13T06:23:57.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57925-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Anitta vence seu 1º Grammy Latino e manda recado: \"O Brasil também faz parte disso\"",
+   "description": "Cantora levou o prêmio de Melhor Álbum de Pop Contemporâneo em Língua Portuguesa com \"EQUILIBRIVM\" e celebrou a \"revolução de fé\" do disco",
+   "link": "https://www.vagalume.com.br/news/2026/11/13/anitta-vence-seu-1-grammy-latino-e-manda-recado-o-brasil-tambem-faz-parte-disso.html",
+   "pubDate": "2026-11-13T06:19:09.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57924-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Lauana Prado chora ao descobrir 1º Grammy Latino em videochamada: \"Nem cabe em mim\"",
+   "description": "Cantora soube da vitória por videochamada com a equipe e comemorou o troféu por \"Raiz BH\", na sexta vez em que concorreu à premiação",
+   "link": "https://www.vagalume.com.br/news/2026/11/13/lauana-prado-chora-ao-descobrir-1-grammy-latino-em-videochamada-nem-cabe-em-mim.html",
+   "pubDate": "2026-11-13T05:32:11.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57923-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Johnny Hooker leva o Grammy Latino com Ney Matogrosso e manda recado: \"Sejam perigosos\"",
+   "description": "Faixa feita para Ney venceu em \"Melhor Canção em Língua Portuguesa\". No palco, o pernambucano dedicou o troféu aos artistas queer do Nordeste",
+   "link": "https://www.vagalume.com.br/news/2026/11/13/johnny-hooker-leva-o-grammy-latino-com-ney-matogrosso-e-manda-recado-sejam-perigosos.html",
+   "pubDate": "2026-11-13T05:24:33.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57922-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "U2 lança o seu novo álbum, \"Carnaval de Luz\". Ouça com todas as letras!",
+   "description": "Produzido por Jacknife Lee, o 16º disco de estúdio da banda irlandesa tem Brian Eno entre os convidados e a última gravação de Dolly Parton",
+   "link": "https://www.vagalume.com.br/news/2026/11/13/u2-lanca-o-seu-novo-album-carnaval-de-luz-ouca-com-todas-as-letras.html",
+   "pubDate": "2026-11-13T04:57:40.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57921-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Emicida leva Grammy Latino com disco-tributo aos Racionais MC's",
+   "description": "Disco inspirado em \"Cores & Valores\" foi eleito o Melhor Álbum de Música Urbana em Língua Portuguesa na 27ª edição do prêmio",
+   "link": "https://www.vagalume.com.br/news/2026/11/12/emicida-leva-grammy-latino-com-disco-tributo-aos-racionais-mcs.html",
+   "pubDate": "2026-11-12T21:26:24.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57920-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Vaca persegue motociclista em MG e vídeo viraliza ao som de \"Toxic\", de Britney Spears",
+   "description": "Animal pulou um mata-burro para continuar correndo atrás da moto em estrada rural de Cláudio; versão editada com remix do hit já passa de 360 mil visualizações",
+   "link": "https://www.vagalume.com.br/news/2026/11/12/vaca-persegue-motociclista-em-mg-e-video-viraliza-ao-som-de-toxic-de-britney-spears.html",
+   "pubDate": "2026-11-12T19:46:52.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57919-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Com 12 milhões de seguidores, perfil de Anderson Neiff é bloqueado no Brasil por divulgar bet ilegal",
+   "description": "Cantor pernambucano está entre os influenciadores atingidos pela ofensiva do governo contra casas de apostas ilegais",
+   "link": "https://www.vagalume.com.br/news/2026/11/12/com-12-milhoes-de-seguidores-perfil-de-anderson-neiff-e-bloqueado-no-brasil-por-divulgar-bet-ilegal.html",
+   "pubDate": "2026-11-12T19:27:36.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57918-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Shawn Mendes defende a Palestina publicamente: \"As mortes em Gaza devem parar!\"",
+   "description": "Em comunicado no Instagram, o cantor canadense pede o fim da violência na Faixa de Gaza, revela doações a instituições e convoca outros artistas a se posicionarem",
+   "link": "https://www.vagalume.com.br/news/2026/11/12/shawn-mendes-defende-a-palestina-publicamente-as-mortes-em-gaza-devem-parar.html",
+   "pubDate": "2026-11-12T19:18:54.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57917-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "The Weeknd lança clipe de \"Hong Kong\", parceria com Faye Wong que bateu recordes na China",
+   "description": "Dirigido por Evan Larsen e estrelado pela modelo Ming Xi, o vídeo da parceria com a diva do cantopop foi rodado nas ruas de Mong Kok",
+   "link": "https://www.vagalume.com.br/news/2026/11/12/the-weeknd-lanca-clipe-de-hong-kong-parceria-com-faye-wong-que-bateu-recordes-na-china.html",
+   "pubDate": "2026-11-12T18:04:54.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57916-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Jennifer Lopez sobe ao palco em NY, emanando sensualidade com macacão colado e música inédita. Veja!",
+   "description": "Em show surpresa no Metropolitan Museum of Art, em Nova York, a cantora apresentou \"Proof of Love\" e cantou hits como \"On the Floor\"",
+   "link": "https://www.vagalume.com.br/news/2026/11/12/jennifer-lopez-sobe-ao-palco-em-ny-emanando-sensualidade-com-macacao-colado-e-musica-inedita-veja.html",
+   "pubDate": "2026-11-12T17:47:14.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57915-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Lollapalooza 2027 terá 26 shows que só poderão ser vistos no festival. Confira a lista!",
+   "description": "Travis Scott, The Killers, Charli XCX e RAYE estão entre as atrações que não terão outras datas no Brasil; edição de 15 anos acontece de 19 a 21 de março, em São Paulo",
+   "link": "https://www.vagalume.com.br/news/2026/11/12/lollapalooza-2027-tera-26-shows-que-so-poderao-ser-vistos-no-festival-confira-a-lista.html",
+   "pubDate": "2026-11-12T14:38:15.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57914-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Ariana Grande esbanja charme no tapete vermelho do filme \"Entrando Numa Grande Fria\". Veja os vídeos",
+   "description": "Cantora estreou como casal ao lado de Ricky Álvarez na pré-estreia de \"Entrando Numa Grande Fria\", em Nova York, usando um vestido vintage dos anos 90",
+   "link": "https://www.vagalume.com.br/news/2026/11/12/ariana-grande-esbanja-charme-no-tapete-vermelho-do-filme-entrando-numa-grande-fria-veja-os-videos.html",
+   "pubDate": "2026-11-12T13:25:17.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57913-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Jennifer Lopez leva show de Las Vegas para a TV: \"Agora eu canto empoderada\"",
+   "description": "\"The JLO Show\" mostra a noite que encerrou a residência da cantora no Caesars Palace; filme estreia em 26 de novembro",
+   "link": "https://www.vagalume.com.br/news/2026/11/12/jennifer-lopez-leva-show-de-las-vegas-para-a-tv-agora-eu-canto-empoderada.html",
+   "pubDate": "2026-11-12T13:16:52.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57912-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Tuca Andrada mantém crítica a João Gomes após resposta do cantor: \"Você não é um vaqueiro\"",
+   "description": "Ator pernambucano gravou novo vídeo, negou ter cobrado posição política e desejou que o artista cuide da depressão",
+   "link": "https://www.vagalume.com.br/news/2026/11/12/tuca-andrada-mantem-critica-a-joao-gomes-apos-resposta-do-cantor-voce-nao-e-um-vaqueiro.html",
+   "pubDate": "2026-11-12T09:02:13.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57911-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "camp flog gnaw stream",
+   "description": "Turnstile, Don Toliver, Syd, Gena, and more artists will be available to watch",
+   "link": "https://pitchfork.com/story/camp-flog-gnaw-2026-amazon-music-livestream-schedule-and-details/",
+   "pubDate": "2026-11-13T19:58:27.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6af773a169ea943d7abe9036/master/pass/Camp-Flog-Gnaw.jpeg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Panda Bear Remixes Grace Ives’ “Stupid Bitches”",
+   "description": "Noah Lennox gives Girlfriend’s standout closer a near-total overhaul",
+   "link": "https://pitchfork.com/story/panda-bear-remixes-grace-ives-stupid-bitches/",
+   "pubDate": "2026-11-13T18:14:46.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6af748addf86836dcc15cd36/master/pass/Grace-Ives-Panda-Bear.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Shygirl, Brutalismus 3000, Nirosta Steel Feature on Club Kid Companion EP",
+   "description": "Out now, the record includes two covers of Arthur Russell’s “Boy With a Smile”",
+   "link": "https://pitchfork.com/story/shygirl-brutalismus-3000-nirosta-steel-feature-on-club-kid-ep/",
+   "pubDate": "2026-11-13T16:59:26.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6af72987829743962fb4ec21/master/pass/unnamed%20(71).jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Hayley Williams Brings Out Seu Jorge to Cover David Bowie",
+   "description": "The Paramore singer and Life Aquatic star also duetted on “Zissou” in São Paulo",
+   "link": "https://pitchfork.com/story/hayley-williams-brings-out-seu-jorge-to-cover-david-bowie/",
+   "pubDate": "2026-11-13T16:29:24.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6af73aae829743962fb4ed74/master/pass/hayley-williams-seu-jorge-bowie.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Drake Updates Take Care With New Song “Hate Sleeping Alone”",
+   "description": "Get your brood on with an unearthed cut from the 2011 album",
+   "link": "https://pitchfork.com/story/drake-updates-take-care-with-new-song-hate-sleeping-alone/",
+   "pubDate": "2026-11-13T15:53:48.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6af723dcdf86836dcc15cb36/master/pass/GettyImages-2301207783.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "9 New Albums You Should Listen to Now: 2hollis, Armand Hammer, and More",
+   "description": "Stream new releases from 2hollis, Ecco2k, Armand Hammer, and U2",
+   "link": "https://pitchfork.com/story/9-new-albums-you-should-listen-to-now-2hollis-armand-hammer-and-more/",
+   "pubDate": "2026-11-13T14:59:02.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6af4f0b7123cd98d0879ec7f/master/pass/2hollis%20%E2%80%94%20Pitchfork.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Zsela Invites You to The Party With New Album",
+   "description": "Listen to “Real Romantic” from the Los Angeles singer’s new LP for Nice Life",
+   "link": "https://pitchfork.com/story/zsela-invites-you-to-the-party-with-new-album/",
+   "pubDate": "2026-11-13T12:44:36.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6af76aba48625867721cd45c/master/pass/Zsela.jpeg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Hear U2’s Posthumous Dolly Parton Duet",
+   "description": "“Torn” is the closing track off the band’s new album, Carnaval de Luz",
+   "link": "https://pitchfork.com/story/hear-u2s-posthumous-dolly-parton-duet/",
+   "pubDate": "2026-11-13T05:01:36.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6af71a3e829743962fb4eb11/master/pass/Dolly%20Parton%20Bono.png",
+   "_tipo": "int"
+  },
+  {
+   "title": "Watch Rosalía Perform a Lux Medley at the 2026 Latin Grammys",
+   "description": "Her 2025 album is up for seven statuettes tonight",
+   "link": "https://pitchfork.com/story/watch-rosalia-perform-a-lux-medley-at-the-2026-latin-grammys/",
+   "pubDate": "2026-11-13T02:33:11.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6af670a2caedaca0313055df/master/pass/GettyImages-2304857045.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Saba and Pivot Gang Set 2027 North American Tour",
+   "description": "The All My Friends Tour is the Chicago rap collective’s first proper run since 2019",
+   "link": "https://pitchfork.com/story/saba-and-pivot-gang-set-2027-north-american-tour/",
+   "pubDate": "2026-11-12T23:15:44.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6af6473acaedaca0313053f6/master/pass/Pivot%20Photo%20for%20Tour%20PR%20by%20@therealraeven.png",
+   "_tipo": "int"
+  },
+  {
+   "title": "Ralphie Choo Returns With New Album and Song",
+   "description": "“El Hueso” leads Charmain “Le Grand Architecte” ahead of its February release",
+   "link": "https://pitchfork.com/story/ralphie-choo-returns-with-new-album-and-song/",
+   "pubDate": "2026-11-12T23:03:19.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6af5ecc99e50db7ac61ed60e/master/pass/ralphie%20choo%20by%20cristina%20stolhe.jpeg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Phoebe Bridgers Extends Tour Into 2027",
+   "description": "Lucky residents of Portland and Spokane can see Grouper open for the singer-songwriter",
+   "link": "https://pitchfork.com/story/phoebe-bridgers-extends-tour-into-2027/",
+   "pubDate": "2026-11-12T17:40:34.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6af5dd4a46848a4eff4c1937/master/pass/Phoebe-Bridgers.jpeg",
+   "_tipo": "int"
+  },
+  {
+   "title": "The Weeknd Broods, Sings Karaoke in “Hong Kong” Video",
+   "description": "The power ballad features Cantopop singer Faye Wong",
+   "link": "https://pitchfork.com/story/the-weeknd-broods-sings-karaoke-in-hong-kong-video/",
+   "pubDate": "2026-11-12T16:58:13.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6af5ef797630335394cc2481/master/pass/weeknd-hong-kong-video.JPG",
+   "_tipo": "int"
+  },
+  {
+   "title": "Deftones Plot 2027 North American Tour",
+   "description": "Knocked Loose and Julie will join the rock titans on the spring run",
+   "link": "https://pitchfork.com/story/deftones-plot-2027-north-american-tour/",
+   "pubDate": "2026-11-12T15:22:59.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6af5d94c73ca45654eb29bd4/master/pass/Deftones_Jimmy_Fontaine.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Rockie Rode Unveils Second Album of 2026",
+   "description": "New York’s Cate Osborne will release Babylon on December 13",
+   "link": "https://pitchfork.com/story/rockie-rode-unveils-second-album-of-2026/",
+   "pubDate": "2026-11-12T14:23:00.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6af4dd274298f33de0f77468/master/pass/Rockie-Rode.jpeg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Merge Holiday Album to Feature Original New Pornographers, Tubs Songs",
+   "description": "One of them is called “I Am an Elf”",
+   "link": "https://pitchfork.com/story/merge-holiday-album-to-feature-original-new-poronographers-tubs-songs/",
+   "pubDate": "2026-11-11T19:49:12.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6af4c5e1c1e733ba34a2835a/master/pass/New-Pornographers-Tubs.jpeg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Jeanne River Recruits Cameron Winter for Debut Single",
+   "description": "“PP2” introduces the Brooklyn singer and electroacoustic composer, with prepared piano from the Geese frontman",
+   "link": "https://pitchfork.com/story/jeanne-river-recruits-cameron-winter-for-debut-single/",
+   "pubDate": "2026-11-11T17:45:12.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6af4a7c5eb628381272f773f/master/pass/jeanne-river-cameron-winter.jpeg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Beyoncé Recreates Sade’s Love Deluxe Album Cover",
+   "description": "She also paid homage to Diana Ross in a new i-D feature",
+   "link": "https://pitchfork.com/story/beyonce-recreates-sades-love-deluxe-album-cover/",
+   "pubDate": "2026-11-11T17:21:17.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6af48e724d1a33729b8cbbee/master/pass/MixCollage-11-Nov-2026-10-48-AM-8117.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Phoebe Bridgers, Slayyyter, Billy Strings to Headline Hinterland 2027",
+   "description": "The three-day music festival returns to St. Charles, Iowa next summer",
+   "link": "https://pitchfork.com/story/phoebe-bridgers-slayyyter-billy-strings-hinterland-2027/",
+   "pubDate": "2026-11-11T16:26:09.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6af368095b5e04c9714707bf/master/pass/hint2027.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Oklou Scored a New Animated Film",
+   "description": "The first song off the In Waves soundtrack, “The Swirl Ahead,\" is out now",
+   "link": "https://pitchfork.com/story/oklou-scored-a-new-animated-film/",
+   "pubDate": "2026-11-11T16:12:22.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6af3813f66555f23ece98a3e/master/pass/%C2%A9%EF%B8%8FMarine%20Benjamin%20for%20Konbini%20-%20%20DSCF1368%20(1).jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Matthew Dear Gets “Dizzy” on New Song",
+   "description": "The producer’s comeback continues after a pair of summer singles",
+   "link": "https://pitchfork.com/story/matthew-dear-gets-dizzy-on-new-song/",
+   "pubDate": "2026-11-11T14:51:59.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6af476fb5b81b6025f850768/master/pass/matthew-dear-new-song.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Naima Bock Signs to Fire Talk, Celebrates With a Horse in New Video",
+   "description": "A European tour is also on the books for spring 2027",
+   "link": "https://pitchfork.com/story/naima-bock-signs-to-fire-talk-celebrates-with-a-horse-in-new-video/",
+   "pubDate": "2026-11-11T14:27:09.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6af35af166555f23ece985df/master/pass/Naima-Bock-new-song.JPG",
+   "_tipo": "int"
+  },
+  {
+   "title": "Watch Tinashe Bring Popstar to The Tonight Show",
+   "description": "She performed the title track and “Melatonin,” and paid brief homage to Janet Jackson",
+   "link": "https://pitchfork.com/story/watch-tinashe-bring-popstar-to-the-tonight-show/",
+   "pubDate": "2026-11-11T14:10:26.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6af4738a4d1a33729b8cbaf9/master/pass/NUP_212330_05317.JPG",
+   "_tipo": "int"
+  },
+  {
+   "title": "Armand Hammer Surprise-Release New Album, Snakes & Ladders",
+   "description": "Elucid and billy woods’ new project has a deluxe edition box set",
+   "link": "https://pitchfork.com/story/armand-hammer-surprise-release-new-album-snakes-and-ladders/",
+   "pubDate": "2026-11-11T14:01:11.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6af47326faf63d904aab74b5/master/pass/armand-hammer-billy-woodz-elucid.jpeg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Coachella 2027 Lineup: Tame Impala, SZA, and Dua Lipa",
+   "description": "Madonna and Phoebe Bridgers are also on the bill, with Daddy Yankee in the fourth headliner spot",
+   "link": "https://pitchfork.com/story/coachella-2027-lineup-tame-impala-sza-and-dua-lipa/",
+   "pubDate": "2026-11-11T10:43:27.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6af498d04d1a33729b8cbced/master/pass/coachella2027.png",
+   "_tipo": "int"
+  },
+  {
+   "title": "See Robyn Strip Down ‘Sexistential’ Songs for Tiny Desk Performance",
+   "description": "Swedish pop icon also revisits \"Show Me Love\" and \"Ever Again\" for NPR mini-concert",
+   "link": "https://www.rollingstone.com/music/music-news/robyn-sexistential-songs-show-me-love-tiny-desk-performance-1235658322/",
+   "pubDate": "2026-11-14T14:51:23.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "Rock & Roll Hall of Fame Induction Ceremony to Kick Off as Planned Amid FAA Grounding Flights Debacle",
+   "description": "There will be no changes to the artists set to appear and perform",
+   "link": "https://www.rollingstone.com/music/music-news/rock-and-roll-hall-of-fame-induction-ceremony-flights-1235658269/",
+   "pubDate": "2026-11-14T02:49:03.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "Kanye West Settles Lawsuit Over Sample Blocked by Descendant of Holocaust Survivors",
+   "description": "The German singer-songwriter said she refused to let West, nown known as Ye, sample her song because of his antisemitic remarks",
+   "link": "https://www.rollingstone.com/music/music-news/kanye-west-settles-lawsuit-alice-merton-holocaust-survivors-1235658191/",
+   "pubDate": "2026-11-14T00:59:53.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "Journey Go Their Separate Ways With Longtime Drummer",
+   "description": "Deen Castronovo has left Journey's stage mid-show at two recent stops due to a medical issue, and now is handing off his drum sticks to veteran musician Steve Murphy",
+   "link": "https://www.rollingstone.com/music/music-news/journey-part-ways-with-drummer-1235658141/",
+   "pubDate": "2026-11-13T22:42:06.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "Megan Moroney, Teddy Swims, Ejae to Perform at 100th Macy’s Thanksgiving Parade",
+   "description": "Queen Latifah, Devo, the Roots, and Keke Palmer are among the star-studded lineup for this year's edition of the annual event",
+   "link": "https://www.rollingstone.com/music/music-news/megan-moroney-teddy-swims-ejae-macys-thanksgiving-parade-1235658100/",
+   "pubDate": "2026-11-13T21:49:29.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "Valerie June Releases Uplifting Cover of Louis Armstrong’s ‘What a Wonderful World’",
+   "description": "“Progress happens when everyday people believe in one another, come together, and work toward a more just, compassionate, and beautiful world,” she says",
+   "link": "https://www.rollingstone.com/music/music-news/valerie-june-what-a-wonderful-world-cover-1235657545/",
+   "pubDate": "2026-11-13T17:34:46.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "IDK Brings Together Eminem and J Dilla for First Time on New Song ‘Welcome’",
+   "description": "Detroit legends finally link up on fellow Motor City rapper’s first single from upcoming album",
+   "link": "https://www.rollingstone.com/music/music-news/idk-eminem-j-dilla-new-song-welcome-1235657529/",
+   "pubDate": "2026-11-13T16:56:34.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "Taylor Swift Sets First CMA Awards Performance in 13 Years",
+   "description": "The singer-songwriter’s Toy Story 5 soundtrack song, “I Knew It, I Knew You,” is nominated for Single of the Year",
+   "link": "https://www.rollingstone.com/music/music-news/taylor-swift-will-perform-2026-cma-awards-1235657442/",
+   "pubDate": "2026-11-13T15:06:04.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "Pearl Jam’s Mike McCready Debuts ‘Farewell to Seasons’ Title Track, an Ode to Seattle’s Music Scene",
+   "description": "The musician released the single alongside an animated music video directed by Cyrus Entezam",
+   "link": "https://www.rollingstone.com/music/music-news/pearl-jam-mike-mccready-farewell-to-seasons-title-track-1235657381/",
+   "pubDate": "2026-11-13T13:03:44.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "Ron Wood to Play Rare U.S. Solo Concert at New York’s Beacon Theatre",
+   "description": "“Now that the Stones have got a little sabbatical,” Wood says, “I’m making the most of it and keeping my chops together, using my fingers, and getting the blood running”",
+   "link": "https://www.rollingstone.com/music/music-news/ron-wood-solo-concert-beacon-theatre-1235657068/",
+   "pubDate": "2026-11-13T13:00:52.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "Kate Nash to lose $16,000 from current tour as she keeps afloat with OnlyFans money",
+   "description": "\"The doors are quickly closing on who can access a career in music\"\nThe post Kate Nash to lose $16,000 from current tour as she keeps afloat with OnlyFans money appeared first on NME.",
+   "link": "https://www.nme.com/news/music/kate-nash-lose-16000-current-tour-keeps-afloat-onlyfans-money-3975948",
+   "pubDate": "2026-11-14T11:37:51.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2026/11/kate_nash_2026.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "U2’s The Edge breaks his silence on sequel to ‘Elf’",
+   "description": "The guitarist has addressed the unlikely reports that he once wrote a follow-up to Will Ferrell's Christmas classic\nThe post U2’s The Edge breaks his silence on sequel to ‘Elf’ appeared first on NME.",
+   "link": "https://www.nme.com/news/music/u2s-the-edge-breaks-his-silence-on-sequel-to-elf-3975944",
+   "pubDate": "2026-11-14T10:27:42.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2026/11/Theo_Wargo_Frazer_Harrison.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Robyn says Eurovision is “just shit” now: “It really is embarrassing”",
+   "description": "The Swedish pop star shared her thoughts on the competition during an appearance on Amy Poehler's ‘Good Hang’ podcast\nThe post Robyn says Eurovision is “just shit” now: “It really is embarrassing” appeared first on NME.",
+   "link": "https://www.nme.com/news/music/robyn-says-eurovision-is-just-shit-now-it-really-is-embarrassing-3975940",
+   "pubDate": "2026-11-14T09:30:27.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2026/11/robyn_live_2026.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Rosalía makes history with Album Of The Year award win at Latin Grammys and performs ‘Lux’ medley",
+   "description": "The Spanish singer became the first solo female to win the award three times, while ‘La Perla’ was also named Song Of The Year\nThe post Rosalía makes history with Album Of The Year award win at Latin Grammys and performs ‘Lux’ medley appeared first on NME.",
+   "link": "https://www.nme.com/news/music/rosalia-album-year-award-latin-grammys-performs-lux-medley-3975928",
+   "pubDate": "2026-11-13T17:47:55.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2026/11/rosalia_latin_grammys.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Watch Queens Of The Stone Age’s NSFW ‘From The Cliff’ video, co-written by Josh Homme",
+   "description": "The frontman stars in the bloody short film, the latest accompaniment to their chart-topping album 'Perfecth'\nThe post Watch Queens Of The Stone Age’s NSFW ‘From The Cliff’ video, co-written by Josh Homme appeared first on NME.",
+   "link": "https://www.nme.com/news/music/queens-of-the-stone-ages-nsfw-from-the-cliff-video-josh-homme-3975920",
+   "pubDate": "2026-11-13T16:42:35.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2025/06/NMEAR_NME-GLASTO-2023-QUEENS-OF-THE-STONE-AGE-LIVE-13-PHOTO-CREDIT-ANDY-FORD@2000x1270.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Blink-182’s Travis Barker quit smoking after being “diagnosed with precancer of the oesophagus”",
+   "description": "\"I thought I could be like Willie Nelson and smoke to the day I die\"\nThe post Blink-182’s Travis Barker quit smoking after being “diagnosed with precancer of the oesophagus” appeared first on NME.",
+   "link": "https://www.nme.com/news/music/blink-182s-travis-barker-quit-smoking-after-being-diagnosed-with-precancer-of-the-oesophagus-3975909",
+   "pubDate": "2026-11-13T16:31:41.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2025/05/NMEAR_NME-READING-2024-BLINK-182-LIVE-10-CREDIT-ANDY-FORD@2000x1270.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Check out Dolly Parton’s “traditional country version” of new U2 duet ‘Torn’",
+   "description": "Both versions of the late country icon's final recording are out now\nThe post Check out Dolly Parton’s “traditional country version” of new U2 duet ‘Torn’ appeared first on NME.",
+   "link": "https://www.nme.com/news/music/check-out-dolly-parton-country-version-new-u2-duet-torn-3975905",
+   "pubDate": "2026-11-13T15:36:05.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2026/11/Terry_Wyatt_Gareth_Cattermole.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Violet Grohl shares “dystopian” new song ‘Metal Birds’ from ‘The Hunger Games: Sunrise On The Reaping’",
+   "description": "\"It was a total honour to be asked to write a song about a story that I feel so connected to\"\nThe post Violet Grohl shares “dystopian” new song ‘Metal Birds’ from ‘The Hunger Games: Sunrise On The Reaping’ appeared first on NME.",
+   "link": "https://www.nme.com/news/music/violet-grohl-releases-new-song-metal-birds-from-hunger-games-soundtrack-listen-3975895",
+   "pubDate": "2026-11-13T15:17:38.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2026/09/NMEAR_NME-READING-2026-VIOLET-GROHL-LIVE-2-CREDIT-ANDY-FORD@2000x1270.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "‘KPop Demon Hunters’ announces 2027 ‘GOLDEN’ world tour – including UK dates",
+   "description": "The animated HUNTR/X stars will be brought to life for seven UK arena performances next October\nThe post ‘KPop Demon Hunters’ announces 2027 ‘GOLDEN’ world tour – including UK dates appeared first on NME.",
+   "link": "https://www.nme.com/news/music/kpop-demon-hunters-2027-golden-world-tour-uk-dates-tickets-3975892",
+   "pubDate": "2026-11-13T14:36:32.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2026/11/kpop_demon_hunters_tour.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Stevie Wonder defends Macklemore in call for freedom of speech in Glasgow: “Ban me if you want”",
+   "description": "He made the comments while performing on Remembrance Day\nThe post Stevie Wonder defends Macklemore in call for freedom of speech in Glasgow: “Ban me if you want” appeared first on NME.",
+   "link": "https://www.nme.com/news/music/stevie-wonder-defends-macklemore-in-call-for-freedom-of-speech-in-glasgow-3975880",
+   "pubDate": "2026-11-13T12:47:08.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2026/11/stevie-wonder-macklemore@2000x1270.jpg",
+   "_tipo": "int"
+  }
+ ]
+}
