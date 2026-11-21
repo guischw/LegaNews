@@ -1,0 +1,763 @@
+{
+ "geradoEm": "2026-11-21T18:13:01.377Z",
+ "fontes": [
+  {
+   "url": "https://portalpopline.com.br/feed/",
+   "tipo": "br",
+   "ok": true,
+   "itens": 10
+  },
+  {
+   "url": "https://rollingstone.uol.com.br/feed/",
+   "tipo": "br",
+   "ok": true,
+   "itens": 10
+  },
+  {
+   "url": "https://www.vagalume.com.br/news/index.xml",
+   "tipo": "br",
+   "ok": true,
+   "itens": 25
+  },
+  {
+   "url": "https://pitchfork.com/rss/news/",
+   "tipo": "int",
+   "ok": true,
+   "itens": 25
+  },
+  {
+   "url": "https://www.rollingstone.com/music/music-news/feed/",
+   "tipo": "int",
+   "ok": true,
+   "itens": 10
+  },
+  {
+   "url": "https://www.nme.com/news/music/feed",
+   "tipo": "int",
+   "ok": true,
+   "itens": 10
+  }
+ ],
+ "itens": [
+  {
+   "title": "Alok e Zeeba lançam parceria no EP “Nostalgia” e criticam IA: “Enlatado” (ENTREVISTA)",
+   "description": "Crédito: Reprodução/Instgram\nAlok e Zeeba lançam \"Monday\", faixa do EP \"Nostalgia\", e discutem os limites da inteligência artificial na música, a pressão pela relevância e o aceno do BTS ao Brasil.",
+   "link": "https://portalpopline.com.br/alok-zeeba-parceria-ep-nostalgia-entrevista-ia/",
+   "pubDate": "2026-11-21T13:00:00.000Z",
+   "thumbnail": "https://uploads.portalpopline.com.br/2026/11/zeeba-alok.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "IZA lança álbum de reggae “ZAZA” com áudio da filha: “Ressignificou tudo” (ENTREVISTA)",
+   "description": "Crédito: Divulgação\nIZA lançou nesta sexta, 20 de novembro, o álbum \"ZAZA\", com 13 faixas gravadas ao vivo com banda, e estreia à noite o filme musical \"IZA apresenta Rádio ZAZA\".",
+   "link": "https://portalpopline.com.br/iza-lanca-album-reggae-zaza-audio-filha-entrevista/",
+   "pubDate": "2026-11-20T13:00:00.000Z",
+   "thumbnail": "https://uploads.portalpopline.com.br/2026/11/iza-zaza-contracapa.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "IZA, BK’, Tems e Amaro Freitas estão entre os lançamentos da semana",
+   "description": "(Fotos: Divulgação)\nIZA lança o álbum de reggae \"ZAZA\" no Dia da Consciência Negra, data que também reúne novidades de Amaro Freitas, BK' e Tems.",
+   "link": "https://portalpopline.com.br/iza-bk-tems-e-amaro-freitas-lancamentos-semana/",
+   "pubDate": "2026-11-20T03:01:00.000Z",
+   "thumbnail": "https://uploads.portalpopline.com.br/2026/08/new-music-friday.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Os fãs pediram e Dilsinho do velho testamento está de volta: “Faço música para eles”",
+   "description": "(Foto: Danii Valverde)\nDilsinho aposta no pagode romântico em seu novo projeto, \"Dilsinho do Velho Testamento\", e conta detalhes do repertório ao POPline.",
+   "link": "https://portalpopline.com.br/dilsinho-velho-testamento-musica-para-fas/",
+   "pubDate": "2026-11-19T20:29:10.000Z",
+   "thumbnail": "https://uploads.portalpopline.com.br/2026/11/dilsinho-do-velho-testamento.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Parangolé reúne os ex-vocalistas Léo Santana e Tony Salles em clipe",
+   "description": "Crédito: Divulgação\nO Parangolé gravou o videoclipe de \"Ula Ula\", que reúne o atual vocalista Lincoln Senna e os antecessores Tony Salles e Léo Santana em clima havaiano.",
+   "link": "https://portalpopline.com.br/parangole-reune-ex-vocalistas-leo-santana-tony-salles-clipe/",
+   "pubDate": "2026-11-19T20:23:34.000Z",
+   "thumbnail": "https://uploads.portalpopline.com.br/2026/11/parangole-leo-santana-tony-salles.jpeg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Após ida ao hospital e lesões, ILLIT reduz agenda e deve adaptar show no MAMA 2026",
+   "description": "Reprodução/Instagram\nO grupo ILLIT vai reduzir participações em programas musicais após integrantes apresentarem febre e lesões no tornozelo, mas segue confirmado no 2026 MAMA AWARDS, em Osaka.",
+   "link": "https://portalpopline.com.br/illit-reduz-agenda-motivo-saude-mama-2026/",
+   "pubDate": "2026-11-19T19:43:36.000Z",
+   "thumbnail": "https://uploads.portalpopline.com.br/2026/11/break-even-illit.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Fernanda Paes Leme ainda torce por reunião do seriado “Sandy & Junior” e dá ideia pra história",
+   "description": "(Fotos: Letycia Miller / Brazil News / Divulgação)\n\"Hoje em dia, não daria para ser na escola, até porque a gente cresceu. Teria que acontecer alguma coisa, algum personagem em apuros, ou alguém faleceu...\", Fernanda Paes Leme imagina reunião do seriado \"Sandy e Junior\".",
+   "link": "https://portalpopline.com.br/fernanda-paes-leme-reuniao-seriado-sandy-junior-historia/",
+   "pubDate": "2026-11-19T19:40:57.000Z",
+   "thumbnail": "https://uploads.portalpopline.com.br/2026/11/fernanda-paes-leme-scaled.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Prêmio Potências 2026 consagra Jota.pê e Any Gabrielly e estreia Troféu Preta Gil",
+   "description": "Crédito: Clayton Felizardo / Brazilnews\nPrêmio Potências 2026 reuniu nomes da música, do audiovisual e do esporte, em São Paulo, e homenageou Seu Jorge na sexta edição da cerimônia.",
+   "link": "https://portalpopline.com.br/premio-potencias-2026-vencedores/",
+   "pubDate": "2026-11-19T19:09:33.000Z",
+   "thumbnail": "https://uploads.portalpopline.com.br/2026/11/karol-conka-mc-carol-any-gabrielly-premio-potencias-2026.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Gloria Groove desabafa sobre parente homofóbico: “Me repreendia”",
+   "description": "(Foto:  Andy Santana e Iwi Onodera / Brazil News)\n\"Quando comecei a me sentir mais livre, com 14 anos, para mostrar o que era minha sexualidade, quando passava um gostoso na TV e eu poder falar 'Nossa, que homem gostoso', eu era repreendido na sala\", lembra Gloria Groove.",
+   "link": "https://portalpopline.com.br/gloria-groove-desabafa-sobre-parente-homofobico-me-repreendia/",
+   "pubDate": "2026-11-19T17:14:33.000Z",
+   "thumbnail": "https://uploads.portalpopline.com.br/2026/11/gloria-groove-show.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Murilo Huff grava clipe com Ludmilla: “Não enxergava outra pessoa para essa parceria”",
+   "description": "(Foto: Jozu Santos)\nMurilo Huff e Ludmilla gravaram o clipe da música inédita \"+18\", que une sertanejo e pagode e deve ser lançada até o fim do ano.",
+   "link": "https://portalpopline.com.br/murilo-huff-grava-clipe-ludmilla-parceria/",
+   "pubDate": "2026-11-19T16:35:21.000Z",
+   "thumbnail": "https://portalpopline.com.br/uploads.portalpopline.com.br/2026/11/murilo-huff-e-ludmilla-2-1000x667.jpeg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Alguns gamers estão revoltados porque ‘GTA 6’ os obriga a tratar bem a namorada",
+   "description": "Novo título da franquia Grand Theft Auto apresenta Lucia Caminos, primeira protagonista feminina da série — e alguns homens estão irritados por terem que tratá-la com respeito\nO post Alguns gamers estão revoltados porque ‘GTA 6’ os obriga a tratar bem a namorada apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/rs-gaming/alguns-gamers-estao-revoltados-porque-gta-6-os-obriga-a-tratar-bem-a-namorada/",
+   "pubDate": "2026-11-21T17:00:17.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2026/11/Alguns-gamers-estao-revoltados-porque-‘GTA-6-os-obriga-a-tratar-bem-a-namorada-foto-reproducao-rockstar-406x228.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Michael Stipe revela novidades sobre aguardado álbum solo",
+   "description": "Ex-vocalista do R.E.M. prepara disco de estreia na carreira solo, que contará com colaboração de Peaches\nO post Michael Stipe revela novidades sobre aguardado álbum solo apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/musica/michael-stipe-revela-novidades-sobre-aguardado-album-solo/",
+   "pubDate": "2026-11-21T16:00:00.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/michael_stipe_foto_kevin_kane_getty_images.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Trump diz que não pode afirmar se a Rússia é amiga dos Estados Unidos",
+   "description": "O presidente dos EUA falou com jornalistas após retornar de uma reunião com Vladimir Putin e o presidente chinês Xi Jinping\nO post Trump diz que não pode afirmar se a Rússia é amiga dos Estados Unidos apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/noticia/trump-diz-que-nao-pode-afirmar-se-a-russia-e-amiga-dos-estados-unidos/",
+   "pubDate": "2026-11-21T15:00:02.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2026/01/A-irreversivel-carnificina-americana-de-Trump-na-Groenlandia_2241064408-406x228.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Ofertas Black da Amazon: Galaxy Book4 da Samsung com 40% de desconto",
+   "description": "Notebook da Samsung com um ótimo desconto na Black da Amazon\nO post Ofertas Black da Amazon: Galaxy Book4 da Samsung com 40% de desconto apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/ofertas/ofertas-black-da-amazon-galaxy-book4-da-samsung-com-40-de-desconto/",
+   "pubDate": "2026-11-21T14:05:05.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2026/11/note_galaxybook4_bfamazon_1-406x228.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "A melhor música da carreira de Taylor Swift, segundo Rosalía",
+   "description": "A canção, para a cantora espanhola, é “uma das músicas que mais ouvi em toda a minha vida”\nO post A melhor música da carreira de Taylor Swift, segundo Rosalía apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/musica/a-melhor-musica-da-carreria-de-taylor-swift-segundo-rosalia/",
+   "pubDate": "2026-11-21T14:00:48.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2025/12/taylor-swift-2024-foto-Taylor-Hill-Getty-Images-2171442213-406x228.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "‘GTA 6’ se torna o “maior lançamento da história do entretenimento” com quase US$ 4 bilhões em vendas",
+   "description": "Segundo a Take-Two, o jogo se tornou a 'propriedade de entretenimento de maior faturamento', mais que qualquer álbum, filme ou série\nO post ‘GTA 6’ se torna o “maior lançamento da história do entretenimento” com quase US$ 4 bilhões em vendas apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/rs-gaming/gta-6-se-torna-o-maior-lancamento-da-historia-do-entretenimento-com-quase-us-4-bilhoes-em-vendas/",
+   "pubDate": "2026-11-21T13:16:13.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2026/11/gta-6-jason-e-lucia-foto-reproducao-rockstar-406x228.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Os 45 filmes favoritos de Christopher Nolan, segundo site",
+   "description": "O cineasta já elogiou publicamento obras que vão dos anos 20 às últimas edições do Oscar\nO post Os 45 filmes favoritos de Christopher Nolan, segundo site apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/lista-rs/os-45-filmes-favoritos-de-christopher-nolan-segundo-site/",
+   "pubDate": "2026-11-21T12:00:17.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2025/07/christopher-nolan-e-criticado-por-filmar-a-odisseia-em-territorio-denunciado-por-repressao-2033565331.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Eddie Vedder, sozinho, domina público do 1º dia de Best of Blues and Rock",
+   "description": "Vocalista do Pearl Jam ofereceu show que pode até parecer improvisado, mas é ensaiado e formatado para funcionar mesmo em contexto de grande festival a céu aberto\nO post Eddie Vedder, sozinho, domina público do 1º dia de Best of Blues and Rock apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/musica/eddie-vedder-best-of-blues-and-rock-2026-resenha-show/",
+   "pubDate": "2026-11-21T03:50:17.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2026/11/Eddie-Vedder-Best-of-Blues-and-Rock-2026-01-foto-Camila-Cara-1-406x228.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Dave Matthews Band será atração do Best of Blues and Rock em 2027",
+   "description": "Banda norte-americana retorna ao Brasil para quatro apresentações em maio, incluindo duas noites no festival em São Paulo\nO post Dave Matthews Band será atração do Best of Blues and Rock em 2027 apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/musica/dave-matthews-band-sera-atracao-do-best-of-blues-and-rock-em-2027/",
+   "pubDate": "2026-11-20T21:45:22.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2026/11/Dave-Matthews-Band-sera-atracao-do-Best-of-Blues-and-Rock-em-2027-Dia-DipasupilGetty-Images-for-The-Rock-and-Roll-Hall-of-Fame-2180017428-406x228.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Música inédita de D’Angelo, ‘Kamakazi’, aparece em ‘GTA 6’",
+   "description": "Cantor, que morreu no ano passado, já havia contribuído com “Unshaken” para Red Dead Redemption 2, da Rockstar Games\nO post Música inédita de D’Angelo, ‘Kamakazi’, aparece em ‘GTA 6’ apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/musica/musica-inedita-de-dangelo-kamakazi-aparece-em-gta-6/",
+   "pubDate": "2026-11-20T21:19:27.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2026/11/Musica-inedita-de-DAngelo-Kamakazi-aparece-em-GTA-6-Shahar-AzranGetty-Images-1304769095-406x228.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "GTA VI: Veja a programação completa da rádio Flash.FM com todas as letras!",
+   "description": "Robyn e Alex Consani apresentam a estação pop do game, que mistura KATSEYE, Chappell Roan, Daft Punk, Madonna e muito mais",
+   "link": "https://www.vagalume.com.br/news/2026/11/21/gta-vi-veja-a-programacao-completa-da-radio-flash-fm-com-todas-as-letras.html",
+   "pubDate": "2026-11-21T04:42:55.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58033-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Christian Chávez admite rompimento com Anahí: \"Não tenho comunicação com ela\"",
+   "description": "Ex-RBD diz que segue falando com os outros integrantes do grupo, mas evita comentar uma possível reaproximação com a intérprete de Mia Colucci",
+   "link": "https://www.vagalume.com.br/news/2026/11/20/christian-chavez-admite-rompimento-com-anahi-nao-tenho-comunicacao-com-ela.html",
+   "pubDate": "2026-11-20T20:28:41.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58032-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "BTS volta às telonas neste sábado depois de recorde histórico nos cinemas",
+   "description": "Show da turnê \"ARIRANG\" em Kaohsiung, em Taiwan, será exibido em 22 cinemas da Cinesystem; apresentação em Jacarta chega às salas em dezembro",
+   "link": "https://www.vagalume.com.br/news/2026/11/20/bts-volta-as-telonas-neste-sabado-depois-de-recorde-historico-nos-cinemas.html",
+   "pubDate": "2026-11-20T18:58:08.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58031-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Shakira em Salvador: prefeito diz que cachê não sairá de verba municipal e explica o que vai bancar",
+   "description": "Bruno Reis diz que a prefeitura só vai cuidar de trânsito, transporte e limpeza no show de 6 de janeiro, na Arena Fonte Nova",
+   "link": "https://www.vagalume.com.br/news/2026/11/20/shakira-em-salvador-prefeito-diz-que-cache-nao-saira-de-verba-municipal-e-explica-o-que-vai-bancar.html",
+   "pubDate": "2026-11-20T18:56:27.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58030-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Karoline Lima nega romance com Zé Felipe após coração em show: \"Novelinha mexicana\"",
+   "description": "Cantor fez o gesto para a influenciadora durante festa em Salvador; ela diz que a vida amorosa \"é uma novela mexicana\"",
+   "link": "https://www.vagalume.com.br/news/2026/11/20/karoline-lima-nega-romance-com-ze-felipe-apos-coracao-em-show-novelinha-mexicana.html",
+   "pubDate": "2026-11-20T17:33:44.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58029-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Pedro Sampaio quebra tradição de 66 anos e fará o 1º show do intervalo de uma final da Libertadores",
+   "description": "DJ terá sete minutos fora do gramado do Centenário, em Montevidéu, no dia 28 de novembro, antes do segundo tempo de Palmeiras x Estudiantes",
+   "link": "https://www.vagalume.com.br/news/2026/11/20/pedro-sampaio-quebra-tradicao-de-66-anos-e-fara-o-1-show-do-intervalo-de-uma-final-da-libertadores.html",
+   "pubDate": "2026-11-20T14:06:02.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58028-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Astro de \"Adolescência\", Owen Cooper estrela novo clipe dos Beatles para \"In My Life\"",
+   "description": "Vídeo passeia por três gerações de uma família de Liverpool, esconde referências à história da banda e estreia a nova mixagem do clássico de 1965",
+   "link": "https://www.vagalume.com.br/news/2026/11/20/astro-de-adolescencia-owen-cooper-estrela-novo-clipe-dos-beatles-para-in-my-life.html",
+   "pubDate": "2026-11-20T13:50:59.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58027-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Bruno Mars perde o pai, de quem herdou o nome e o amor pela música",
+   "description": "Peter Hernandez morreu aos 74 anos; cantor mostrou a foto do último abraço no hospital e chamou o pai de \"o melhor do mundo\"",
+   "link": "https://www.vagalume.com.br/news/2026/11/20/bruno-mars-perde-o-pai-de-quem-herdou-o-nome-e-o-amor-pela-musica.html",
+   "pubDate": "2026-11-20T13:28:06.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58026-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "BIGBANG está de volta com \"기립 (GiiiRIP)\"! Ouça com letra e tradução!",
+   "description": "G-Dragon e Taeyang assinam a letra do novo single, que chega na véspera da apresentação do grupo no MAMA Awards 2026",
+   "link": "https://www.vagalume.com.br/news/2026/11/20/bigbang-esta-de-volta-com-giiirip-ouca-com-letra-e-traducao.html",
+   "pubDate": "2026-11-20T06:46:11.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58023-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "ENHYPEN lança o novo single, \"I Want You\". Escute com letra e tradução!",
+   "description": "Com clima romântico entre pop e R&B, a faixa-título de \"The Sin: Parallel World\" chega como presente de fim de ano para os fãs",
+   "link": "https://www.vagalume.com.br/news/2026/11/20/enhypen-lanca-o-novo-single-i-want-you-escute-com-letra-e-traducao.html",
+   "pubDate": "2026-11-20T06:40:17.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58022-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "JISOO lança \"Sun Showers\", música do filme \"Angry Birds 3\". Ouça com letra e tradução!",
+   "description": "Integrante do BLACKPINK assina a letra da canção, que é sua primeira contribuição para uma trilha de Hollywood",
+   "link": "https://www.vagalume.com.br/news/2026/11/20/jisoo-lanca-sun-showers-musica-do-filme-angry-birds-3-ouca-com-letra-e-traducao.html",
+   "pubDate": "2026-11-20T06:34:35.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58021-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Take That lança o seu novo disco de estúdio, \"Dreamers\". Ouça com todas as letras!",
+   "description": "Décimo álbum do trio britânico tem 12 faixas, cinco singles já conhecidos e serve de ponto de partida para uma turnê europeia em 2027",
+   "link": "https://www.vagalume.com.br/news/2026/11/20/take-that-lanca-o-seu-novo-disco-de-estudio-dreamers-ouca-com-todas-as-letras.html",
+   "pubDate": "2026-11-20T06:15:43.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58020-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "NAYEON lança \"NA-sty\". Ouça com todas as letras!",
+   "description": "Primeiro single álbum da cantora do TWICE marca seu retorno solo depois de mais de dois anos, com a faixa-título \"BABY ANGEL\"",
+   "link": "https://www.vagalume.com.br/news/2026/11/20/nayeon-lanca-na-sty-ouca-com-todas-as-letras.html",
+   "pubDate": "2026-11-20T06:05:45.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58019-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Gracie Abrams lança a versão deluxe de \"Daughter From Hell\". Ouça com todas as letras!",
+   "description": "Edição ampliada do terceiro disco da cantora traz cinco músicas a mais, entre elas o single \"Here You Come, There You Go\"",
+   "link": "https://www.vagalume.com.br/news/2026/11/20/gracie-abrams-lanca-a-versao-deluxe-de-daughter-from-hell-ouca-com-todas-as-letras.html",
+   "pubDate": "2026-11-20T05:30:00.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58018-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Chlöe & Halle lançam o single de Natal, \"All I Think About On Christmas\". Ouça com letra e tradução!",
+   "description": "Primeira música inédita das irmãs em cinco anos chega uma semana depois do EP natalino de Chlöe",
+   "link": "https://www.vagalume.com.br/news/2026/11/20/chloe-halle-lancam-o-single-de-natal-all-i-think-about-on-christmas-ouca-com-letra-e-traducao.html",
+   "pubDate": "2026-11-20T05:27:35.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58017-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Rema lança o EP \"E-Mortal Boy\". Escute com todas as letras!",
+   "description": "Com sete faixas e participações de Wizkid, BNYX e Kah-Lo, o nigeriano volta ao formato curto três anos depois de \"Ravage\"",
+   "link": "https://www.vagalume.com.br/news/2026/11/20/rema-lanca-o-ep-e-mortal-boy-escute-com-todas-as-letras.html",
+   "pubDate": "2026-11-20T05:13:53.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58016-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "IZA lança o novo álbum, \"ZAZA\". Escute com todas as letras",
+   "description": "Terceiro disco de estúdio da cantora aposta no reggae, reúne seis participações e chega às plataformas no Dia da Consciência Negra",
+   "link": "https://www.vagalume.com.br/news/2026/11/20/iza-lanca-o-novo-album-zaza-escute-com-todas-as-letras.html",
+   "pubDate": "2026-11-20T04:47:06.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58015-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "\"Grand Theft Auto VI: The Album\" é lançado oficialmente. Ouça com todas as letras!",
+   "description": "Dua Lipa, Camila Cabello, Keith Richards, Justice e Zara Larsson são alguns dos destaques da trilha do aguardado jogo",
+   "link": "https://www.vagalume.com.br/news/2026/11/20/grand-theft-auto-vi-the-album-e-lancado-oficialmente-ouca-com-todas-as-letras.html",
+   "pubDate": "2026-11-20T04:05:27.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58014-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Beabadoobee lança a nova música, \"No Punctuation\". Ouça com letra e tradução!",
+   "description": "Cantora anuncia de surpresa o álbum \"Bananas 4 Cats\", que chega só cinco meses depois de \"Pylon\"",
+   "link": "https://www.vagalume.com.br/news/2026/11/19/beabadoobee-lanca-a-nova-musica-no-punctuation-ouca-com-letra-e-traducao.html",
+   "pubDate": "2026-11-19T20:52:49.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58006-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Jojo Todynho tem pedido negado na Justiça em ação movida contra a deputada Ana Elisa",
+   "description": "Tribunal do Rio não vai tirar do ar vídeos em que Ana critica as posições políticas da cantora",
+   "link": "https://www.vagalume.com.br/news/2026/11/19/jojo-todynho-tem-pedido-negado-na-justica-em-acao-movida-contra-a-deputada-ana-elisa.html",
+   "pubDate": "2026-11-19T19:46:21.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58005-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Deep Purple adia show de São Paulo para 2027 após internação de Ian Gillan",
+   "description": "Vocalista de 81 anos se recupera de cirurgia; ingressos seguem válidos e cancelamento pode ser pedido a partir de 20 de novembro",
+   "link": "https://www.vagalume.com.br/news/2026/11/19/deep-purple-adia-show-de-sao-paulo-para-2027-apos-internacao-de-ian-gillan.html",
+   "pubDate": "2026-11-19T19:42:06.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58004-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Jardim virou altar: como é a casa de R$ 4 milhões de Larissa Manoela e André Frambach no Rio",
+   "description": "Imóvel na Barra da Tijuca pertencia a Evelyn Regly e tem piscina com cara de ilha tropical; casal já ergue outra mansão",
+   "link": "https://www.vagalume.com.br/news/2026/11/19/jardim-virou-altar-como-e-a-casa-de-rs-4-milhoes-de-larissa-manoela-e-andre-frambach-no-rio.html",
+   "pubDate": "2026-11-19T19:16:26.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58003-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Eminem vira desenho animado e relembra seus maiores hits em episódio do Spotify",
+   "description": "Inspirado em \"The Slim Shady Show\", animação de 2000, vídeo da série \"Billions Club\" coloca o rapper diante do alter ego e de um quiz sobre suas músicas bilionárias",
+   "link": "https://www.vagalume.com.br/news/2026/11/19/eminem-vira-desenho-animado-e-relembra-seus-maiores-hits-em-episodio-do-spotify.html",
+   "pubDate": "2026-11-19T19:14:47.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58002-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Primavera Sound São Paulo divulga horário dos shows. Confira!",
+   "description": "Portões de Interlagos abrem às 12h30 e atrações se dividem em quatro palcos; Nation of Language cancela e This Is Lorelei assume vaga no Primavera na Cidade",
+   "link": "https://www.vagalume.com.br/news/2026/11/19/primavera-sound-sao-paulo-divulga-horario-dos-shows-confira.html",
+   "pubDate": "2026-11-19T19:06:20.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58000-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Claudia Leitte resgata hit da Banda Eva com Ivete Sangalo para novo álbum",
+   "description": "Cantora mostrou trecho de \"Alô Paixão\" gravada para o projeto \"Reimaginário\", que chega às plataformas no domingo (22)",
+   "link": "https://www.vagalume.com.br/news/2026/11/19/claudia-leitte-resgata-hit-da-banda-eva-com-ivete-sangalo-para-novo-album.html",
+   "pubDate": "2026-11-19T16:10:08.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news57994-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Grimes Releases Two New Psy Opera Songs",
+   "description": "“Killing God With Computers” and the A.I.-assisted “Deepseek” both appear on Psy Opera",
+   "link": "https://pitchfork.com/story/listen-to-two-new-grimes-songs/",
+   "pubDate": "2026-11-20T18:11:09.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6b008b2c40d468bfa5dcac08/master/pass/grimes-songs.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Lana Del Rey’s “Crazy for You” Gets Official Release for GTA VI",
+   "description": "The keenly awaited loosie has found a home on the blockbuster game’s soundtrack",
+   "link": "https://pitchfork.com/story/lana-del-reys-crazy-for-you-gets-official-release-for-gta-vi/",
+   "pubDate": "2026-11-20T15:42:36.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6b006a18cf9176131d6d997d/master/pass/lana-del-rey-gta-vi-crazy-for-you.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "5 New Albums You Should Listen to Now: Atlas Sound, Toro y Moi, and More",
+   "description": "Stream new releases from Atlas Sound, Toro y Moi, and Lorenzo Senni",
+   "link": "https://pitchfork.com/story/5-new-albums-you-should-listen-to-now-atlas-sound-toro-y-moi-and-more/",
+   "pubDate": "2026-11-20T14:53:41.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6b005e883a31102026cc1a82/master/pass/218d258c-b21a-4910-88d1-cdf890c692cd.jpeg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Atlas Sound Surprise Releases First Album in 15 Years",
+   "description": "Behold Thanatos",
+   "link": "https://pitchfork.com/story/atlas-sound-surprise-releases-first-album-in-15-years/",
+   "pubDate": "2026-11-20T05:03:13.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6afedfed9543e7d048ca8995/master/pass/atlas-sound-new-album.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Here’s Every Rapper Who Appears in GTA VI",
+   "description": "You’ll run into Sexyy Red, Gucci Mane, Trina, JT, and many more in Vice City",
+   "link": "https://pitchfork.com/story/heres-every-rapper-who-appears-in-gta-vi/",
+   "pubDate": "2026-11-20T00:25:24.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6aff899b6f30fddce8dc0634/master/pass/MixCollage-19-Nov-2026-06-42-PM-3953.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "A Guide to the GTA VI Radio Stations",
+   "description": "Now’s your chance to hear Jeremy Irons DJ",
+   "link": "https://pitchfork.com/story/a-guide-to-the-gta-vi-radio-stations/",
+   "pubDate": "2026-11-19T19:03:36.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6aff2567393097bdce8c0235/master/pass/GettyImages-2305102759.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Beabadoobee Goes Bananas 4 Cats on New Album and Song",
+   "description": "“No Punctuation” leads the indie rock singer-songwriter’s quick follow-up to Pylon",
+   "link": "https://pitchfork.com/story/beabadoobee-goes-bananas-4-cats-on-new-album-and-song/",
+   "pubDate": "2026-11-19T18:01:19.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6aff30cf6a68e8be0716ea1a/master/pass/Beabadoobee,%20photo%20by%20Iris%20Luiz.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Phoebe Bridgers Covers Adrianne Lenker’s “Anything” for the Holidays",
+   "description": "Proceeds from the track will benefit Palestine Children’s Relief Fund",
+   "link": "https://pitchfork.com/story/phoebe-bridgers-covers-adrianne-lenkers-anything-for-the-holidays/",
+   "pubDate": "2026-11-19T17:13:14.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6aff2311393097bdce8c01bc/master/pass/Phoebe%20Bridgers%20and%20Adrienne%20Lenker.png",
+   "_tipo": "int"
+  },
+  {
+   "title": "Watch Taylor Swift Bring “Our Song” Medley to 2026 CMA Awards",
+   "description": "Her first time playing the ceremony in 13 years",
+   "link": "https://pitchfork.com/story/watch-taylor-swift-bring-our-song-medley-to-2026-cma-awards/",
+   "pubDate": "2026-11-19T05:16:00.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6afe83a42e42c91d3fe85def/master/pass/GettyImages-2305800607.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Waxahatchee Is Hosting a Songwriting Workshop",
+   "description": "Katie Crutchfield will host four weeks of online classes via School of Song",
+   "link": "https://pitchfork.com/story/enroll-now-for-the-waxahatchee-songwriting-workshop/",
+   "pubDate": "2026-11-18T17:58:50.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6afde64806aaa46ca1afb88e/master/pass/waxahatchee-songwriting.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "SML Announce 2027 U.S. Tour",
+   "description": "Including an opening slot for Death Cab for Cutie at Red Rocks",
+   "link": "https://pitchfork.com/story/sml-announce-2027-us-tour/",
+   "pubDate": "2026-11-18T17:18:31.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6afddaf191b9e9dfaf6c9fdc/master/pass/SML,%20photo%20by%20Ariel%20Fisher.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Touché Amoré Share New Song, 2027 Tour Dates",
+   "description": "The band will make their way to New York, Chicago, Detroit, and more",
+   "link": "https://pitchfork.com/story/touche-amore-share-new-song-2027-tour-dates/",
+   "pubDate": "2026-11-18T17:03:49.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6afdd568e2d3dfb07dcd6953/master/pass/Touche%20Amore%20-%20New%20Pub%202026%20-%20Danielle%20Annetts.jpeg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Lucinda Williams Is Going on Tour in 2027",
+   "description": "The World’s Gone Wrong trek kicks off next February in Knoxville",
+   "link": "https://pitchfork.com/story/lucinda-williams-is-going-on-tour-in-2027/",
+   "pubDate": "2026-11-18T16:35:46.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6afdc3f225cefe7c5be75099/master/pass/GettyImages-2275252116.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Harold Budd and Robin Guthrie’s Mysterious Skin Score Coming to Vinyl",
+   "description": "“Much more than mere background music: It’s the heart and soul of the whole movie,” says director Gregg Araki",
+   "link": "https://pitchfork.com/story/harold-budd-and-robin-guthries-mysterious-skin-score-coming-to-vinyl/",
+   "pubDate": "2026-11-18T16:21:41.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6afdcf432ccb5dc77dc10557/master/pass/2005-11%20Robin%20Guthrie%20&%20Harold%20Budd%20-%20Los%20Angeles%20%5BPhoto%20Credit%20Ted%20Grudowski%5D%20(1).jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Listen to Erika de Casier’s New Song “Whispers”",
+   "description": "The track was co-produced by Bladee and Yung Lean collaborator Eurohead",
+   "link": "https://pitchfork.com/story/listen-to-erika-de-casiers-new-song-whispers/",
+   "pubDate": "2026-11-18T15:49:12.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6afdbe692ccb5dc77dc1052b/master/pass/Erika%20de%20Casier,%20photo%20courtesy%20of%20the%20artist.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Belle and Sebastian Reissuing If You’re Feeling Sinister With New Rarities Album",
+   "description": "Listen to the unearthed “Colette and the Mystery Girl” from bonus LP Lisa Helps the Blind",
+   "link": "https://pitchfork.com/story/belle-and-sebastian-reissuing-if-youre-feeling-sinister-with-new-rarities-album/",
+   "pubDate": "2026-11-18T15:03:14.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6afdb5be06aaa46ca1afb71d/master/pass/belle-sebastian-sinister-reissue.jpeg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Vote Now for Your Favorite Albums and Songs of 2026",
+   "description": "Take the Pitchfork Readers’ Poll",
+   "link": "https://pitchfork.com/story/vote-now-for-your-favorite-albums-and-songs-of-2026/",
+   "pubDate": "2026-11-18T14:36:19.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6afcc880dba640b9661dd689/master/pass/P4K26_YearEnd_Readers%20Poll_2x1.gif",
+   "_tipo": "int"
+  },
+  {
+   "title": "Don Toliver Releasing New Album Nitrous Next Month",
+   "description": "The Cactus Jack artist is following his Grammy nominations splash with a self-produced, second LP of the year",
+   "link": "https://pitchfork.com/story/don-toliver-releasing-new-album-nitrous-next-month/",
+   "pubDate": "2026-11-18T13:09:18.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6afda32925cefe7c5be74f5a/master/pass/don-toliver-album.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Billie Eilish, Harry Styles, and Sam Fender Headlining Glastonbury 2027",
+   "description": "Cher returns to the stage in the “legend slot,” with Massive Attack, the xx, and Kraftwerk also on the lineup",
+   "link": "https://pitchfork.com/story/billie-eilish-harry-styles-and-sam-fender-headlining-glastonbury-2027/",
+   "pubDate": "2026-11-18T10:58:35.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6afd8487dba640b9661dd694/master/pass/glastonbury-2027-headliners.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Matthew Dear, Armand Hammer, and More: This Week’s Pitchfork Selects Playlist",
+   "description": "Our weekly playlist highlights songs that our writers, editors, and contributors are listening to on repeat",
+   "link": "https://pitchfork.com/story/matthew-dear-armand-hammer-and-more-this-weeks-pitchfork-selects-playlist/",
+   "pubDate": "2026-11-17T20:55:47.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6afcbeba34d0e47dd81db1e8/master/pass/P4K26-1117_Selects_2x1.gif",
+   "_tipo": "int"
+  },
+  {
+   "title": "Director of MGMT’s “Kids” and “Time to Pretend” Videos Dies at 43",
+   "description": "Filmmaker Ray Tintori also shot videos for Solange, Arcade Fire, and the Killers",
+   "link": "https://pitchfork.com/story/director-of-mgmts-kids-and-time-to-pretend-videos-dies-at-43/",
+   "pubDate": "2026-11-17T18:28:26.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6afc9b436b611634d22b5def/master/pass/ray-tintori.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Superchunk Set 2027 North American Tour",
+   "description": "New Merge signee Tanner York will support the band on the spring run",
+   "link": "https://pitchfork.com/story/superchunk-set-2027-north-american-tour/",
+   "pubDate": "2026-11-17T18:08:35.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6afc9266169506d236d4fece/master/pass/superchunkpic.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Big Thief Plot 2027 U.S. Tour",
+   "description": "The trio will hit Portland, New York, Pittsburgh, and more next summer",
+   "link": "https://pitchfork.com/story/big-thief-plots-2027-us-tour/",
+   "pubDate": "2026-11-17T18:07:11.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6afc9b5fde14fda379e037a9/master/pass/unnamed%20-%202026-11-17T131007.825.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Chuquimamani-Condori Drops Some Folky Kelela Edits",
+   "description": "“This is my ayni to you Kelela, an unpayable debt for your generosity”",
+   "link": "https://pitchfork.com/story/chuquimamani-condori-releases-folky-kelela-edits/",
+   "pubDate": "2026-11-17T17:15:30.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6afd8bf0b53119a01d9bf8a9/master/pass/kelela-dj-e-edits.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Big Thief, Death Cab for Cutie, Remi Wolf to Play Green River Fest 2027",
+   "description": "This is Lorelei, Star Moles, Built to Spill, and Julia Jacklin are also booked for the western Massachusetts weekender in June",
+   "link": "https://pitchfork.com/story/big-thief-death-cab-for-cutie-remi-wolf-to-headline-green-river-festival-2027/",
+   "pubDate": "2026-11-17T17:15:08.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6afc758ce8d2a3091ccf7720/master/pass/MixCollage-17-Nov-2026-10-40-AM-3642.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Rosalía Calls Taylor Swift a ‘Master Songwriter,’ Reveals Her Favorite Swift Track",
+   "description": "The Spanish singer said \"Wildest Dreams\" is \"one of the songs I’ve listened to the most in my entire life\"",
+   "link": "https://www.rollingstone.com/music/music-news/rosalia-praises-taylor-swift-master-songwriter-1235661869/",
+   "pubDate": "2026-11-20T22:35:32.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "Beastie Boys’ Mike D Brings Solo Album — and His Sons — to Tiny Desk Concert",
+   "description": "The former Beastie Boys member performed six tracks off his solo album with his sons",
+   "link": "https://www.rollingstone.com/music/music-news/beastie-boys-mike-d-brings-album-thank-you-to-tiny-desk-1235659577/",
+   "pubDate": "2026-11-20T18:05:41.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "Megan Moroney and Alex Warren Know a Good Song When They Hear It in the Car",
+   "description": "For two artists whose lives revolve around music, the road offers a different kind of listening experience.",
+   "link": "https://www.rollingstone.com/music/music-news/megan-moroney-alex-warren-know-good-song-in-the-car-1235654145/",
+   "pubDate": "2026-11-20T17:58:00.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "Unreleased D’Angelo Song ‘Kamikazi’ Emerges in ‘GTA VI’",
+   "description": "Late singer previously contributed \"Unshaken\" to Rockstar Games' Red Dead Redemption 2",
+   "link": "https://www.rollingstone.com/music/music-news/dangelo-unreleased-song-kamakazi-grand-theft-auto-6-1235661667/",
+   "pubDate": "2026-11-20T17:27:05.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "Tom Waits’ Rare ‘Orphans: Bonus’ EP, Previously Vinyl-Only, Now Streaming",
+   "description": "Six songs include covers, a collaboration, and originals",
+   "link": "https://www.rollingstone.com/music/music-news/tom-waits-orphans-bonus-streaming-services-1235661577/",
+   "pubDate": "2026-11-20T16:09:45.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "Atlas Sound Returns With Surprise New Album ‘Thanatos,’ First LP in 15 Years",
+   "description": "After a lengthy musical hiatus, Deerhunter singer Bradford Cox revives his long-dormant solo project",
+   "link": "https://www.rollingstone.com/music/music-news/atlas-sound-bradford-cox-surprise-new-album-thanatos-1235661600/",
+   "pubDate": "2026-11-20T15:53:45.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "Blackpink’s Jisoo Debuts Buoyant Single ‘Sun Showers’",
+   "description": "The song was written and recorded for upcoming animated film The Angry Birds Movie 3",
+   "link": "https://www.rollingstone.com/music/music-news/blackpink-jisoo-sun-showers-single-angry-birds-movie-1235661547/",
+   "pubDate": "2026-11-20T07:46:19.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "Blondie Are Waiting for the Clouds to Part on Wistful New Song ‘Come Back Home’",
+   "description": "The tender track will appear on the band’s new album, High Noon, out February",
+   "link": "https://www.rollingstone.com/music/music-news/blondie-release-new-song-come-back-home-1235661533/",
+   "pubDate": "2026-11-20T05:01:29.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "Bruno Mars Mourns His Father’s Death: ‘The Man That Taught Me Everything I Know’",
+   "description": "The singer praised his father, Peter “Dr. Doo-Wop” Hernandez, often during interviews and credited him for his signature style",
+   "link": "https://www.rollingstone.com/music/music-news/bruno-mars-mourns-father-death-peter-hernandez-1235661510/",
+   "pubDate": "2026-11-20T00:44:22.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "Tinashe Crashes a Plane and Belts Out ‘Melatonin’ During Hilarious ‘GTA VI’ Stream",
+   "description": "The pop star cracked fans up as she wreaked havoc in Vice City",
+   "link": "https://www.rollingstone.com/music/music-news/gta-vi-tinashe-stream-1235660901/",
+   "pubDate": "2026-11-19T19:23:49.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "R.E.M.’s Michael Stipe shares timeline for debut solo album release and plans for the future: “I already have ideas about what I want to do next”",
+   "description": "It comes as R.E.M.'s 2001 album 'Reveal' celebrates its 25th anniversary\nThe post R.E.M.’s Michael Stipe shares timeline for debut solo album release and plans for the future: “I already have ideas about what I want to do next” appeared first on NME.",
+   "link": "https://www.nme.com/news/music/r-e-m-s-michael-stipe-shares-timeline-for-debut-solo-album-release-and-plans-for-the-future-i-already-have-ideas-about-what-i-want-to-do-next-3976636",
+   "pubDate": "2026-11-21T12:42:07.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2026/11/2026_michaelstipe_getty_2000x1270.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Phoebe Bridgers fans are creating artwork to remember her phone-free arena concerts",
+   "description": "The singer-songwriter has also shared a selection of artwork that has caught her eye\nThe post Phoebe Bridgers fans are creating artwork to remember her phone-free arena concerts appeared first on NME.",
+   "link": "https://www.nme.com/news/music/phoebe-bridgers-fans-are-creating-artwork-to-remember-her-phone-free-arena-concerts-3976631",
+   "pubDate": "2026-11-21T11:34:27.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2026/11/2026_phoebebridgers_getty_2000x1270.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Petition calling for Marilyn Manson to be removed from Slipknot’s 2027 Wembley Stadium show has over 20,000 signatures",
+   "description": "Manson is set to perform as the support act for the masked metal band's '(sic)est Stadium Tour’ \nThe post Petition calling for Marilyn Manson to be removed from Slipknot’s 2027 Wembley Stadium show has over 20,000 signatures appeared first on NME.",
+   "link": "https://www.nme.com/news/music/petition-calling-for-marilyn-manson-to-be-removed-from-slipknots-2027-wembley-stadium-show-has-over-20000-signatures-3976617",
+   "pubDate": "2026-11-21T10:21:09.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2026/11/2026_marilynmanson_getty_2000x1270.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Watch LCD Soundsystem play ‘Disco Infiltrator’ for first time in 21 years",
+   "description": "They also performed 'All I Want' for the first time since 2011 during the opening night of their New York residency\nThe post Watch LCD Soundsystem play ‘Disco Infiltrator’ for first time in 21 years appeared first on NME.",
+   "link": "https://www.nme.com/news/music/watch-lcd-soundsystem-play-disco-infiltrator-for-first-time-in-21-years-3976623",
+   "pubDate": "2026-11-21T10:00:37.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2026/11/2026_lcdsoundsystem_getty_2000x1270.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Music Venue Trust and Fender team up for intimate London showcase gig with Unpeople",
+   "description": "The venture aims to support the capital's grassroots music scene\nThe post Music Venue Trust and Fender team up for intimate London showcase gig with Unpeople appeared first on NME.",
+   "link": "https://www.nme.com/news/music/music-venue-trust-and-fender-team-up-for-intimate-london-showcase-gig-with-unpeople-3976599",
+   "pubDate": "2026-11-20T17:24:09.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2026/11/2026_unpeople_pressv2_2000x1270.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Liam Gallagher, Bonehead and Primal Scream lead tributes on one year anniversary of Mani’s death",
+   "description": "\"A year ago today we lost our HERO our FRIEND the 1 n only GARY MANI MOUNFIELD\"\nThe post Liam Gallagher, Bonehead and Primal Scream lead tributes on one year anniversary of Mani’s death appeared first on NME.",
+   "link": "https://www.nme.com/news/music/liam-gallagher-bonehead-and-primal-scream-lead-tributes-on-one-year-anniversary-of-manis-death-3976584",
+   "pubDate": "2026-11-20T16:31:16.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2026/11/2026_mani_getty_2000x1270.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "BST Hyde Park 2027: Billie Eilish announced as latest headliner",
+   "description": "D'UH! After topping the bill at Glasto, Eilish will be playing another huge UK show – with new music expected by summer\nThe post BST Hyde Park 2027: Billie Eilish announced as latest headliner appeared first on NME.",
+   "link": "https://www.nme.com/news/music/bst-hyde-park-2027-billie-eilish-london-tour-headline-tickets-3976586",
+   "pubDate": "2026-11-20T15:34:48.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2025/07/NMEAR_NME-READING-2023-BILLIE-EILISH-LIVE-ANDY-FORD-7@2000x1270.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Øya Festival 2027: The Strokes, Robyn, Angine de Poitrine, Pavement, Slayyyter lead first names on line-up",
+   "description": "Tickets are on sale now\nThe post Øya Festival 2027: The Strokes, Robyn, Angine de Poitrine, Pavement, Slayyyter lead first names on line-up appeared first on NME.",
+   "link": "https://www.nme.com/news/music/oya-festival-2027-the-strokes-robyn-angine-de-poitrine-pavement-slayyyter-lead-first-names-on-line-up-3976574",
+   "pubDate": "2026-11-20T14:59:44.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2026/11/2026_thestrokes_robyn_anginedepoitrine_getty_2000x1270.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Madra Salach take on “change and betrayal of all kinds” on dark, towering new single ‘Searrach’",
+   "description": "It is the second taster from the rising Dublin six-piece's debut album ‘Gorta’\nThe post Madra Salach take on “change and betrayal of all kinds” on dark, towering new single ‘Searrach’ appeared first on NME.",
+   "link": "https://www.nme.com/news/music/madra-salach-take-on-change-and-betrayal-of-all-kinds-on-dark-towering-new-single-searrach-radar-3976555",
+   "pubDate": "2026-11-20T13:32:17.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2026/11/2026_madrasalach_emilylipson_2000x1270.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Steve Aoki tries to “get a real job” on LinkedIn, gives up two hours later, becomes “thought leader”",
+   "description": "\"Please hire me. I don’t know how much more thought leadership I have in me\"\nThe post Steve Aoki tries to “get a real job” on LinkedIn, gives up two hours later, becomes “thought leader” appeared first on NME.",
+   "link": "https://www.nme.com/news/music/steve-aoki-tries-to-get-a-real-job-on-linkedin-gives-up-two-hours-later-becomes-thought-leader-3976537",
+   "pubDate": "2026-11-20T12:28:41.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2026/11/2026_steveaoki_getty_2000x1270.jpg",
+   "_tipo": "int"
+  }
+ ]
+}
