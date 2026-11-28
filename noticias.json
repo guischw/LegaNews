@@ -1,0 +1,763 @@
+{
+ "geradoEm": "2026-11-28T10:19:28.063Z",
+ "fontes": [
+  {
+   "url": "https://portalpopline.com.br/feed/",
+   "tipo": "br",
+   "ok": true,
+   "itens": 10
+  },
+  {
+   "url": "https://rollingstone.uol.com.br/feed/",
+   "tipo": "br",
+   "ok": true,
+   "itens": 10
+  },
+  {
+   "url": "https://www.vagalume.com.br/news/index.xml",
+   "tipo": "br",
+   "ok": true,
+   "itens": 25
+  },
+  {
+   "url": "https://pitchfork.com/rss/news/",
+   "tipo": "int",
+   "ok": true,
+   "itens": 25
+  },
+  {
+   "url": "https://www.rollingstone.com/music/music-news/feed/",
+   "tipo": "int",
+   "ok": true,
+   "itens": 10
+  },
+  {
+   "url": "https://www.nme.com/news/music/feed",
+   "tipo": "int",
+   "ok": true,
+   "itens": 10
+  }
+ ],
+ "itens": [
+  {
+   "title": "Após 12 anos, composição inédita de Marília Mendonça ganha voz de Thaeme e Thiago; veja letra",
+   "description": "Crédito: Reprodução/Divulgação\nThaeme e Thiago lançam na quinta-feira (3) \"O Destino Ia Falhar\", música inédita de Marília Mendonça, Gabriel Agra e Juliano Tchula.",
+   "link": "https://portalpopline.com.br/composicao-inedita-marilia-mendonca-thaeme-e-thiago/",
+   "pubDate": "2026-11-27T21:02:15.000Z",
+   "thumbnail": "https://uploads.portalpopline.com.br/2026/11/thaeme-thiago-marilia-mendonca.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Alfonso Herrera foge de perguntas sobre treta do RBD: “Desconheço o que está falando”",
+   "description": "(Fotos: X @grupoformula / Instagram @anahi)\nAlfonso Herrera, ex-integrante do RBD, se esquivou ao ser questionado sobre a briga do grupo e brincou que é a Suíça, em referência à neutralidade da política externa do país.",
+   "link": "https://portalpopline.com.br/alfonso-herrera-foge-perguntas-treta-rbd/",
+   "pubDate": "2026-11-27T20:53:49.000Z",
+   "thumbnail": "https://portalpopline.com.br/wp-content/uploads/2023/11/poncho-vai-shows-rbd-mexico-resposta-video-jpg.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Justin Timberlake reage ao cantar hit dos Backstreet Boys: “É um sacrilégio”",
+   "description": "Crédito: @backstreetboys/@fallontonight\nJustin Timberlake brincou com a rivalidade entre N'SYNC e Backstreet Boys no programa de Jimmy Fallon, ao reagir aos acordes de \"I Want It That Way\" durante um quadro musical.",
+   "link": "https://portalpopline.com.br/justin-timberlake-reage-cantar-backstreet-boys/",
+   "pubDate": "2026-11-27T20:28:19.000Z",
+   "thumbnail": "https://uploads.portalpopline.com.br/2026/11/justin-timberlake-jimmy-fallon.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "“Stove” e “Spyda”: Lana Del Rey atualiza status de dois álbuns em produção",
+   "description": "(Foto: Instagram @lanadelrey)\nLana Del Rey usou o Instagram no Dia de Ação de Graças para atualizar os fãs sobre os álbuns \"Stove\" e \"Spyda\", dois projetos que estão em andamento há anos.",
+   "link": "https://portalpopline.com.br/stove-spyda-lana-del-rey-albuns-producao/",
+   "pubDate": "2026-11-27T20:06:15.000Z",
+   "thumbnail": "https://uploads.portalpopline.com.br/2026/11/lana-del-rey-scaled.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Mick Jagger avalia chances do Rolling Stones no Grammy 2027: “Não vai ganhar”",
+   "description": "Crédito: The Official Podcast (Ep7) Loose Lips\nMick Jagger comentou com bom humor as chances dos Rolling Stones no Grammy 2027 e avaliou que a banda não deve vencer por ter sido indicada pelo segundo ano seguido.",
+   "link": "https://portalpopline.com.br/mick-jagger-chances-rolling-stones-grammy-2027/",
+   "pubDate": "2026-11-27T17:58:32.000Z",
+   "thumbnail": "https://uploads.portalpopline.com.br/2026/11/mick-jagger.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Christian Chávez acredita em reconciliação com Anahí: “Dar tempo ao tempo”",
+   "description": "(Fotos: Instagram @anahi @christianchavezreal)\n\"Já não acho que seja tão grave. É mais a dor de 'Você falou isso', 'Você me ofendeu com aquilo', e estamos ressentidos\", Christian Chávez fala sobre racha no RBD. Ele espera se reconectar com Anahí.",
+   "link": "https://portalpopline.com.br/christian-chavez-acredita-em-reconciliacao-com-anahi-dar-tempo-ao-tempo/",
+   "pubDate": "2026-11-27T17:50:57.000Z",
+   "thumbnail": "https://portalpopline.com.br/wp-content/uploads/2024/06/anahi-christian-chavez-rbd-amizade-abalada-historia-jpg.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Gloria Groove se solta em podcast: “É chato quando não sabem chupar **”",
+   "description": "(Foto: YouTube / Grindr)\nGloria Groove estreia como apresentadora do podcast \"Biscoitada\", criado pelo Grindr, e conversa sobre sexo e relacionamento com Marcelo Caiazzo e Rafael Mello.",
+   "link": "https://portalpopline.com.br/gloria-groove-se-solta-em-podcast-e-chato-quando-nao-sabem-chupar/",
+   "pubDate": "2026-11-27T17:34:55.000Z",
+   "thumbnail": "https://uploads.portalpopline.com.br/2026/11/gloria-groove-grindr-biscoitada.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "“Ingressos voando”: Shakira prova alta demanda para show em Salvador",
+   "description": "Foto: Isabella Mendez/Brazil News\nShakira volta ao Brasil pelo terceiro ano seguido com a turnê \"Las Mujeres Ya No Lloran\", e a procura por ingressos para show em Salvador está alta.",
+   "link": "https://portalpopline.com.br/ingressos-voando-shakira-show-salvador/",
+   "pubDate": "2026-11-27T16:29:34.000Z",
+   "thumbnail": "https://uploads.portalpopline.com.br/2026/09/shakira-gira.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Pabllo Vittar surpreende e sobe ao palco com o NMIXX na Coreia do Sul",
+   "description": "Crédito: NMIXX nas redes sociais\nPabllo Vittar apareceu de surpresa no show do NMIXX na Coreia do Sul e cantou \"MEXE\" e \"TIC TIC\" com o grupo. A cantora é atração do Réveillon Cheers 2027, no Rio.",
+   "link": "https://portalpopline.com.br/pabllo-vittar-surpreende-publico-sobe-palco-nmixx-coreia-do-sul/",
+   "pubDate": "2026-11-27T16:08:33.000Z",
+   "thumbnail": "https://uploads.portalpopline.com.br/2026/11/pabllo-vittar-nmixx-1.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Acabou! Empresa criada pelo RBD para shows fecha as portas",
+   "description": "(Foto: Carlos Ruiz)\nApós Christian Chávez revelar o fim do imbróglio legal do RBD, fãs notaram que a Souls Productions Inc, empresa criada em 2023 para gerir a turnê, também foi encerrada.",
+   "link": "https://portalpopline.com.br/acabou-empresa-criada-pelo-rbd/",
+   "pubDate": "2026-11-27T16:06:04.000Z",
+   "thumbnail": "https://portalpopline.com.br/wp-content/uploads/2025/02/rbd-capa.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "SIM São Paulo 2026 terá programação dedicada à sustentabilidade socioambiental na cultura",
+   "description": "Iniciativa do British Council com o Mapa dos Festivais reúne representantes de 24 festivais de música de oito países da América Latina e do Caribe\nO post SIM São Paulo 2026 terá programação dedicada à sustentabilidade socioambiental na cultura apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/musica/sim-sao-paulo-2026-tera-programacao-dedicada-a-sustentabilidade-socioambiental-na-cultura/",
+   "pubDate": "2026-11-27T22:32:35.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2026/11/Festival-Afrodiaspora-Circular-Cultura-Fotos_-Carolina-Assik-406x228.png",
+   "_tipo": "br"
+  },
+  {
+   "title": "Como foi traduzir GTA 6 em segredo, segundo brasileiro que trabalhou no jogo",
+   "description": "O brasileiro Michel Dornes Teixeira recebeu acesso antecipado a história do jogo em 2024\nO post Como foi traduzir GTA 6 em segredo, segundo brasileiro que trabalhou no jogo apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/rs-gaming/como-foi-traduzir-gta-6-em-segredo-segundo-brasileiro-que-trabalhou-no-jogo/",
+   "pubDate": "2026-11-27T22:17:52.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2026/11/Michel-Dornes-Teixeira-foi-um-dos-tradutores-de-GTA-6-Foto_-g1_Reproducao-e-Divulgacao-406x228.png",
+   "_tipo": "br"
+  },
+  {
+   "title": "Denis Villeneuve lamenta decisão da Disney de estrear ‘Vingadores: Doutor Destino’ no mesmo dia de ‘Duna 3’",
+   "description": "Ambas as produções estão previstas para chegar aos cinemas em 17 de dezembro\nO post Denis Villeneuve lamenta decisão da Disney de estrear ‘Vingadores: Doutor Destino’ no mesmo dia de ‘Duna 3’ apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/cinema/denis-villeneuve-lamenta-estreia-vingadores-doutor-destino-no-mesmo-dia-de-duna-3/",
+   "pubDate": "2026-11-27T20:09:51.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2026/11/Denis-Villeneuve-lamenta-decisao-da-Disney-de-estrear-Vingadores-Doutor-Destino-no-mesmo-dia-de-Duna-3-406x228.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "‘O Sentido da Vida’, de Ryūsuke Hamaguchi, ganha data de estreia nos cinemas",
+   "description": "Premiado no Festival de Cannes e na 50ª Mostra Internacional de Cinema em São Paulo, longa é o representante do Japão no Oscar\nO post ‘O Sentido da Vida’, de Ryūsuke Hamaguchi, ganha data de estreia nos cinemas apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/cinema/o-sentido-da-vida-ryusuke-hamaguchi-data-de-estreia/",
+   "pubDate": "2026-11-27T19:20:46.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2026/11/O-Sentido-da-Vida-de-Ryusuke-Hamaguchi-ganha-data-de-estreia-nos-cinemas-406x228.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Letrux anuncia turnê comemorativa de 10 anos de Letrux em Noite de Climão para 2027",
+   "description": "A artista faz último show de SadSexySillySongs neste sábado, 28, em São Paulo\nO post Letrux anuncia turnê comemorativa de 10 anos de Letrux em Noite de Climão para 2027 apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/musica/letrux-anuncia-turne-comemorativa-de-10-anos-de-letrux-em-noite-de-climao-para-2027/",
+   "pubDate": "2026-11-27T19:15:56.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2026/11/Felipe-Tellis-e-Letrux-Foto_-Divulgacao-406x228.png",
+   "_tipo": "br"
+  },
+  {
+   "title": "Margot Robbie aparece em ‘As Novas Desventuras de Cliff Booth’, sequência de ‘Era Uma Vez… Em Hollywood’?",
+   "description": "No longa de 2019, Quentin Tarantino reescreveu a história de Sharon Tate, assassinada por integrantes da Família Manson em 1969\nO post Margot Robbie aparece em ‘As Novas Desventuras de Cliff Booth’, sequência de ‘Era Uma Vez… Em Hollywood’? apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/cinema/margot-robbie-aparece-em-as-novas-desventuras-de-cliff-booth/",
+   "pubDate": "2026-11-27T19:03:54.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2026/11/Margot-Robbie-aparece-em-As-Novas-Desventuras-de-Cliff-Booth-sequencia-de-Era-Uma-Vez…-Em-Hollywood-406x228.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Duas músicas brasileiras estão entre as 100 melhores de todos os tempos, segundo a Paste Magazine",
+   "description": "Revista americana coloca “Construção”, de Chico Buarque, na 57ª posição, e “Tudo Que Você Podia Ser”, de Milton Nascimento e Lô Borges, na 69ª\nO post Duas músicas brasileiras estão entre as 100 melhores de todos os tempos, segundo a Paste Magazine apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/musica/duas-musicas-brasileiras-estao-entre-as-100-melhores-de-todos-os-tempos-segundo-a-paste-magazine/",
+   "pubDate": "2026-11-27T18:02:01.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2026/11/chico-milton-lo-1156657623-80369798-reproducao-rolling-stone-406x228.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Courtney Love homenageia ex-namorada de Kurt Cobain, que luta contra um câncer terminal",
+   "description": "Tracy Marander se relacionou com o antigo vocalista do Nirvana entre 1987 e 1990\nO post Courtney Love homenageia ex-namorada de Kurt Cobain, que luta contra um câncer terminal apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/musica/courtney-love-homenageia-ex-namorada-de-kurt-cobain-que-luta-contra-um-cancer-terminal/",
+   "pubDate": "2026-11-27T17:47:47.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2026/04/courtney-love-kurt-cobain-1993-foto-Terry-McGinnis-WireImage-77196649-406x228.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Kate Middleton reflete sobre sua jornada ‘solitária’ contra o câncer em um trecho do documentário ‘Heal’",
+   "description": "\"Isto tornou-se muito mais do que uma experiência pessoal ou solitária, mas sim uma experiência coletiva\"\nO post Kate Middleton reflete sobre sua jornada ‘solitária’ contra o câncer em um trecho do documentário ‘Heal’ apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/cinema/kate-middleton-reflete-sobre-sua-jornada-solitaria-contra-o-cancer-em-um-trecho-do-documentario-heal/",
+   "pubDate": "2026-11-27T17:43:46.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/2026/11/Kate-Middleton-Foto_-Andy-Buchanan-WPA-Pool_Getty-Images-406x228.png",
+   "_tipo": "br"
+  },
+  {
+   "title": "Produtores de ‘Blade Runner’ negociam jogo de grande orçamento da franquia",
+   "description": "Executivos da Alcon Entertainment e produtores de Blade Runner 2099 confirmam conversas sobre um jogo ambientado no universo criado por Ridley Scott, mas ainda não há estúdio, plataformas ou data definidos\nO post Produtores de ‘Blade Runner’ negociam jogo de grande orçamento da franquia apareceu primeiro em Rolling Stone Brasil.",
+   "link": "https://rollingstone.com.br/rs-gaming/produtores-de-blade-runner-negociam-jogo-de-grande-orcamento-da-franquia/",
+   "pubDate": "2026-11-27T17:43:33.000Z",
+   "thumbnail": "https://rollingstone.com.br/wp-content/uploads/harrison_ford_blade_runner_noticia_filme_cinema_reproducao_serie_live-action.jpg",
+   "_tipo": "br"
+  },
+  {
+   "title": "Diogo Nogueira explica \"cantada\" em Patrícia Abravanel: \"Entrei no jogo\"",
+   "description": "Sambista fala da repercussão do momento no \"Programa Silvio Santos\" e diz que não faz sentido ligar a brincadeira aos rumores sobre o casamento da apresentadora",
+   "link": "https://www.vagalume.com.br/news/2026/11/28/diogo-nogueira-explica-cantada-em-patricia-abravanel-entrei-no-jogo.html",
+   "pubDate": "2026-11-28T09:02:15.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58109-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Belo teria instalado uma fechadura eletrônica no próprio quarto para impedir entrada de Rayane",
+   "description": "A informação foi dada por Leo Dias e  fala em suposta chantagem envolvendo um vídeo",
+   "link": "https://www.vagalume.com.br/news/2026/11/28/belo-teria-instalado-uma-fechadura-eletronica-no-proprio-quarto-para-impedir-entrada-de-rayane.html",
+   "pubDate": "2026-11-28T08:50:54.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58108-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Within Temptation anuncia shows no Rio e em SP em 2027 e promete sua maior produção",
+   "description": "Banda holandesa abre pela América Latina a turnê do próximo disco. A venda geral de ingressos começa em 2 de dezembro",
+   "link": "https://www.vagalume.com.br/news/2026/11/27/within-temptation-anuncia-shows-no-rio-e-em-sp-em-2027-e-promete-sua-maior-producao.html",
+   "pubDate": "2026-11-27T18:18:07.000Z",
+   "thumbnail": "",
+   "_tipo": "br"
+  },
+  {
+   "title": "Shakira em Salvador: lotes esgotam no 1º dia e produtora avisa que \"ingressos estão voando\"",
+   "description": "Fever exibe selo de alta procura para o show de 6 de janeiro na Arena Fonte Nova; veja o que ainda resta e quanto custa",
+   "link": "https://www.vagalume.com.br/news/2026/11/27/shakira-em-salvador-lotes-esgotam-no-1-dia-e-produtora-avisa-que-ingressos-estao-voando.html",
+   "pubDate": "2026-11-27T17:11:29.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58106-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Anitta viaja à Índia para gravar documentário do Disney+ sobre fé: \"Me sinto muito curiosa\"",
+   "description": "Cantora começou a gravar projeto sobre autoconhecimento, fé e cultura pelo mundo; é a terceira produção sobre sua vida",
+   "link": "https://www.vagalume.com.br/news/2026/11/27/anitta-viaja-a-india-para-gravar-documentario-do-disney-sobre-fe-me-sinto-muito-curiosa.html",
+   "pubDate": "2026-11-27T12:18:43.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58105-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Ana Castela explica lábio inchado: \"Socorro, me deu alergia\"",
+   "description": "Cantora mostrou o lábio superior inchado nos stories e brincou que agora faz preenchimento labial",
+   "link": "https://www.vagalume.com.br/news/2026/11/27/ana-castela-explica-labio-inchado-socorro-me-deu-alergia.html",
+   "pubDate": "2026-11-27T12:18:20.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58104-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Justin Timberlake celebra 20 anos de \"FutureSex/LoveSounds\" com medley no Jimmy Fallon. Assista!",
+   "description": "No Rainbow Room, em Nova York, o cantor reuniu \"SexyBack\", \"My Love\" e outros sucessos do disco em edição especial do The Tonight Show",
+   "link": "https://www.vagalume.com.br/news/2026/11/27/justin-timberlake-celebra-20-anos-de-futuresex-lovesounds-com-medley-no-jimmy-fallon-assista.html",
+   "pubDate": "2026-11-27T05:07:27.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58099-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Peter Gabriel lança \"oi\", o disco mais longo da carreira. Ouça com letras",
+   "description": "Sucessor de \"i/o\" chega com 13 músicas em duas mixagens diferentes e soma quase três horas de duração",
+   "link": "https://www.vagalume.com.br/news/2026/11/27/peter-gabriel-lanca-oi-o-disco-mais-longo-da-carreira-ouca-com-letras.html",
+   "pubDate": "2026-11-27T05:01:07.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58098-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Gloria Groove abre intimidade e revela que divide conteúdo adulto com o marido",
+   "description": "No podcast Biscoitada, a drag queen contou que troca vídeos picantes com o marido, mas que cada um assiste no seu momento",
+   "link": "https://www.vagalume.com.br/news/2026/11/27/gloria-groove-abre-intimidade-e-revela-que-divide-conteudo-adulto-com-o-marido.html",
+   "pubDate": "2026-11-27T05:00:21.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58097-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Gracyanne Barbosa acusa Belo de abuso psicológico e revela ameaças: \"Posso acabar com você\"",
+   "description": "Em entrevista exibida pela Band, a influenciadora diz que o cantor ameaçava sua carreira durante os 17 anos de relação e após a separação",
+   "link": "https://www.vagalume.com.br/news/2026/11/27/gracyanne-barbosa-acusa-belo-de-abuso-psicologico-e-revela-ameacas-posso-acabar-com-voce.html",
+   "pubDate": "2026-11-27T04:52:41.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58096-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Rolling Stones lançam edição de \"Foreign Tongues\" com faixas inéditas. Ouça com as letras!",
+   "description": "\"Foreign Tongues, Loose Lips\" chega hoje com cinco gravações das sessões do disco, incluindo uma parceria com Courtney Pine e um dueto de Jagger e Richards",
+   "link": "https://www.vagalume.com.br/news/2026/11/27/rolling-stones-lancam-edicao-de-foreign-tongues-com-faixas-ineditas-ouca-com-as-letras.html",
+   "pubDate": "2026-11-27T04:36:37.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58095-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Kanye West lança \"Out of My Mind. Ouça com letra e tradução!",
+   "description": "Com menos de dois minutos, faixa produzida com 1010benja e Che Pope chega meses depois de \"Bully\"",
+   "link": "https://www.vagalume.com.br/news/2026/11/27/kanye-west-lanca-out-of-my-mind-ouca-com-letra-e-traducao.html",
+   "pubDate": "2026-11-27T04:04:42.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58094-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Stray Kids lança \"SUIATSU\", novo mini-álbum japonês. Ouça com todas as letras e traduções!",
+   "description": "O nome do disco significa \"pressão da água\" em japonês. São sete faixas, com duas versões alternativas da música-título",
+   "link": "https://www.vagalume.com.br/news/2026/11/27/stray-kids-lanca-suiatsu-novo-mini-album-japones-ouca-com-todas-as-letras-e-traducoes.html",
+   "pubDate": "2026-11-27T04:03:42.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58093-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Diretor do documentário engavetado de Rihanna crava volta da cantora à música: \"Vai ser um estouro\"",
+   "description": "Peter Berg, que dirigiu a cantora em \"Battleship\" e tem um documentário dela parado na gaveta, diz ter certeza de que a artista vai voltar a lançar música dez anos depois de \"ANTI\".",
+   "link": "https://www.vagalume.com.br/news/2026/11/26/diretor-do-documentario-engavetado-de-rihanna-crava-volta-da-cantora-a-musica-vai-ser-um-estouro.html",
+   "pubDate": "2026-11-26T17:15:09.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58092-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Fim da novela? Christian Chávez diz que briga judicial do RBD acabou",
+   "description": "Ex-integrante afirma que não restam pendências legais da \"Soy Rebelde Tour\", disputa que rachou o grupo e ainda ecoa entre os ex-colegas",
+   "link": "https://www.vagalume.com.br/news/2026/11/26/fim-da-novela-christian-chavez-diz-que-briga-judicial-do-rbd-acabou.html",
+   "pubDate": "2026-11-26T17:12:47.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58091-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Axé Brasil volta ao Mineirão após 13 anos com Ivete e Bell Marques. Veja preços!",
+   "description": "Festival volta a Belo Horizonte em abril de 2027 com Ivete Sangalo, Bell Marques e mais cinco atrações; vendas começaram nesta quinta",
+   "link": "https://www.vagalume.com.br/news/2026/11/26/axe-brasil-volta-ao-mineirao-apos-13-anos-com-ivete-e-bell-marques-veja-precos.html",
+   "pubDate": "2026-11-26T13:48:32.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58090-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Ariana Grande rebate críticas ao corpo no clipe de \"petal\": \"Quando será sobre a arte?\"",
+   "description": "Em podcast, cantora comparou a reação ao vídeo a um episódio de \"Black Mirror\" e garantiu que não mudaria nada",
+   "link": "https://www.vagalume.com.br/news/2026/11/26/ariana-grande-rebate-criticas-ao-corpo-no-clipe-de-petal-quando-sera-sobre-a-arte.html",
+   "pubDate": "2026-11-26T11:58:20.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58089-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Belo teve amante na cadeia? Amiga de Viviane Araújo conta como a atriz ficou sabendo",
+   "description": "Ana Carla Lemos contou no \"Dossiê Celebridades\" que esposas de outros detentos procuraram a atriz para falar do suposto caso do cantor",
+   "link": "https://www.vagalume.com.br/news/2026/11/26/belo-teve-amante-na-cadeia-amiga-de-viviane-araujo-conta-como-a-atriz-ficou-sabendo.html",
+   "pubDate": "2026-11-26T11:56:21.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58088-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Veja o show do intervalo do U2 no jogo da NFL na véspera do Dia de Ação de Graças!",
+   "description": "Banda irlandesa comandou uma bonita performance em Los Angeles com clássicos dos anos 80, homenagem à Dolly Parton e transmissão da Netflix",
+   "link": "https://www.vagalume.com.br/news/2026/11/26/veja-o-show-do-intervalo-do-u2-no-jogo-da-nfl-na-vespera-do-dia-de-acao-de-gracas.html",
+   "pubDate": "2026-11-26T08:34:24.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58087-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Morre Andy Taylor, guitarrista do Duran Duran, aos 65 anos",
+   "description": "Músico tratava um câncer de próstata desde 2018 e morreu em casa, ao lado da família. Banda e esposa prestaram homenagem.",
+   "link": "https://www.vagalume.com.br/news/2026/11/26/morre-andy-taylor-guitarrista-do-duran-duran-aos-65-anos.html",
+   "pubDate": "2026-11-26T08:12:40.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58086-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Ex-advogado de Belo diz que cantor \"passou dos limites\" com sua esposa enquanto estava na prisão",
+   "description": "Alberto Louvera relembrou na Band a noite de 2002 em que decidiu abandonar a defesa do pagodeiro, durante uma visita à delegacia no Rio",
+   "link": "https://www.vagalume.com.br/news/2026/11/26/ex-advogado-de-belo-diz-que-cantor-passou-dos-limites-com-sua-esposa-enquanto-estava-na-prisao.html",
+   "pubDate": "2026-11-26T08:06:51.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58085-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Por que \"Black\", do Pearl Jam, nunca ganhou lançamento como single?",
+   "description": "Lançada no álbum de estreia \"Ten\" em 1991, a balada virou um dos maiores clássicos do grunge mesmo sem single comercial e sem clipe, por decisão da própria banda",
+   "link": "https://www.vagalume.com.br/news/2026/11/26/por-que-black-do-pearl-jam-nunca-ganhou-lancamento-como-single.html",
+   "pubDate": "2026-11-26T03:00:00.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58069-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Vini Jr. aprova música de Simaria sobre fim de namoro, e fãs veem recado para Virginia",
+   "description": "Cantora mostrou o atacante cantando \"Tô Bem\", faixa sobre seguir em frente após um término, e seguidores ligaram a letra ao fim do namoro com a influenciadora",
+   "link": "https://www.vagalume.com.br/news/2026/11/25/vini-jr-aprova-musica-de-simaria-sobre-fim-de-namoro-e-fas-veem-recado-para-virginia.html",
+   "pubDate": "2026-11-26T02:35:28.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58084-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Black Eyed Peas fará show gratuito em SP; entenda como conseguir ingressos",
+   "description": "Festival Nu RockCorps, em 17 de abril de 2027, terá também João Gomes; entrada só para clientes do Nubank",
+   "link": "https://www.vagalume.com.br/news/2026/11/25/black-eyed-peas-fara-show-gratuito-em-sp-entenda-como-conseguir-ingressos.html",
+   "pubDate": "2026-11-26T02:18:28.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58083-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Roberto Carlos adia show em Porto Alegre por causa das chuvas; saiba o que fazer com o ingresso",
+   "description": "Show na capital gaúcha passa de dezembro para junho de 2027, e apresentação em Criciúma também muda de data",
+   "link": "https://www.vagalume.com.br/news/2026/11/25/roberto-carlos-adia-show-em-porto-alegre-por-causa-das-chuvas-saiba-o-que-fazer-com-o-ingresso.html",
+   "pubDate": "2026-11-25T18:55:19.000Z",
+   "thumbnail": "https://www.vagalume.com.br/dynimage/news58079-big.webp",
+   "_tipo": "br"
+  },
+  {
+   "title": "Olivia Rodrigo Delivers Another Christmas Song",
+   "description": "Listen to “Miss This Christmas”",
+   "link": "https://pitchfork.com/story/olivia-rodrigo-delivers-another-christmas-song/",
+   "pubDate": "2026-11-27T16:47:24.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6b09b2b2114076789c0bb78f/master/pass/Olivia%20Rodrigo%20-%20miss%20this%20christmas%20-%20AMO%20Art.png",
+   "_tipo": "int"
+  },
+  {
+   "title": "The Killers’ Dave Keuning Survived a “Major Stroke” This Month",
+   "description": "The group’s co-founding guitarist says doctors gave him a “40% chance of survival”",
+   "link": "https://pitchfork.com/story/the-killers-dave-keuning-survived-a-major-stroke-this-month/",
+   "pubDate": "2026-11-27T15:58:32.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6b09a81b08af8f45c0997288/master/pass/killers-dave-keunig-stroke.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Pz’ Recruits Don Toliver for New Song “Subliminals”",
+   "description": "The Georgia model-turned-rapper seals a big year off the back of No Turning Back",
+   "link": "https://pitchfork.com/story/pz-recruits-don-toliver-for-new-song-subliminals/",
+   "pubDate": "2026-11-27T15:08:48.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6b099bd2c27b6bf7f70b8b94/master/pass/pz-don-toliver.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Watch Wu-Tang Clan Perform the 2026 NFL Thanksgiving Day Halftime Show",
+   "description": "The New York group took the stage in Detroit for the Bears vs. Lions football game",
+   "link": "https://pitchfork.com/story/watch-wu-tang-clan-perform-the-nfl-thanksgiving-day-halftime-show/",
+   "pubDate": "2026-11-26T20:19:29.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6b0893231870e4024bc0d352/master/pass/GettyImages-2307026484.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "PUP Compose New Music for Sample Pack Benefitting Kids in Toronto",
+   "description": "Proceeds from the eight new songs will go to Community Music Schools of Toronto",
+   "link": "https://pitchfork.com/story/pup-compose-new-music-for-sample-pack-benefitting-kids-in-toronto/",
+   "pubDate": "2026-11-26T17:57:07.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6b0871b197681df23b6bd690/master/pass/pup-sample-pack.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "King Crimson Co-Founder Michael Giles Dies at 84",
+   "description": "The drummer played an essential role in the recording of In the Court of the Crimson King",
+   "link": "https://pitchfork.com/story/king-crimson-co-founder-michael-giles-dies-at-84/",
+   "pubDate": "2026-11-25T23:52:08.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6b0843a997681df23b6bd68a/master/pass/michael-giles-king-crimson.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Duran Duran’s Andy Taylor Dies at 65",
+   "description": "The guitarist was diagnosed with prostate cancer in 2018",
+   "link": "https://pitchfork.com/story/duran-durans-andy-taylor-dies-at-65/",
+   "pubDate": "2026-11-25T22:25:46.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6b075e3a6adc3ee0200d3c71/master/pass/GettyImages-621400816.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Bradford Cox Reveals Autism Diagnosis",
+   "description": "“I didn’t understand that I was unable to stop talking, that I was in this neurodivergent state”",
+   "link": "https://pitchfork.com/story/bradford-cox-reveals-autism-diagnosis/",
+   "pubDate": "2026-11-25T19:17:29.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6b0761cd078c961cfeb35533/master/pass/AS_Faulkner_Visit_CREDDIT_JAVIER_MORALES.JPG",
+   "_tipo": "int"
+  },
+  {
+   "title": "Erykah Badu Does “Breezy,” Salutes Elton John on Fallon",
+   "description": "Her rendition of the Alchemist-assisted single interpolated “Bennie and the Jets”",
+   "link": "https://pitchfork.com/story/erykah-badu-does-breezy-salutes-elton-john-on-fallon/",
+   "pubDate": "2026-11-25T13:15:56.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6b06deb5efeade4df721e4b2/master/pass/erykah-badu-fallon.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Ninajirachi Drops I Love My Computer Remix Album",
+   "description": "Wet Leg, Mallrat, Genesis Owusu, and more lend their hands to I Love My Computer, All My Friends Are Inside It",
+   "link": "https://pitchfork.com/story/ninajirachi-drops-i-love-my-computer-remix-album/",
+   "pubDate": "2026-11-24T23:06:25.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6b05db940ac6d3e6209ab0bd/master/pass/Ninajirachi%20by%20Tom%20Vanderzeil%20%5BLead%5D%20(1).jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Tidal Bans AI Songs",
+   "description": "In a first-of-its-kind move, the platform plans to delete some 29 million songs it deems wholly AI-generated",
+   "link": "https://pitchfork.com/story/tidal-bans-ai-songs/",
+   "pubDate": "2026-11-24T18:25:59.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6b05d609559c52365e387e89/master/pass/GettyImages-1825442023.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "U2 Plot North American Stadium Tour",
+   "description": "The War on Drugs support the West Coast and Southern dates, with Stephen Wilson Jr. on the East Coast",
+   "link": "https://pitchfork.com/story/u2-plot-north-american-stadium-tour/",
+   "pubDate": "2026-11-24T15:44:52.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6b05afe1e101ab5f5d5d8234/master/pass/u2-tour.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Wilco Expand 2027 Tour With U.S. Dates",
+   "description": "The Wilcoworld Tour includes a five-night residency at the San Francisco Fillmore",
+   "link": "https://pitchfork.com/story/wilco-expand-2027-tour-with-us-dates/",
+   "pubDate": "2026-11-24T15:02:40.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6b058f98e101ab5f5d5d7a52/master/pass/Wilco-tour.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Adéla Announces 2027 World Tour",
+   "description": "It runs nearly every single night from January to April",
+   "link": "https://pitchfork.com/story/adela-announces-2027-world-tour/",
+   "pubDate": "2026-11-23T21:23:36.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6b04a297531acf09e4003c09/master/pass/unnamed%20-%202026-11-23T133036.535.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Hear Clairo Cover MF Doom With El Michels Affair",
+   "description": "Leon Michels & co. enlisted the singer-songwriter to recreate the hook on 2002’s “Lavender Buds”",
+   "link": "https://pitchfork.com/story/hear-clairo-cover-mf-doom-with-el-michels-affair/",
+   "pubDate": "2026-11-23T19:03:40.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6b047d91ef0d5f3b21696a50/master/pass/Clairo-MF-Doom.jpeg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Phoebe Bridgers Sets More Planetarium Listening Parties for Lost Weekend",
+   "description": "Stargazers of North America, Europe, and Australasia, unite",
+   "link": "https://pitchfork.com/story/phoebe-bridgers-sets-more-planetarium-listening-parties-for-lost-weekend/",
+   "pubDate": "2026-11-23T18:07:57.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6b0480a03d08ab0a4b79fc4a/master/pass/phoebe-bridgers-planetariums.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "D’Angelo, Belle and Sebastian, and More: This Week’s Pitchfork Selects Playlist",
+   "description": "Our weekly playlist highlights songs that our writers, editors, and contributors are listening to on repeat",
+   "link": "https://pitchfork.com/story/dangelo-belle-and-sebastian-and-more-this-weeks-pitchfork-selects-playlist/",
+   "pubDate": "2026-11-23T17:50:53.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6b0469f63d08ab0a4b79fbd6/master/pass/P4K26-1123_Selects_2x1.gif",
+   "_tipo": "int"
+  },
+  {
+   "title": "Travis Scott, Slayyyter, the Dare Feature on Deluxe GTA VI Soundtrack",
+   "description": "The new version features 23 more songs, including contributions from Overmono and 21 Savage",
+   "link": "https://pitchfork.com/story/travis-scott-slayyyter-the-dare-feature-on-deluxe-gta-vi-soundtrack/",
+   "pubDate": "2026-11-23T16:54:39.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6b0469f73d08ab0a4b79fbdc/master/pass/Travis-Scott-Slayyyter-the-Dare.jpeg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Portishead Reportedly Pull Music From Israeli Streaming Services",
+   "description": "The band, long aligned with the Palestinian cause, has not commented on the removal",
+   "link": "https://pitchfork.com/story/portishead-reportedly-pull-music-from-israeli-streaming-services/",
+   "pubDate": "2026-11-23T16:00:53.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6b0460843cdd8f70b4c87c01/master/pass/portishead-israel.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Listen to D’Angelo’s Posthumous Song “Kamikazi”",
+   "description": "The previously unreleased track surfaced in Grand Theft Auto VI’s Worldwide FM radio station",
+   "link": "https://pitchfork.com/story/listen-to-dangelos-posthumous-song-kamikazi/",
+   "pubDate": "2026-11-23T15:02:19.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/67b34a61b0f42d44492ac0c0/master/pass/d'angelo%20roots%20picnic%202025%20headlienrs.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Don Toliver Concert Evacuated After Airborne Substance Released Into Crowd",
+   "description": "Fans were reportedly “screaming” and “coughing up blood” at UK arena Co-Op Live",
+   "link": "https://pitchfork.com/story/don-toliver-concert-evacuated-after-airborne-substance-released-into-crowd/",
+   "pubDate": "2026-11-23T12:48:14.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6b04343dbdb0d58bfb7a7d48/master/pass/don-toliver-concert-substance-evacuation.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Nirosta Steel Shares Alternate Versions of My Skyscraper Tracks",
+   "description": "“Grey Boy” and “Boss Trix” now have “Boss Mix” editions",
+   "link": "https://pitchfork.com/story/nirosta-steel-shares-alternate-versions-of-my-skyscraper-tracks/",
+   "pubDate": "2026-11-23T05:03:35.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6b030e5639ce6f10dcf5b5e0/master/pass/17.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Grimes Releases Two New Psy Opera Songs",
+   "description": "“Killing God With Computers” and the A.I.-assisted “Deepseek” both appear on Psy Opera",
+   "link": "https://pitchfork.com/story/listen-to-two-new-grimes-songs/",
+   "pubDate": "2026-11-20T18:11:09.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6b008b2c40d468bfa5dcac08/master/pass/grimes-songs.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Lana Del Rey’s “Crazy for You” Gets Official Release for GTA VI",
+   "description": "The keenly awaited loosie has found a home on the blockbuster game’s soundtrack",
+   "link": "https://pitchfork.com/story/lana-del-reys-crazy-for-you-gets-official-release-for-gta-vi/",
+   "pubDate": "2026-11-20T15:42:36.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6b006a18cf9176131d6d997d/master/pass/lana-del-rey-gta-vi-crazy-for-you.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "5 New Albums You Should Listen to Now: Atlas Sound, Toro y Moi, and More",
+   "description": "Stream new releases from Atlas Sound, Toro y Moi, and Lorenzo Senni",
+   "link": "https://pitchfork.com/story/5-new-albums-you-should-listen-to-now-atlas-sound-toro-y-moi-and-more/",
+   "pubDate": "2026-11-20T14:53:41.000Z",
+   "thumbnail": "https://media.pitchfork.com/photos/6b005e883a31102026cc1a82/master/pass/218d258c-b21a-4910-88d1-cdf890c692cd.jpeg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Watch Goo Goo Dolls’ Complete NFL Halftime Show",
+   "description": "The band performed \"Iris,\" \"Broadway,\" and \"Slide\" during the Kansas City Chiefs vs. Buffalo Bills game as the broadcast was cut by NBC",
+   "link": "https://www.rollingstone.com/music/music-news/goo-goo-dolls-complete-nfl-halftime-show-iris-slide-1235665349/",
+   "pubDate": "2026-11-27T19:58:36.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "The Killers Dave Keuning Reveals He Suffered ‘Major Stroke’: ‘I Am Alive and Well’",
+   "description": "\"The doctors said I had a 40% chance or survival and I would have disabilities after, but by some miracle I am fine\"",
+   "link": "https://www.rollingstone.com/music/music-news/the-killers-dave-keuning-major-stroke-recovery-1235665233/",
+   "pubDate": "2026-11-27T16:19:42.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "Former Buzzcocks Drummer Phil Barker Dead at 65",
+   "description": "The musician performed in the British punk rock band for 14 years and recorded on five of their albums",
+   "link": "https://www.rollingstone.com/music/music-news/phil-barker-buzzcocks-drummer-obituary-1235665168/",
+   "pubDate": "2026-11-27T15:30:13.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "Watch ‘Sesame Street’ Pay Homage to Mariah Carey’s ‘All I Want for Christmas Is You’",
+   "description": "This year the characters need the letter \"U\" to help the holidays stay festive and bright",
+   "link": "https://www.rollingstone.com/music/music-news/sesame-street-mariah-carey-christmas-song-homage-1235665152/",
+   "pubDate": "2026-11-27T14:57:04.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "Watch Justin Timberlake Reluctantly Sing Backstreet Boys on ‘Fallon’: ‘This is Sacrilegious’",
+   "description": "The pop star took over The Tonight Show on Thanksgiving with an interview, performances, and sketches",
+   "link": "https://www.rollingstone.com/music/music-news/justin-timberlake-upcoming-doc-series-interview-fallon-1235665140/",
+   "pubDate": "2026-11-27T14:33:39.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "Olivia Rodrigo Drops Official Version of Melancholy ‘Miss This Christmas’ on Amazon Music",
+   "description": "Earlier this week, the singer debuted the piano ballad at a Nashville concert",
+   "link": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-miss-this-christmas-amazon-music-1235664984/",
+   "pubDate": "2026-11-27T05:02:00.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "Watch Wu-Tang Clan Perform ‘Triumph,’ ‘Bring Da Ruckus’ at NFL Thanksgiving Halftime Show",
+   "description": "The New York hip-hop group were joined by Red Hot Chili Peppers' Chad Smith on drums",
+   "link": "https://www.rollingstone.com/music/music-news/wu-tang-clan-nfl-thanksgiving-game-halftime-show-1235664856/",
+   "pubDate": "2026-11-26T20:21:52.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "Snoop Dogg Teams Up With Feid for Thanksgiving Single ‘Gracias x Todo’",
+   "description": "The musicians recently previewed the track during a performance at the Latin Grammy Awards",
+   "link": "https://www.rollingstone.com/music/music-news/snoop-dogg-feid-gracias-x-todo-single-thanksgiving-1235664907/",
+   "pubDate": "2026-11-26T17:40:02.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "U2 Perform Dolly Parton’s Final Recording During NFL Halftime Show",
+   "description": "The band delivered the moving Parton and Bono duet, \"Torn,\" during Wednesday night's performance",
+   "link": "https://www.rollingstone.com/music/music-news/u2-tribute-dolly-parton-torn-thanksgiving-nfl-halftime-show-1235664834/",
+   "pubDate": "2026-11-26T05:15:21.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "Ariana Grande Says Reaction to ‘Petal’ Video Felt Like ‘Black Mirror’",
+   "description": "\"I wouldn't change a thing,\" Grande said of the video. \"I would put it out again today, exactly as is\"",
+   "link": "https://www.rollingstone.com/music/music-news/ariana-grande-petal-video-reaction-black-mirror-1235664830/",
+   "pubDate": "2026-11-26T04:13:01.000Z",
+   "thumbnail": "",
+   "_tipo": "int"
+  },
+  {
+   "title": "Former Buzzcocks drummer Phil Barker dies aged 61",
+   "description": "The musician, who played with the Manchester punk band from 1992 to 2006, had been diagnosed with prostate cancer five years ago\nThe post Former Buzzcocks drummer Phil Barker dies aged 61 appeared first on NME.",
+   "link": "https://www.nme.com/news/music/former-buzzcocks-drummer-phil-barker-dies-aged-61-3977188",
+   "pubDate": "2026-11-28T09:32:06.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2026/11/buzzcocks_phil_barker.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "“Small group of organised criminals” sought over Don Toliver show evacuation at Manchester’s Co-op Live",
+   "description": "Police are looking to contact more than 100 concertgoers and are investigating similar incidents at two of the rapper’s European shows\nThe post “Small group of organised criminals” sought over Don Toliver show evacuation at Manchester’s Co-op Live appeared first on NME.",
+   "link": "https://www.nme.com/news/music/small-group-organised-criminals-don-toliver-evacuation-manchesters-co-op-live-3977184",
+   "pubDate": "2026-11-28T08:36:57.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2026/11/don_toliver_live-1.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Mastodon follow Grammy nomination and ‘GTA 6’ appearance with first UK and European tour in eight years",
+   "description": "Tickets are on sale now \nThe post Mastodon follow Grammy nomination and ‘GTA 6’ appearance with first UK and European tour in eight years appeared first on NME.",
+   "link": "https://www.nme.com/news/music/mastodon-announce-first-uk-and-european-tour-in-eight-years-buy-tickets-3977154",
+   "pubDate": "2026-11-27T17:24:07.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2026/07/Mastodon-live-2026.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Heartworms explores “time, escape, limitlessness, self-reflection and rebirth” on “spiritual” new single ‘The Window’",
+   "description": "The musician recently told NME that she'd \"finished recording\" her second album\nThe post Heartworms explores “time, escape, limitlessness, self-reflection and rebirth” on “spiritual” new single ‘The Window’ appeared first on NME.",
+   "link": "https://www.nme.com/news/music/heartworms-releases-spiritual-new-single-the-window-listen-3977140",
+   "pubDate": "2026-11-27T16:18:32.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2026/11/HeartwormsnewsingleTheWindow-news-story.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "The Killers’ Dave Keuning speaks out after surviving a life-threatening stroke",
+   "description": "\"By some miracle I am fine\"\nThe post The Killers’ Dave Keuning speaks out after surviving a life-threatening stroke appeared first on NME.",
+   "link": "https://www.nme.com/news/music/the-killers-dave-keuning-speaks-out-after-surviving-a-life-threatening-stroke-3977135",
+   "pubDate": "2026-11-27T15:32:53.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2022/10/Dave-Keuning-Chris-Phelps.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Watch Cage The Elephant’s stripped-back cover of Fontaines D.C. and Rosalía’s ‘Where Is Gone?’",
+   "description": "The US band's next album, 'Dying In Reverse', arrives early next year\nThe post Watch Cage The Elephant’s stripped-back cover of Fontaines D.C. and Rosalía’s ‘Where Is Gone?’ appeared first on NME.",
+   "link": "https://www.nme.com/news/music/watch-cage-the-elephants-stripped-back-cover-of-fontaines-d-c-and-rosalias-where-is-gone-3977128",
+   "pubDate": "2026-11-27T14:49:09.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2026/07/live-cage-the-elephant-1.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Echo & The Bunnymen and Happy Mondays announce joint 2027 UK ‘greatest hits’ tour",
+   "description": "Dates include a stop at London’s O2 Brixton Academy and two shows in Edinburgh\nThe post Echo & The Bunnymen and Happy Mondays announce joint 2027 UK ‘greatest hits’ tour appeared first on NME.",
+   "link": "https://www.nme.com/news/music/echo-the-bunnymen-happy-mondays-announce-joint-2027-uk-greatest-hits-tour-3977113",
+   "pubDate": "2026-11-27T12:30:21.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2026/11/echo-bunnymen-happy-mondays@2000x1270.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Lana Del Rey shares Thanksgiving update on incoming new albums: “It feels meant to be – it makes me wonder where I would even go after this”",
+   "description": "She also said she was \"close to wrapping up, although they did take so many unexpected turns over the years”\nThe post Lana Del Rey shares Thanksgiving update on incoming new albums: “It feels meant to be – it makes me wonder where I would even go after this” appeared first on NME.",
+   "link": "https://www.nme.com/news/music/lana-del-rey-shares-thanksgiving-update-on-incoming-new-albums-it-feels-meant-to-be-it-makes-me-wonder-where-i-would-even-go-after-this-3977104",
+   "pubDate": "2026-11-27T11:58:34.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2024/08/Reading24_NME_AFORD_LANADELREY-629943.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Billy from ‘School Of Rock’ is a country musician now – and Jack Black is on his new EP",
+   "description": "Brian Falduto has been releasing music since 2020\nThe post Billy from ‘School Of Rock’ is a country musician now – and Jack Black is on his new EP appeared first on NME.",
+   "link": "https://www.nme.com/news/film/school-of-rock-brian-falduto-jack-black-reunion-gay-country-music-3977105",
+   "pubDate": "2026-11-27T11:57:23.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2026/11/Brian-Falduto-2024.jpg",
+   "_tipo": "int"
+  },
+  {
+   "title": "Courtney Love pays tribute to Kurt Cobain’s ex-girlfriend and “unsung hero of Nirvana” Tracy Marander as she battles terminal cancer",
+   "description": "“She gave Kurt a home and all the space in the world to make music. She believed in him before he believed in himself”\nThe post Courtney Love pays tribute to Kurt Cobain’s ex-girlfriend and “unsung hero of Nirvana” Tracy Marander as she battles terminal cancer appeared first on NME.",
+   "link": "https://www.nme.com/news/music/courtney-love-pays-tribute-to-kurt-cobains-ex-girlfriend-and-unsung-hero-of-nirvana-tracy-marander-as-she-battles-terminal-cancer-3977093",
+   "pubDate": "2026-11-27T11:08:12.000Z",
+   "thumbnail": "https://www.nme.com/wp-content/uploads/2026/11/courtney-love@2000x1270.jpg",
+   "_tipo": "int"
+  }
+ ]
+}
